@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#0f172a"/>
+  <rect x="0" y="420" width="512" height="30" fill="#fcd116"/>
+  <rect x="0" y="450" width="512" height="18" fill="#3b82f6"/>
+  <rect x="0" y="468" width="512" height="44" fill="#ef4444"/>
+  <text x="256" y="250" font-family="Arial Black,Arial,sans-serif" font-size="200" font-weight="900" text-anchor="middle" fill="#fcd116">48</text>
+  <text x="256" y="360" font-family="Arial Black,Arial,sans-serif" font-size="92" font-weight="900" text-anchor="middle" fill="#e8eefc">OPS</text>
+</svg>

@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Caso 48 OPS</title>
+<meta name="description" content="Seguimiento ciudadano a la denuncia del Dapre sobre 48 contratos OPS en la Presidencia (2022-2026). Lo dicho, lo respondido y lo que falta probar.">
+<meta name="theme-color" content="#0f172a">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0f172a;--bg2:#111c35;--card:#16223f;--line:#24345c;
+  --tx:#e8eefc;--mut:#9fb0d4;--am:#fcd116;--az:#3b82f6;--rj:#ef4444;--vd:#22c55e;--li:#a78bfa;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--tx);font-family:Inter,system-ui,sans-serif;line-height:1.5;overflow-x:hidden}
+a{color:var(--am)}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+
+/* barra superior */
+.top{position:sticky;top:0;z-index:20;background:rgba(15,23,42,.88);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:56px}
+.logo{font-family:'Archivo Black',sans-serif;font-size:18px;letter-spacing:.5px}
+.logo b{color:var(--am)}
+.vivo{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--mut);margin-left:auto}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--rj);box-shadow:0 0 0 0 rgba(239,68,68,.7);animation:pulse 1.6s infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 10px rgba(239,68,68,0)}100%{box-shadow:0 0 0 0 rgba(239,68,68,0)}}
+.btn{border:0;cursor:pointer;font:600 13px Inter;padding:9px 13px;border-radius:999px;background:var(--am);color:#111;display:flex;gap:6px;align-items:center}
+.btn.spin svg{animation:rot 1s linear infinite}
+@keyframes rot{to{transform:rotate(360deg)}}
+
+/* cinta */
+.ticker{overflow:hidden;white-space:nowrap;background:linear-gradient(90deg,var(--am),#f59e0b);color:#111;font-weight:800;font-size:13px}
+.ticker span{display:inline-block;padding:7px 0;animation:tk 38s linear infinite}
+@keyframes tk{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* portada */
+.hero{padding:34px 0 18px;position:relative}
+.hero:before{content:"";position:absolute;inset:-60px -40% auto;height:340px;background:radial-gradient(circle at 30% 30%,rgba(59,130,246,.35),transparent 60%),radial-gradient(circle at 75% 20%,rgba(252,209,22,.18),transparent 55%);z-index:-1;animation:flota 9s ease-in-out infinite alternate}
+@keyframes flota{to{transform:translateY(24px) scale(1.06)}}
+.tag{display:inline-block;font-size:12px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--am);border:1px solid rgba(252,209,22,.4);border-radius:999px;padding:4px 10px}
+h1{font-family:'Archivo Black',sans-serif;font-size:clamp(30px,8vw,52px);line-height:1.05;margin:12px 0}
+h1 em{font-style:normal;color:var(--am)}
+.sub{color:var(--mut);font-size:16px;max-width:640px}
+.dia{margin-top:16px;display:inline-flex;gap:10px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 14px;font-size:14px}
+.dia b{font-family:'Archivo Black';font-size:22px;color:var(--am)}
+
+/* cifras */
+.cifras{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:22px 0}
+@media(min-width:640px){.cifras{grid-template-columns:repeat(4,1fr)}}
+.cifra{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;position:relative;overflow:hidden;transition:transform .25s}
+.cifra:hover{transform:translateY(-4px)}
+.cifra:after{content:"";position:absolute;left:0;bottom:0;height:3px;width:100%;background:var(--c,var(--am));transform-origin:left;animation:barra 1.6s ease-out}
+@keyframes barra{from{transform:scaleX(0)}}
+.cifra .n{font-family:'Archivo Black';font-size:28px;color:var(--c,var(--am))}
+.cifra .l{font-size:13px;color:var(--mut)}
+.cifra .f{font-size:11px;color:var(--mut);opacity:.75;margin-top:4px}
+
+/* secciones */
+section{padding:26px 0;border-top:1px solid var(--line)}
+h2{font-family:'Archivo Black';font-size:22px;margin-bottom:12px;display:flex;align-items:center;gap:10px}
+h2 .ico{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;background:var(--card);border:1px solid var(--line);font-size:17px}
+.reveal{opacity:0;transform:translateY(22px);transition:all .6s ease}
+.reveal.ok{opacity:1;transform:none}
+
+/* hoy */
+.hoybox{background:linear-gradient(135deg,#1d2b52,#16223f);border:1px solid var(--line);border-radius:18px;padding:16px}
+.hoyhead{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:13px;color:var(--mut);margin-bottom:10px}
+.hoyhead b{color:var(--tx)}
+
+/* tres columnas */
+.tri{display:grid;gap:12px}
+@media(min-width:720px){.tri{grid-template-columns:repeat(3,1fr)}}
+.col{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;border-top:4px solid var(--c)}
+.col h3{font-size:15px;margin-bottom:8px;color:var(--c)}
+.col li{font-size:14px;margin:0 0 8px 18px}
+
+/* línea de tiempo */
+.tl{position:relative;padding-left:22px}
+.tl:before{content:"";position:absolute;left:7px;top:4px;bottom:4px;width:2px;background:linear-gradient(var(--am),var(--az))}
+.ev{position:relative;margin-bottom:16px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px}
+.ev:before{content:"";position:absolute;left:-21px;top:16px;width:12px;height:12px;border-radius:50%;background:var(--am);border:3px solid var(--bg)}
+.ev .fe{font-size:12px;font-weight:800;color:var(--am);text-transform:uppercase;letter-spacing:.5px}
+.ev p{font-size:14px;margin-top:4px}
+
+/* acordeón OPS */
+details{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-bottom:10px;overflow:hidden}
+summary{cursor:pointer;padding:14px;font-weight:700;list-style:none;display:flex;justify-content:space-between}
+summary:after{content:"+";color:var(--am);font-size:20px;line-height:1;transition:transform .2s}
+details[open] summary:after{transform:rotate(45deg)}
+details div{padding:0 14px 14px;font-size:14px;color:#d5def3}
+
+/* ruta */
+.ruta{display:grid;gap:10px}
+@media(min-width:640px){.ruta{grid-template-columns:repeat(2,1fr)}}
+.paso{display:flex;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px}
+.paso .k{flex:none;width:36px;height:36px;border-radius:50%;background:var(--az);display:grid;place-items:center;font-weight:800}
+.paso b{display:block;font-size:14px}
+.paso span{font-size:13px;color:var(--mut)}
+
+/* noticias */
+.buscar{display:flex;gap:8px;margin-bottom:12px}
+.buscar input{flex:1;min-width:0;background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:12px;padding:11px 12px;font:15px Inter}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.chip{border:1px solid var(--line);background:transparent;color:var(--mut);padding:6px 11px;border-radius:999px;font:600 12px Inter;cursor:pointer}
+.chip.on{background:var(--am);color:#111;border-color:var(--am)}
+.nota{display:block;text-decoration:none;color:var(--tx);background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:9px;transition:transform .2s,border-color .2s;animation:entra .45s ease both}
+.nota:hover{transform:translateX(4px);border-color:var(--am)}
+@keyframes entra{from{opacity:0;transform:translateY(10px)}}
+.nota .t{font-weight:700;font-size:15px}
+.nota .m{font-size:12px;color:var(--mut);margin-top:4px;display:flex;gap:8px;flex-wrap:wrap}
+.nueva{background:var(--rj);color:#fff;font-weight:800;font-size:10px;border-radius:6px;padding:1px 6px}
+.vacio{color:var(--mut);font-size:14px;padding:10px 0}
+.estado{font-size:12px;color:var(--mut);margin-bottom:10px}
+
+/* aviso */
+.aviso{background:rgba(167,139,250,.1);border:1px solid rgba(167,139,250,.4);border-radius:16px;padding:14px;font-size:14px}
+.aviso b{color:var(--li)}
+footer{padding:30px 0 50px;color:var(--mut);font-size:12px;text-align:center;border-top:1px solid var(--line)}
+footer b{color:var(--am)}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(120px);background:var(--am);color:#111;font-weight:700;padding:10px 16px;border-radius:999px;transition:transform .35s;z-index:50;font-size:14px}
+.toast.ver{transform:translateX(-50%) translateY(0)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="logo">CASO <b>48</b> OPS</div>
+    <div class="vivo"><span class="dot"></span><span id="hora">--:--</span></div>
+    <button class="btn" id="actualizar" aria-label="Actualizar noticias">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 12a9 9 0 1 1-3-6.7L21 8"/><path d="M21 3v5h-5"/></svg>
+      Actualizar
+    </button>
+  </div>
+</header>
+
+<div class="ticker"><span id="cinta">Cargando lo último del caso…</span></div>
+
+<main class="wrap">
+
+  <div class="hero">
+    <span class="tag">Seguimiento ciudadano · Vibras Positivas HM</span>
+    <h1>¿Contratos públicos para <em>otra cosa</em>?</h1>
+    <p class="sub">El 21 de octubre de 2026 el director del Dapre, Carlos Ríos, dijo en el Senado que 48 mujeres habrían sido vinculadas con contratos de prestación de servicios (OPS) durante el gobierno Petro sin cumplir funciones públicas. La defensa de Petro lo niega. Aquí seguimos qué se prueba y qué no.</p>
+    <div class="dia">Día <b id="ndia">1</b> del caso desde la denuncia en el Senado</div>
+  </div>
+
+  <div class="cifras">
+    <div class="cifra" style="--c:var(--am)"><div class="n" data-n="48">0</div><div class="l">mujeres mencionadas</div><div class="f">Según el director del Dapre</div></div>
+    <div class="cifra" style="--c:var(--az)"><div class="n" data-n="4">0</div><div class="l">rindiendo testimonio</div><div class="f">Según Blu Radio</div></div>
+    <div class="cifra" style="--c:var(--vd)"><div class="n" data-txt="$3–4 M">$0</div><div class="l">pago mensual por contrato</div><div class="f">Cifra reportada, no oficial</div></div>
+    <div class="cifra" style="--c:var(--rj)"><div class="n" data-txt="≈$2.000 M">$0</div><div class="l">al año en esos contratos</div><div class="f">Estimado reportado, no verificado</div></div>
+  </div>
+
+  <!-- HOY -->
+  <section id="hoy" class="reveal">
+    <h2><span class="ico">☀️</span>Hoy</h2>
+    <div class="hoybox">
+      <div class="hoyhead"><span id="hoyfecha">—</span><span>Revisado: <b id="hoyrev">—</b></span></div>
+      <div id="hoylista"><div class="vacio">Buscando lo de hoy…</div></div>
+    </div>
+  </section>
+
+  <!-- LO DICHO / RESPONDIDO / LO QUE FALTA -->
+  <section class="reveal">
+    <h2><span class="ico">⚖️</span>Las dos versiones</h2>
+    <div class="tri">
+      <div class="col" style="--c:var(--rj)">
+        <h3>Lo que denuncia el Dapre</h3>
+        <ul>
+          <li>Carlos Ríos (director del Dapre) dijo que 48 mujeres fueron "instrumentalizadas a punta de OPS".</li>
+          <li>Según su versión, los contratos servían para tenerlas cerca del entonces presidente, no para trabajar.</li>
+          <li>Anunció que él mismo pondrá la denuncia ante la Justicia.</li>
+          <li>Medios reportan contratos sobre todo de 2022 y 2023, en Presidencia, MinInterior, MinTrabajo y Prosperidad Social.</li>
+        </ul>
+      </div>
+      <div class="col" style="--c:var(--az)">
+        <h3>Lo que responde la defensa</h3>
+        <ul>
+          <li>Petro rechazó las acusaciones.</li>
+          <li>Su abogado, Alejandro Carranza, las calificó de falsas y absurdas.</li>
+          <li>La defensa ya había denunciado a Angie Rodríguez (exdirectora del Dapre) por injuria y calumnia, por otras afirmaciones sobre la vida privada del expresidente.</li>
+        </ul>
+      </div>
+      <div class="col" style="--c:var(--li)">
+        <h3>Lo que aún no se sabe</h3>
+        <ul>
+          <li>No se han revelado nombres ni pruebas públicas.</li>
+          <li>No hay confirmación pública de que la denuncia ya esté radicada.</li>
+          <li>No se sabe quién firmó ni supervisó esos contratos.</li>
+          <li>Ninguna autoridad ha abierto ni cerrado nada todavía, que se sepa.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- LÍNEA DE TIEMPO -->
+  <section class="reveal">
+    <h2><span class="ico">🕒</span>Cómo va</h2>
+    <div class="tl" id="tl">
+      <div class="ev"><div class="fe">Jul 2026</div><p>Angie Rodríguez, exdirectora del Dapre, denuncia a Petro ante la Comisión de Acusación por varios delitos y empieza una serie de señalamientos sobre cómo funcionaba la Casa de Nariño.</p></div>
+      <div class="ev"><div class="fe">21 oct 2026 · mañana</div><p>El abogado de Petro radica en la Fiscalía denuncia contra Angie Rodríguez por injuria, calumnia y otros delitos.</p></div>
+      <div class="ev"><div class="fe">21 oct 2026 · tarde</div><p>En debate de control político en la Comisión Segunda del Senado, el director del Dapre, Carlos Ríos, habla de las 48 mujeres y las OPS y anuncia denuncias.</p></div>
+      <div class="ev"><div class="fe">22 oct 2026</div><p>Petro y su abogado rechazan la acusación. Medios publican más detalles: montos, años y entidades de los contratos, y que cuatro mujeres estarían declarando como testigos.</p></div>
+      <div class="ev" style="border-style:dashed"><div class="fe">Lo que sigue</div><p>Radicación formal de la denuncia, respuesta de Fiscalía, Procuraduría y Contraloría, y revisión pública de los contratos en SECOP.</p></div>
+    </div>
+  </section>
+
+  <!-- QUÉ ES UNA OPS -->
+  <section class="reveal">
+    <h2><span class="ico">📄</span>¿Qué es una OPS?</h2>
+    <details open><summary>En palabras sencillas</summary><div>Una OPS (orden o contrato de prestación de servicios) es la forma en que el Estado contrata a una persona para una tarea concreta, por un tiempo definido, sin volverla empleada de planta. Está en la Ley 80 de 1993 (artículo 32, numeral 3).</div></details>
+    <details><summary>¿Qué debe tener toda OPS?</summary><div>Un objeto claro (para qué se contrata), obligaciones específicas, un plazo, un valor, un supervisor que firme que el trabajo se hizo, e informes de actividades para poder cobrar cada mes. Si no hay trabajo real, no debería haber pago.</div></details>
+    <details><summary>¿Qué pasaría si se pagó sin trabajo?</summary><div>Pagar con plata pública un contrato cuyo objeto no se cumple puede investigarse como posible delito (por ejemplo peculado o contrato sin cumplir requisitos) y como falta disciplinaria y daño fiscal. Eso lo deciden Fiscalía, Procuraduría, Contraloría y jueces; hasta entonces todo es presunto.</div></details>
+    <details><summary>¿Y si involucra al expresidente?</summary><div>Por hechos de su periodo, a un expresidente lo investiga primero la Comisión de Investigación y Acusación de la Cámara de Representantes. A los funcionarios que firmaron o supervisaron contratos los investiga la Fiscalía y la Procuraduría.</div></details>
+  </section>
+
+  <!-- REVÍSALO TÚ -->
+  <section class="reveal">
+    <h2><span class="ico">🔎</span>Revísalo tú mismo</h2>
+    <div class="ruta">
+      <div class="paso"><div class="k">1</div><div><b>Entra a SECOP II</b><span>Ahí se publican los contratos del Estado.</span></div></div>
+      <div class="paso"><div class="k">2</div><div><b>Busca la entidad</b><span>Ej: Departamento Administrativo de la Presidencia.</span></div></div>
+      <div class="paso"><div class="k">3</div><div><b>Filtra 2022–2023</b><span>Mira contratos de prestación de servicios.</span></div></div>
+      <div class="paso"><div class="k">4</div><div><b>Lee objeto e informes</b><span>¿Dice qué hacían? ¿Hay informes del supervisor?</span></div></div>
+    </div>
+    <p style="margin-top:12px"><a href="https://community.secop.gov.co/Public/Tendering/ContractNoticeManagement/Index" target="_blank" rel="noopener">Abrir búsqueda pública de SECOP II →</a></p>
+  </section>
+
+  <!-- NOTICIAS -->
+  <section id="noticias" class="reveal">
+    <h2><span class="ico">📰</span>Noticias del caso</h2>
+    <div class="estado" id="estado">Cargando…</div>
+    <div class="buscar"><input id="q" type="search" placeholder="Buscar en las noticias (ej: Fiscalía, SECOP, Carranza)"></div>
+    <div class="chips" id="chips">
+      <button class="chip on" data-f="">Todas</button>
+      <button class="chip" data-f="fiscal">Fiscalía</button>
+      <button class="chip" data-f="carranza|petro responde|rechaz|niega">Defensa</button>
+      <button class="chip" data-f="dapre|ríos|rios">Dapre</button>
+      <button class="chip" data-f="secop|contrato|ops">Contratos</button>
+    </div>
+    <div id="lista"></div>
+  </section>
+
+  <section class="reveal">
+    <div class="aviso"><b>Con respeto.</b> Según la propia denuncia, las mujeres mencionadas serían presuntas víctimas: esta app no publica nombres, fotos ni rumores sobre ellas. Todo lo que aquí aparece son señalamientos que deben probarse; rige la presunción de inocencia para todos los mencionados. Fuentes: medios nacionales enlazados en cada nota.</div>
+  </section>
+</main>
+
+<footer>
+  <b>Vibras Positivas HM</b> · Apps ciudadanas para entender lo que pasa en Colombia<br>
+  Hora de Colombia (UTC-5) · Las noticias se actualizan solas cada 30 minutos
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const TZ='America/Bogota';
+const INICIO=new Date('2026-10-21T12:00:00-05:00');
+const BUSQUEDA_VIVO='("48 mujeres" Petro) sourcelang:spanish';
+let NOTAS=[],FILTRO='',Q='';
+const $=s=>document.querySelector(s);
+
+/* reloj y día del caso */
+function reloj(){
+  const now=new Date();
+  $('#hora').textContent=now.toLocaleTimeString('es-CO',{timeZone:TZ,hour:'2-digit',minute:'2-digit'})+' COL';
+  const hoy=new Date(now.toLocaleString('en-US',{timeZone:TZ}));
+  const ini=new Date(INICIO.toLocaleString('en-US',{timeZone:TZ}));
+  hoy.setHours(0,0,0,0);ini.setHours(0,0,0,0);
+  $('#ndia').textContent=Math.max(1,Math.round((hoy-ini)/864e5)+1);
+  $('#hoyfecha').textContent=now.toLocaleDateString('es-CO',{timeZone:TZ,weekday:'long',day:'numeric',month:'long',year:'numeric'});
+}
+reloj();setInterval(reloj,30000);
+
+/* contadores */
+function contar(){
+  document.querySelectorAll('.cifra .n').forEach(el=>{
+    if(el.dataset.txt){setTimeout(()=>el.textContent=el.dataset.txt,500);return}
+    const fin=+el.dataset.n;let i=0;const p=Math.max(1,Math.ceil(fin/40));
+    const t=setInterval(()=>{i=Math.min(fin,i+p);el.textContent=i;if(i>=fin)clearInterval(t)},30);
+  });
+}
+contar();
+
+/* aparecer al bajar */
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('ok');io.unobserve(e.target)}}),{threshold:.08});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('ver');setTimeout(()=>t.classList.remove('ver'),2600)}
+const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fecha=d=>new Date(d).toLocaleString('es-CO',{timeZone:TZ,day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+const diaCO=d=>new Date(d).toLocaleDateString('en-CA',{timeZone:TZ});
+const relevante=n=>/48 mujeres|instrumentaliz|ops/i.test(n.titulo||'')&&/petro|dapre|r[ií]os/i.test(n.titulo||'');
+
+function unir(nuevas){
+  const vistos=new Set(NOTAS.map(n=>(n.titulo||'').toLowerCase().slice(0,60)));
+  let añadidas=0;
+  nuevas.forEach(n=>{const k=(n.titulo||'').toLowerCase().slice(0,60);if(n.titulo&&!vistos.has(k)){vistos.add(k);NOTAS.push(n);añadidas++}});
+  NOTAS.sort((a,b)=>new Date(b.fecha)-new Date(a.fecha));
+  return añadidas;
+}
+
+/* 1) archivo que trae el robot cada 30 min */
+async function cargarArchivo(){
+  try{
+    const r=await fetch('data/noticias.json?t='+Date.now(),{cache:'no-store'});
+    const j=await r.json();
+    unir(j.noticias||[]);
+    $('#estado').textContent='Robot de noticias: última revisión '+fecha(j.actualizado);
+  }catch(e){$('#estado').textContent='Sin conexión: mostrando lo guardado.'}
+}
+
+/* 2) búsqueda en vivo al abrir */
+async function buscarEnVivo(){
+  try{
+    const url='https://api.gdeltproject.org/api/v2/doc/doc?format=json&mode=artlist&maxrecords=40&sort=datedesc&timespan=14d&query='+encodeURIComponent(BUSQUEDA_VIVO);
+    const r=await fetch(url);if(!r.ok)throw 0;
+    const j=await r.json();
+    const ns=(j.articles||[]).map(a=>({
+      titulo:a.title,url:a.url,fuente:a.domain,
+      fecha:a.seendate?a.seendate.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z/,'$1-$2-$3T$4:$5:$6Z'):new Date().toISOString()
+    })).filter(relevante);
+    return unir(ns);
+  }catch(e){return 0}
+}
+
+function pintar(){
+  const re=FILTRO?new RegExp(FILTRO,'i'):null;
+  const q=Q.trim().toLowerCase();
+  const ls=NOTAS.filter(n=>(!re||re.test(n.titulo+' '+(n.resumen||'')))&&(!q||(n.titulo+' '+n.fuente+' '+(n.resumen||'')).toLowerCase().includes(q)));
+  const hace24=Date.now()-864e5;
+  $('#lista').innerHTML=ls.length?ls.slice(0,40).map((n,i)=>`
+    <a class="nota" href="${esc(n.url)}" target="_blank" rel="noopener" style="animation-delay:${Math.min(i,12)*40}ms">
+      <div class="t">${esc(n.titulo)}</div>
+      <div class="m">${new Date(n.fecha)>hace24?'<span class="nueva">NUEVO</span>':''}<span>${esc(n.fuente)}</span><span>${fecha(n.fecha)}</span></div>
+    </a>`).join(''):'<div class="vacio">No hay noticias con ese filtro.</div>';
+
+  const hoy=diaCO(Date.now());
+  let deHoy=NOTAS.filter(n=>diaCO(n.fecha)===hoy);
+  const titulo=deHoy.length?'':'<div class="vacio">Hoy todavía no hay noticias nuevas del caso. Lo más reciente:</div>';
+  if(!deHoy.length)deHoy=NOTAS.slice(0,3);
+  $('#hoylista').innerHTML=titulo+deHoy.slice(0,5).map(n=>`
+    <a class="nota" href="${esc(n.url)}" target="_blank" rel="noopener"><div class="t">${esc(n.titulo)}</div><div class="m"><span>${esc(n.fuente)}</span><span>${fecha(n.fecha)}</span></div></a>`).join('');
+  $('#hoyrev').textContent=new Date().toLocaleTimeString('es-CO',{timeZone:TZ,hour:'2-digit',minute:'2-digit'});
+
+  const cinta=NOTAS.slice(0,6).map(n=>'● '+n.titulo).join('    ');
+  $('#cinta').textContent=(cinta+'    ').repeat(2);
+}
+
+async function actualizar(manual){
+  const b=$('#actualizar');b.classList.add('spin');
+  const antes=NOTAS.length;
+  await cargarArchivo();pintar();
+  await buscarEnVivo();pintar();
+  b.classList.remove('spin');
+  const nuevas=NOTAS.length-antes;
+  if(manual)toast(nuevas>0?`${nuevas} noticia(s) nueva(s)`:'Ya estás al día');
+}
+
+$('#actualizar').onclick=()=>actualizar(true);
+$('#q').oninput=e=>{Q=e.target.value;pintar()};
+$('#chips').onclick=e=>{const c=e.target.closest('.chip');if(!c)return;document.querySelectorAll('.chip').forEach(x=>x.classList.remove('on'));c.classList.add('on');FILTRO=c.dataset.f;pintar()};
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)actualizar(false)});
+
+actualizar(false);
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
+</script>
+<script src="https://haroldco45.github.io/vibras-anuncios/anuncio.js" data-app="caso-48-ops" defer></script>
+</body>
+</html>

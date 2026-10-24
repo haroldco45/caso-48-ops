@@ -1,0 +1,14 @@
+{
+  "name": "Caso 48 OPS · Seguimiento ciudadano",
+  "short_name": "Caso 48 OPS",
+  "description": "Seguimiento a la denuncia del Dapre sobre 48 contratos OPS: lo dicho, lo respondido y lo que falta probar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "es-CO",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
