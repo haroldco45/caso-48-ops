@@ -1,18 +1,245 @@
 {
-  "actualizado": "2026-10-24T10:30:00Z",
+  "actualizado": "2026-10-24T12:49:39.695Z",
   "noticias": [
-    {"titulo": "Denunciarán supuesta instrumentalización de 48 mujeres en el gobierno Petro", "url": "https://expressnews.uk.com/denunciaran-instrumentalizacion-mujeres-contratos-gobierno-petro/", "fuente": "Express News", "fecha": "2026-10-23T14:00:00Z"},
-    {"titulo": "Esto se sabe de la denuncia del Dapre sobre 48 mujeres \"instrumentalizadas\" durante Gobierno Petro", "url": "https://www.bluradio.com/judicial/esto-se-sabe-de-la-denuncia-del-dapre-sobre-48-mujeres-instrumentalizadas-durante-gobierno-petro-pr30", "fuente": "Blu Radio", "fecha": "2026-10-22T18:00:00Z"},
-    {"titulo": "Revelan detalles de la denuncia por presunta instrumentalización de 48 mujeres durante el Gobierno Petro", "url": "https://www.chicanoticias.com/2026/10/22/petro-denuncia-instrumentalizacion/", "fuente": "Chicanoticias", "fecha": "2026-10-22T15:00:00Z"},
-    {"titulo": "Director del Dapre, Carlos Ríos, denunciará a Petro por la supuesta 'instrumentalización' de 48 mujeres con contratos de prestación de servicios", "url": "https://www.eltiempo.com/justicia/investigacion/director-del-dapre-carlos-rios-denunciara-a-petro-por-la-supuesta-instrumentalizacion-de-48-mujeres-con-contratos-de-prestacion-de-servicios-3595306", "fuente": "El Tiempo", "fecha": "2026-10-21T23:30:00Z"},
-    {"titulo": "Director del DAPRE denunciará presunta instrumentalización de 48 mujeres contratadas por prestación de servicios durante el gobierno de Petro", "url": "https://focusnoticias.com/director-del-dapre-denunciara-presunta-instrumentalizacion-de-48-mujeres-contratadas-por-prestacion-de-servicios-durante-el-gobierno-de-petro/", "fuente": "Focus Noticias", "fecha": "2026-10-21T22:46:00Z"},
-    {"titulo": "Director del Dapre denunciará presunta instrumentalización de 48 mujeres en el gobierno Petro: \"Por intermedio de un contrato\"", "url": "https://www.infobae.com/colombia/2026/10/21/director-del-dapre-denunciara-la-presunta-instrumentalizacion-de-48-mujeres-en-el-gobierno-petro-por-intermedio-de-un-contrato/", "fuente": "Infobae", "fecha": "2026-10-21T22:00:00Z"},
-    {"titulo": "Director del Dapre anuncia denuncia por presunta instrumentalización de 48 mujeres durante el gobierno Petro", "url": "https://www.elpais.com.co/politica/director-del-dapre-anuncia-denuncia-por-presunta-instrumentalizacion-de-48-mujeres-durante-el-gobierno-petro-2115.html", "fuente": "El País Cali", "fecha": "2026-10-21T21:45:00Z"},
-    {"titulo": "\"Las amarraban\" mediante contratos OPS: la denuncia de Carlos Ríos sobre 48 mujeres durante el gobierno Petro", "url": "https://www.elheraldo.co/colombia/2026/10/21/director-del-dapre-anuncia-denuncias-por-caso-de-48-mujeres-las-instrumentalizaban-para-poder-estar-con-el-expresidente-gustavo-petro/", "fuente": "El Heraldo", "fecha": "2026-10-21T21:40:00Z"},
-    {"titulo": "Nuevo escándalo salpica a Petro: director del Dapre denunciará presunta instrumentalización de 48 mujeres en Presidencia", "url": "https://www.publimetro.co/noticias/2026/10/21/nuevo-escandalo-salpica-a-petro-director-del-dapre-denunciara-presunta-instrumentalizacion-de-48-mujeres-en-presidencia/", "fuente": "Publimetro", "fecha": "2026-10-21T21:30:00Z"},
-    {"titulo": "Carlos Ríos denunciará presunta instrumentalización de 48 mujeres durante gobierno Petro", "url": "https://www.eluniversal.com.co/colombia/2026/10/21/carlos-rios-denunciara-presunta-instrumentalizacion-de-48-mujeres-durante-gobierno-petro/", "fuente": "El Universal", "fecha": "2026-10-21T21:02:00Z"},
-    {"titulo": "Director del Dapre denunciará presunta instrumentalización de 48 mujeres durante el gobierno de Petro", "url": "https://diariolalibertad.com/2026/10/21/director-del-dapre-denunciara-presunta-instrumentalizacion-de-48-mujeres-durante-el-gobierno-de-petro/", "fuente": "Diario La Libertad", "fecha": "2026-10-21T21:00:00Z"},
-    {"titulo": "Dapre denuncia supuesta \"instrumentalización\" de mujeres en gobierno Petro", "url": "https://www.lasillavacia.com/en-vivo/dapre-denuncia-supuesta-instrumentalizacion-de-mujeres-en-gobierno-petro/", "fuente": "La Silla Vacía", "fecha": "2026-10-21T20:50:00Z"},
-    {"titulo": "Petro denuncia a Angie Rodríguez y Salvatore Mancuso por el polémico Pacto de Valledupar", "url": "https://www.vanguardia.com/colombia/2026/10/21/petro-denuncia-a-angie-rodriguez-y-salvatore-mancuso-por-el-polemico-pacto-de-valledupar/", "fuente": "Vanguardia", "fecha": "2026-10-21T17:46:00Z"}
+    {
+      "titulo": "Director del Dapre denuncia presunta instrumentalización de 48 mujeres con contratos OPS en gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYS05WlJPYVFOaDVGdnhGSTFzcGJjVGlTSGJ1a2dVdi1oOE5XV0NETG9XaU01cC1NRmxEdFc0MHR0MENhSVBDRUQwNFF1UnV4cUprcjZHWGVzYzZGRk1PeS1laXZGZ3ZfVnIzbFMyb3hGV19DNXNiUUVBM3pmMXJzLWcwSDZBamlvWTVLNEV3Yk8zS1U4WHh3djVUdUlZWTlZdElKTG43T0VuVFpVbzdWaGxaRmJBd1lrYk5xRVROOWY2ZkVZdzJNUWNESzliUWNR0gHWAUFVX3lxTFBxQzQ0WGRHUzVpOFBScVBVSUduN1gxbVhaa3c1emhrN2hDbVJabU52ZFViYm5MTmR1MS1ra3R3RWZpTW5vaXF5RmJJTUFFbk85Y3Z4MUJuS1NjNUF5SmtSVmVmcHRVbFdnNVdfR1NUT21ZRk5oS2lVTVJXY2JDRjlTVUtvcUxJNVoydHVjSzFwaE9DRWRhZFBVRkxudjhzOVRBcjB6WWVMc2stSHBZZ3hRNEYtWUtsQ1NLY0dVSDVmOC1vWWstZTNsanUteC1UTlNIZjVXdFE?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-10-24T12:06:03.000Z"
+    },
+    {
+      "titulo": "Carlos Ríos denunciará presuntas irregularidades con 48 mujeres durante el gobierno Petro y lanza mensaje a Agmeth Escaf",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ01uU21UbTB6ckZ3NHpVOHJtVy1hRDZVbnkzTWU4R0Z3RW4xVW1jM2Q5RmdHSFE4ZERiaGRJSXNDeWJ1dUpCdE5idlZvYmlpdVlMSDR6NXh0ZzVJVlpiTVZ0NkM4ajVmUHpldDlxMXp0X2s3UGh3YTRTcVdXZ1ozMTNlY3U0WVFuSXJ5T1ZNam9faHBBRU1QMDBxbl9fRkF0UVRGYUxNbk4yOEVHREI1b21qX05iWmV2amIwLW8zV2FuZUZqZGZyMUdqZzFleF8wQzk5VnZBNUZXd1c1V1loVnZJcEVob3NqeS1od3ZkdHpfeG8?oc=5",
+      "fuente": "Diario La Libertad",
+      "fecha": "2026-10-24T02:14:41.000Z"
+    },
+    {
+      "titulo": "Procurador Gregorio Eljach habló sobre la denuncia que presentará el director del Dapre contra Petro por supuesta 'instrumentalización' de 48 mujeres",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOblgwX0VOUnlhNTd1ZDhGLW9xU0prdHl6REJWUXNTMUQwTFZTUXFZeHE5cDJ2UWhNLTg1T3UtWlZHY3hLcThHaGZQNDRfZ3IyYy04QlV3UW50M3RCWEdub1VfMlh1R3NsaXcxR3dvVk43Tk1NbFhhSW8yWHZQdGRYaS1QaGdxSmdUQmd4a2l0ZG8yZ3Z2ZENEeF9XRllqXzU3eTlsMTgtb2pvUzh1SXY0eGR2TnlJTG0xZjU2My1ycjcyYXFndUs5eTZBMjVTRHJZaE5DSkxhNkdkZWxsbk05SG56aHZybEN3RmpRcUxid01XYXJwdjhEZ245QUNWWnczZkd1TGpPV2JrMDJlUmR0ZlU5dGh1UXJvejgxNFBpWXNQUjBqRW01QlNVSdIBsAJBVV95cUxQbnRDRVdhVzNVVy1YbDYzQVFzVTR4ZGd2RUpMSi1LcDhSVHU1VTQwbzRZQkN4N3cyNXVnU3ZnVXR4SGRISTAxYlRGV0pwd21uZHpHc0RUN1drc2dSeW5ySDFyZlRldEpLa0w4bFNIRGFGZzdMcjVKS3Vidm5aUXlQSnNjT25reDlUb1M5QUZJMGMwbjRJQnN3bWJrYVBQeE5rSUl6QlRTaGtBSUVLbkVRaENvODduOE9jN0pfQXZWVEdaaEVFcmQ1VENBcE5rTFdCaGlQTWRncnNCT3A0a0M0aEt6RzZHYVl3UDItUV9wa2UzcUlncEpkOVdZUGZxZmRJRk5WTTdMTlBsSkc2aE1iVTNUSWVMaGtUR3Rabkpwd3I4dXp1dEItQXRtLXp0N3Zs?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-10-23T23:45:32.000Z"
+    },
+    {
+      "titulo": "“Lo de las 48 mujeres de Petro, no pasa ni en las novelas”: Jota Pe Hernández",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcS1kMExFVklYbWNDWWQ4TEgtb2VpOHlsM21ORWtRemRyT1FqTFFLQlo3Qm1vNXc4M1NUVzAzaGhSX1ZHQ2pIbWdxQVF3QlpESDdYMC1BUzczUk1MLXltTTlCTkxuSVZKZjV2RGJPdGs3ZWZiaTAyM2Jwc1hWLTFrWjRna19uMUpFbnUxcEVZRUYwU2g1LU8zTQ?oc=5",
+      "fuente": "El Irreverente Ibagué",
+      "fecha": "2026-10-23T17:10:44.000Z"
+    },
+    {
+      "titulo": "Procurador Gregorio Eljach se pronunció sobre denuncia contra Gustavo Petro por caso de 48 mujeres",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHdtNUpEUjdBeDdlUDJVZTJBRGxadlJHQV9tQ0gxcmphcEdXbk9EOWRqRkFDODZLZEJMX29HMGRfeEVya0tlbkVRUndiOWFpVUtMRnRQTlN2aXVHTjEzR2JjNkFpcFpVZlBoYWt0dDMxLWRONDhmN3J1M051ZHE2eGN2QnRraEpUTUg0cmRnUTJMeWFXc0lEbmU2RE1yS0lXbExDNTNDbG5OQzVZdHJLX1JZdzBiU3BOWG5rN3pMcmNYYklfdW45c3JnVUVERVZGZ3ZTajFBTF9COG_SAeABQVVfeXFMTkVYaktNejhieVFyTmFVNkVvZmNLV2dOYlVQZ1ZJSWViZnBmR2UzQjM3Y1pzd01DR0xFRVd3ZUwzNTV1OVJqWGNac2hOMGlxbERwTTN6Z3NKMGF3ZW9FWlhvZmJlX3JQc1JjdlJMUUh2YksxT0t6a2VFOE5QX1ExN2dyeldtSjlJVEZxYjQ5blF3ZWV6MTRXMnl3cC1fZC1rUmlhX1VCQUt2R21kMDJOb1dXNGJ5RUlQdktyYVd2Ylp5aFZqVFk4LTZPaXhrc2FQRm50YTFMSXlNLUhDVFFMd2Y?oc=5",
+      "fuente": "El País",
+      "fecha": "2026-10-23T16:05:00.000Z"
+    },
+    {
+      "titulo": "Procurador Gregorio Eljach se pronunció caso 48 mujeres instrumentalizadas Petro",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzI4SVVPZHB0R0FEX1BsaW84MXJWaDFfUWFaNml6RGhNcWNJWjZwWWRKaURUSWN2MWpuV2xPZ21CcFpCeGdmMU1QNGpzLWhuSDVsVVFPQkVpOU5OQmVjT1VnTllnRjdkaktmNTFkQzMtSEVwYmFpUUItZkpnTDNrLUdNUFpJZ1MtTU0wVWhMa284OElVU3VTendDakhEUGxJOFBuTW1VZDVKT3VUYTR1MWU4NA?oc=5",
+      "fuente": "HSB Noticias",
+      "fecha": "2026-10-23T14:33:55.000Z"
+    },
+    {
+      "titulo": "Denunciarán supuesta instrumentalización de 48 mujeres en el gobierno Petro",
+      "url": "https://expressnews.uk.com/denunciaran-instrumentalizacion-mujeres-contratos-gobierno-petro/",
+      "fuente": "Express News",
+      "fecha": "2026-10-23T14:00:00Z"
+    },
+    {
+      "titulo": "Procurador Gregorio Eljach se pronunció sobre el caso de las 48 mujeres que presuntamente fueron “instrumentalizadas” por Petro",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTzJka1VPbThpUkpHQ0d3VDZnREtaSDNlYWIwUjNzYkZleDZ2a2ZjQm5vQ3RQeGtuMjdDRjBsOU9wckV2WExTaXBXV195bmpNSG1lWG5iWFlYOGpER0w2TWhJQXROdEppeUhIa2ZNdjF5OFkwWnRnT1dfbGZEenRDVTAyd1hZZUNSQkhRS3l6MV9PU1hyRDA3UEl5ZENDVXhhN2R5cXN0WUlBU2RSalJINWtpdzJKcTY1MU5aOXF6c2lnU2tMenNEVGFydzU3UGNIUk5sTVdPYmo1Vi1NamJlV0dVb3FjS2dOWC1mSGs5cGloR0ZHV01LU1ptUXcxal91RUE?oc=5",
+      "fuente": "Revista Semana",
+      "fecha": "2026-10-23T12:19:32.000Z"
+    },
+    {
+      "titulo": "Gregorio Eljach aseguró que no se ha abierto ninguna indagación por la presunta instrumentalización de mujeres en el Gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcGo4TkFKS0FiXzBFRUxuWDJNblhpN1JiQkp3eUxUbnFLUmFDdzlaUTd2Vm43bWUxaUgyTlBQdTZMdno3cXFMNWZIdnJUcUtjQkVHMXZJTURMeXlXcDlkdGVWTkNmY094OFhPWU1wamFrczkyM1NJd09yR2ZuN1JMd1BwT1d2T3ZxX0FDMlBBaUpPVEs5cHJzd1g1dGVtVE1obFhqbnMxcGV5RmFRTUpfZnAzM2pOZVBWVnlYWFlFV2NXVXg2aFJZVTZDR081YjlnZWpISUhkV2FEWUVXb3UxMFZtS3Z5ZHotWkdYZ3lwTGU4VHRCdWJqV0ZkUG85aURSSDBPSjBjQdIBogJBVV95cUxPNGZhQ2NmR2VhWDF3MUZhd3U0NFRVQlF6UnlyVFkzazh3Z1FiNGgzaFFNX1U4QmV3c2FPRlZZczJnMWItSzZxT2o1OXJVX2tnZGJmT2picGtLWm1RMWpfQkJob2xKTHZEbUZZelRaWlYwOEIwLUt5Zl9nQk5jZXhKeUJBWmtZN1hLR1p0Yk5KdmlTZTdSQ05fLU5HVXN5cFZFNHdKYk56ZWFzWjhZeHpuYk93R2d4Rzl2YlBJUnZNV1JKLXEtZVVsTDhVQjFRNU14eWlPZjdxVS1jdWo5QjVVZ3Z1eTdBc3R3QzRnODY4WU8wallCSFVDcHpmaFctMG1VNndlOVFsd0FpZUJRVGk2YWM2ZnpTSm9XMFo2dlZLX1hPdw?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-10-22T23:43:00.000Z"
+    },
+    {
+      "titulo": "Gustavo Bolívar rechazó la presunta instrumentalización de 48 mujeres en el gobierno de Gustavo Petro: “La cortina de humo del día”",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSnkzSjdTMWxUZnFObGpWUkdTTTV6MFM2dzExelBYZUtfTU16Uy0tYXRLNURlZVVYR0draHh0cWl2ajRKdU1tT0ctYkFvXzJXeU1uWXBEVTFCdEdDbmRlYXl1SS1lTV9qbEtRaE10S0FrbEFQYnptV1hhQURkUFNEaUJzU29kcUxsMnYxQXJYMTVUWkdTR2prLXJhZTh1VlZnUlBJUS1lQzYxWGZ5bThQeWphTFpGcGNLOXhoM2h0MFp3QVRBeUoxUGVqOUdpWVN5dUU1QkxfRE51UVBUYVVGNWVVMzMwN1hvMExaTlNjeFlDRFB0cW5TZURNTG5Pc0UxY0Zv0gGeAkFVX3lxTE81eHhWWGxiLWV5ekpRQVlhX2Z1VF9jcUJiOUdqMFUtbmhxMllJN1ZHbnhaOGRMMVp4ODIwQmNXWDNnZ2NrSUFLcHdOemZtRkpERlBVdFpmVHpETFZjTURRRk5xTDhfMEkzYkFEekF1Z3hGRkQtcnBqdE45LVl5WkZyT2p0MEJ0Rk5FQkdVdWFqVDJqSDBUc280M1N2MGQwZmh5M2l5N0ZqYWlaVG1GVlV6cGc0ZFRiUVVKck84cmdkMWl5Ym5jYllMbXhJajA3QmliX1o5LTc3bFYtbmtBNXY3X21TallBb1BOWVZ3VDdjM184a1BMcEduUnkwX1pHclV1MXktR2p6cXhPZzQxb1Q1RjFuQjhKOFpYZzFxRWc?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-10-22T21:56:00.000Z"
+    },
+    {
+      "titulo": "El DAPRE denunciará presunta red de instrumentalización de mujeres en la Casa de Nariño",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmxLODNDVTF4VXpSUWxfVFIyQ2UxZlJLYlRsX2FoUTRmWnFVUnFnQlQ1TFdJZlFDRll2ajJtdzBfNEphWGpZN084MmhIMzc4MWo4aU1iX0lEcFZzeHh2TkprUDMtRnFVSFRhM0pVY29ZYTMwTElOYXczQUc0TEF0ZFZVUXBNckNMVDdhenBfamtMRmJGMzU3LUM0em84V0NKeTM3VmRSMEk5aWstV2hiYkNEb3AtUWdocW9hZF93?oc=5",
+      "fuente": "IFM Noticias",
+      "fecha": "2026-10-22T21:07:41.000Z"
+    },
+    {
+      "titulo": "Esto se sabe de la denuncia del Dapre sobre 48 mujeres \"instrumentalizadas\" durante Gobierno Petro",
+      "url": "https://www.bluradio.com/judicial/esto-se-sabe-de-la-denuncia-del-dapre-sobre-48-mujeres-instrumentalizadas-durante-gobierno-petro-pr30",
+      "fuente": "Blu Radio",
+      "fecha": "2026-10-22T18:00:00Z"
+    },
+    {
+      "titulo": "Escándalo salpica a Petro: director del DAPRE habla de “instrumentalización” de mujeres",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFdZd0VuN2VCdk1CcG53QUtIaVkzVDA1UUZLNm11a2F4Mmw3MHdzMzZkRmZDcEdxQ3N6NU5ZRDIyNldiS1NYOWdqQl9Pc001a0RjT19ieEhHYzZzYlZDR1c1TzcwOElBYmFucGxjY01aVVlrSnVzcWgyX2dORmJJbkhOOU5TM3FnV01UWFFjczhsR2xtRmRiaWREdnJDeXl3VWdhM1pNdUNpcVV0czBfSVVPSklRZnNTQ3o5Snd1ZFBvUG83Nm5FczZISHNIUdIBzgFBVV95cUxQNmFHeENFQkVWRXVUQWZOWEtYa3VJZHNwTGNwb0VlUE9LWHhEMXgwWnN1Q1d2eEs2Uk5JQXhBMGlpbmEyY29Ed0h6Y1ZrUi1QMDNsS1d1NmNRckZ4dDBHeUFfUFZJWFZMcFZ3U3NDUlFwSHF6a2FYbjZlQ2xGWWQ1cG5Qb0hDdjk2WU43cVBUT25MTUZUWUdaUGlGWU51LWpoY3d3dHg5Yktkc29CdW1uNGdfSnJBNXgtTDhHa1Zqd0hBLW9icl9lQ0hRMVRKQQ?oc=5",
+      "fuente": "NTN24",
+      "fecha": "2026-10-22T16:55:40.000Z"
+    },
+    {
+      "titulo": "“Habría varios delitos”: Víctor Muñoz sobre presuntas mujeres “instrumentalizadas” en gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1c0SzBjRVAyUVM2YUNvb3N1cnFmaEFZUzZNazlEdUlPc1QtakRlZmxxMlBrdlFRaGFydG8wSXg3T3RicG9aM01tQlJkclBlYW1KdS12SHVydlR0WFNUWEI5TUxhcEFnbGpVaFRYUDFfTFY5V3NrSlRvamE0VXB5WkZuQl9zS1lia21UeHhxdmstcDhQSlVrSGZqYkxqUXBsaUVFTkc3QXVYVXV2bWt4ZVpqd2hjMG05U3dUd3NYUzNpNzZXYnczaE1R0gHeAUFVX3lxTE0wdnJQWWVna3RwNzBIcXRKNTZzdHlHemVuMlRqOFlJdHk5eENXLXAwS05IWmNVclZlV0RPMkJlNC1wdjZYc1c5SHQtdjUyalhFRkdwb1FUREJPY003b1hpLUZ5ZnVJRGY5cnZCdEUtOGt2TTFMN0dXRzBFSDM5MkRSSmNfenJMdDFIVHdCUllCSUg5Z29LajRkOWtiSW03YXVrOHBTeHBERUdWcGpPQVJlMHo3WVVhaVNPdmRaQ2ZSWGdxSHJUeEhNUVVXMWszUUpDVkNNZlE3dHhTSUdvdw?oc=5",
+      "fuente": "Caracol Radio",
+      "fecha": "2026-10-22T16:21:02.000Z"
+    },
+    {
+      "titulo": "Por instrumentalización de 48 mujeres, director del Dapre denunciará al expresidente Petro",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkJPQ19XQm83aW9VT2pTNGFNUTdMTy11dVJhSTlPZy10dUlTY3NLYTgwbWhzT0xMdWFFQ3Q0S2JJM185czB6UjZ5NzJoc0x3ZkhMM0ZZa1QxSU5TQ2lGVWpDU3N4Ulg2bER3aXpzbWI1bVJZdGRqenpvdmpjZ2tPbG0teWVpYy03VS1WdU5laUVzdFl2R0tOLWRlMGJBaEViaDBWZHFpb0hsX0h2d3QxZmpmYmZ3dnprVlhFWlRn?oc=5",
+      "fuente": "Seguimiento.co",
+      "fecha": "2026-10-22T15:02:00.000Z"
+    },
+    {
+      "titulo": "Revelan detalles de la denuncia por presunta instrumentalización de 48 mujeres durante el Gobierno Petro",
+      "url": "https://www.chicanoticias.com/2026/10/22/petro-denuncia-instrumentalizacion/",
+      "fuente": "Chicanoticias",
+      "fecha": "2026-10-22T15:00:00Z"
+    },
+    {
+      "titulo": "Director del Dapre anuncia denuncia contra Petro por 48 mujeres que habrían sido contratadas por OPS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcW1QbEtNWnc3cnQxNFZEYWY5ZnZvQjdsMkNYOWlRTDExN1FaQjJoMy1yeENMODc0Qlh2bUU4dkt3LTFkemVRLUt1X2NtMXlXS1pMdFFEdmdzS2hfRHZDRGRid09Mc1RsZHhNRzNqbEdYbjhZOGhCcXJvSnJBeGJVUmk0cUdzV045Yl9Gd0ZpZmxMWURpSTZwZFM0dlF0cHRqSl9lRkU5bHdaX05ETktVcVd1ajZyVEJIUnFkbTdEbnRSUnJOX1VzRkdLZ1BaZldpaThPWGZJdjJUUENIZE9Z?oc=5",
+      "fuente": "Agencia de Periodismo Investigativo",
+      "fecha": "2026-10-22T12:59:07.000Z"
+    },
+    {
+      "titulo": "48 “prepagos” contratadas por OPS en la Casa de Nariño durante el gobierno de Gustavo Petro, denuncia actual director del DAPRE. – CasanareOnline.co",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd1dIY3NaTmpMZzdkb1lHSGdMa1pDZC1Vd1k1U2FWOFA5dmE3QjM5OEk5WVZ6ZURFTU1FOXNBWGZWMVFLRFhVSnlxSkR4WGtYV1o2T294YkNfVVBpSHhlT0J4N0VDSDdvZEJlZnlRVlE1QjB3LVdDOVltTG50WEFiVlBDLTdmX09BendfWWhZN1hROUVXZ2xQMHFCUy02Ynk0RmdxeXZtNmVZM1ctSWR2U3prRzU5dVZ5dG5CdGdsbU1IR0pPbmk3M2UybERyWlBnSWJrQjlKT3pkcHZzLXRBb1VGanNIUQ?oc=5",
+      "fuente": "CasanareOnline.co",
+      "fecha": "2026-10-22T01:28:25.000Z"
+    },
+    {
+      "titulo": "Director del Dapre denunciará la presunta instrumentalización de 48 mujeres en el gobierno Petro: “Por intermedio de un contrato”",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdWRSQ2RSOUU1bnBYMzUyNFptN1dUQlkxVlhzTVpQZFlrMU5ueEFSM1JlbTdweUd5b052TTk3eWtRNWhiX0ZfRmhoRllZaXk5T254dTFpQS01SWJqdmtOclh6cFpEZl9CRmVFel9UN1lWWGlWaU1uRE52alhtN2RBbzRfT052RlB3RVZtSThRUXlTcTFOTXJFRlNYd0dGQkxoR1JTeFQ0OGVZQ1hJR01KclJSdDl4OG1uVnJsTFd0LXVfdzRITjRlWWhWYmdUTWJTZmFEVTdVdGtnZ09HRURibm9tc0dydnlKUFpGdXJPSC16X0hpdGNDYTlUbGR5dldF0gGbAkFVX3lxTE5QQ2ZFM3Z5VTBXaE1aUjhuU0hDRkpyUTdRa3ZBQnp1MXFka3hOREFoXzBvN0pPeWpRdF9nRFdLM29FaXFFd0Y2cW83M05VSUJ2cndZbG1TM2w0SFV3a3NuM3R3b29qN1VkX29ZSmFvZHh6cG1MTXNzWXpRSmlUYTdZZXF0MGxCdC0wdG5uQUZzTmQwM1kxWjRQUjhaMlcyd3Qyaks2OUxoZDhDYUppcVhjUGNHUFBjNWE3WU5RV3JJSFJaWmc3c1UwSEl0ZHdqRlhBVjZlMzNJSEFRWVYta3lBVnV6dDRNQzJrQk1iSUlLZTR3MVZoT2U5dFItVUZKMkc2cmJNQnNGTmpEdm1HMVZYcEd1ZlZfTl9md0E?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-10-22T00:34:00.000Z"
+    },
+    {
+      "titulo": "Escándalo en el DAPRE: radicarán denuncia contra Petro por uso de OPS a mujeres",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODRHNW9LeTROWWNTV3p1SXBOUHhMLS1XSnBmenZTR0I5Y1N2R1ZUWWVaaV9odFJmY0NRU3N4MDZEYjZxSkRLRmgwT3cwTmoySmZNaVFNNHhvZnE4NGZoVHBXZUpJb1FkUURGOEFUTGZfdkttb0d1UzZXVll4Tm96cXhNaFA5R0lXRGdiOG9BSnNJcEdudlJwRTAwWWRCNXhYMGlJU0k0Z3JsUVFZVG1j?oc=5",
+      "fuente": "360 Radio",
+      "fecha": "2026-10-22T00:24:16.000Z"
+    },
+    {
+      "titulo": "Director del Dapre, Carlos Ríos, denunciará a Petro por la supuesta 'instrumentalización' de 48 mujeres con contratos de prestación de servicios",
+      "url": "https://www.eltiempo.com/justicia/investigacion/director-del-dapre-carlos-rios-denunciara-a-petro-por-la-supuesta-instrumentalizacion-de-48-mujeres-con-contratos-de-prestacion-de-servicios-3595306",
+      "fuente": "El Tiempo",
+      "fecha": "2026-10-21T23:30:00Z"
+    },
+    {
+      "titulo": "Director del Dapre anunció denuncia por presunta instrumentalización de mujeres en el gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQkdkMkFKUnRCNU55TVlRZ0hxMERJRlh2ampMdFZTYXVlWDZMT1NvN1pCY1ZYOFU3cWtCR0FLeGRoSkpIUXg4UWF6VUs0R2piOTRKdFZSZjZnajhuMVRHTDZuZWNBMU5UenhDMFM3a1ZnM1lqOUJZNThaMDRzLWQtckVrOHpkVW1UUFQxWlhiSVlVTUhJYVR6MmRVdEdiS2wzVW1GWWxmdjFDZUZ0VDh6N01iTUdia2FEb1NqNm9BS1kzVktQcFVvdm1ZY2FvQnhTYVJHVE42QnAyRXdrd2NaclViQQ?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-10-21T22:51:36.000Z"
+    },
+    {
+      "titulo": "Director del DAPRE denunciará presunta instrumentalización de 48 mujeres contratadas por prestación de servicios durante el gobierno de Petro",
+      "url": "https://focusnoticias.com/director-del-dapre-denunciara-presunta-instrumentalizacion-de-48-mujeres-contratadas-por-prestacion-de-servicios-durante-el-gobierno-de-petro/",
+      "fuente": "Focus Noticias",
+      "fecha": "2026-10-21T22:46:00Z"
+    },
+    {
+      "titulo": "Director del Dapre anuncia denuncia por presunta instrumentalización de 48 mujeres durante el gobierno Petro",
+      "url": "https://www.elpais.com.co/politica/director-del-dapre-anuncia-denuncia-por-presunta-instrumentalizacion-de-48-mujeres-durante-el-gobierno-petro-2115.html",
+      "fuente": "El País Cali",
+      "fecha": "2026-10-21T21:45:00Z"
+    },
+    {
+      "titulo": "\"Las amarraban\" mediante contratos OPS: la denuncia de Carlos Ríos sobre 48 mujeres durante el gobierno Petro",
+      "url": "https://www.elheraldo.co/colombia/2026/10/21/director-del-dapre-anuncia-denuncias-por-caso-de-48-mujeres-las-instrumentalizaban-para-poder-estar-con-el-expresidente-gustavo-petro/",
+      "fuente": "El Heraldo",
+      "fecha": "2026-10-21T21:40:00Z"
+    },
+    {
+      "titulo": "Director del Dapre, Carlos Ríos, denunciará el caso de 48 mujeres que, según dijo, fueron “instrumentalizadas” durante el gobierno de Gustavo Petro",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWU9wMW9CVk1kczh4OExHQlZHNUhENTV5M2d5OFdqRmFmNW1VTjM0WFo0NVE1OHJqaWktUXlUVVBDTmF2UnFzRHpPZThacVRGLTBFT01jNVFtMEtsTDZqXzNNZWlxUGVxdHRSMGJldWhzQnBlTnVMMHNqdWpSeGdySGc1NWFnOF96aEMwYVFKdWJfNHFYRUpsMGtGbUhhT1lpaHd2NUN1SFVVWTd0R2FObWQtamxUdEpqTlM5RXExVjNob1ZOT29CeEtKeUphYU1JS0dmdW9oM0I5d09yTzJqeVNyRTFTaUF1N2wwOW5LSC1BcXV2UmhBWXVtSTJHbl8yX2M1RWtZZEExcmU1TTdkUGhtUTJsUS1XV2fSAZ8CQVVfeXFMUFZYQ2I4MVk1S2lJY1dBcDlpcHJuUGlLWmJreXlUSmJBWjRSU3FvVVR6OVEzamNpOXdJaWZnWnZzc1ZGMTF6R1lDSFhYVEtrLUUzNjlpeU5Dd201S0lYS1lTdEVJT2g0VVV1aG9YN1V3ZUtQV3FvdjA5NFB5Q2xQMTFHSHBidUFvdlBuR1Q1RTM1bzhHWDVBUkRQTUtHbFpXTFVkSUpjcGdaYkxPc3VqYVFmRV9UUHJBSEZRcXBpYTVkakVJb0t4X21naTBkblRBYm9mMXN6bHY3a2NJMS1kN0JCNUY2VFVNekZIZkxDRVVxaUpjbjlQTDNFa3VDRzNfdEhuNUFBcE5WbS0yWkJwVllpbWdZX0VTOGd4ZzUxREE?oc=5",
+      "fuente": "Revista Semana",
+      "fecha": "2026-10-21T21:39:04.000Z"
+    },
+    {
+      "titulo": "Nuevo escándalo salpica a Petro: director del Dapre denunciará presunta instrumentalización de 48 mujeres en Presidencia",
+      "url": "https://www.publimetro.co/noticias/2026/10/21/nuevo-escandalo-salpica-a-petro-director-del-dapre-denunciara-presunta-instrumentalizacion-de-48-mujeres-en-presidencia/",
+      "fuente": "Publimetro",
+      "fecha": "2026-10-21T21:30:00Z"
+    },
+    {
+      "titulo": "“Las instrumentalizaban a punta de OPS”: la grave acusación del director del Dapre contra el gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84UlNWU19xWi1LRGU4MWx2MWJkaEVfZTlwU0J2U2kzSnc5WVVnc0xyaHlXY2FSZHplM1pFYzFoNFF6X3MyQUtVS2d3MUZQRmVmNUdkZ09ESXFkVGdjLWpGNjFPQV9MeWVWeHl0UVQ1cWY?oc=5",
+      "fuente": "Chica Noticias",
+      "fecha": "2026-10-21T21:21:45.000Z"
+    },
+    {
+      "titulo": "Carlos Ríos denunciará caso de 48 mujeres en gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFZyUGZSanJuVjIwZ3BGb1hjVmZORzF3WGo2a0FyLUtyV2k5WnlpOG9NOXV6cVBYZm5HU3djVEZJTDA4SzBLMmdwQno3MFZPTWpKVlZ0Ymw0UmNESko4al9zUWViczBYek9wTVRzeGpta05nQVIwQlZ5eFdGZHJVOURCZl9zTzJ6azZBZUNrbFFSc1J3U1d0ZzRLeHhrS0lFNDBFOTNwekU?oc=5",
+      "fuente": "cablenoticias",
+      "fecha": "2026-10-21T21:19:49.000Z"
+    },
+    {
+      "titulo": "Director del Dapre, Carlos Ríos, denunciará presunta instrumentalización de 48 mujeres durante el gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaV9jZVhUTXM3WWpOeW1obkdXV0wwUGtZRzRxbl9sMXRDZ2J2eFZSX0kxUVVqWkRIZzZpc1V4bS03NEpDZDdNaUFFc1dKRjhYOWE5QXhEN2NBZjFIWkFYUElhc3VqemFRZUhFTWxxX0JuWGJBcFctRkxZanphRFNRV3FxR3o3eld2cW1CSFl0MWliM0xhWGxtc1hCbXN2NHhqQnAyVFBiYlVPX3U4aGI4YmdId2k3VFo5MzAxeEFHeW5WeWMwUS1TRUd3Ykh6TDBSUHh3U3RTTi13UXlqb2VPTU5qc0c3bC11Xzd5NzNqNHVnb180LWdfRHIyc1pyQXhLUkhucmR3eXdFRzg?oc=5",
+      "fuente": "EL INFORMADOR - Santa Marta, Colombia",
+      "fecha": "2026-10-21T21:18:57.000Z"
+    },
+    {
+      "titulo": "Director del Dapre denunciará el caso de 48 mujeres que, según dijo, fueron “instrumentalizadas” durante el gobierno de Petro",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbzhiaWRjMEs0WkZwejFlWDhHZHp2dUFIY2ZMZ0Y1Y0lFcTIzTWtzTTg0OXZSSHVGeks3VS0yZ3ZzWi1EM2tJMzRlbFgyVXFzVXFIbG16V2w1a1MtRFh6bmcwQWFVOW5SWDhzNlBLX0xnUHRsREVxTnZNekVFbTBuSGNEMFc2WlkyYU90ZFV1aDJtVFh4Z3JTSWNaTFlBbTdoX1prZlkxTGNGNzZuaEFiVjRQU3BYcVFUYzZMNlhzR0dqNEpZMENwcjVoOExsTEQ3djBVNHFWX2JuVVN0YnZoOFJEZHl6dEhLams4NXZTRmRfTzFJbXc?oc=5",
+      "fuente": "Chica Noticias",
+      "fecha": "2026-10-21T21:16:19.000Z"
+    },
+    {
+      "titulo": "Director del Dapre denuncia instrumentalización de 48 mujeres durante el gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWxPc1hGd0JSLXVjXzI2ODc3WkZsMHdvMDIzZGlPdmdSOW1SazY2alh2cDJwclhrb196Ykh6WTRHbEJzYUxxSHZ1UzdkWVgzbHBXSFpPd0VnT25PdW9PX0NiZjBubzJob0ZzRUtBdmsxdXlNOEk2V2M3VmRfXzUxdnNYaWhKODVSX294akFOWUtCTFd6QVVRZ1YyOXRzWXdzdENvX0MyUFJ2VGZ6Q3VJRFU4QkRSNmNiOURDZTlvb2FSNVliQVNENHUxWDFLV0R3ejYzX0h3?oc=5",
+      "fuente": "Eluniversal.com.co",
+      "fecha": "2026-10-21T21:16:00.000Z"
+    },
+    {
+      "titulo": "Carlos Ríos denunciará presunta instrumentalización de 48 mujeres durante gobierno Petro",
+      "url": "https://www.eluniversal.com.co/colombia/2026/10/21/carlos-rios-denunciara-presunta-instrumentalizacion-de-48-mujeres-durante-gobierno-petro/",
+      "fuente": "El Universal",
+      "fecha": "2026-10-21T21:02:00Z"
+    },
+    {
+      "titulo": "Director del Dapre anunció denuncia por \"48 mujeres\" que Petro \"instrumentalizaba\" en su presidencia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeW5qWFZoMDVOOUN4cnNhU0p5M2R5SlVwTEY5a0k5NGtSeFdFbDRObDR5QXk3NmVFeWo3RU1nVEdkTjJVQUJWQmNHODJrRkRRTnNvMzVxM3dCM0QxYUd2OE95ZDV1TG45RzNnNWVQOU91elh4Ul9RMUVNenZwbjI2YzhBcGRWVDY4cUZfaUc0M3FDcDZSQXpIVFlHekxEVzhtaWxHdFFoQW0xMDFWdUM3cGRvNNIBuAFBVV95cUxNdmFlZ01RekNRU2tJekFhbUF4ZHNuS3h6NGU5clAzT2VMUnBXVktGRk45YjVVMTdZVXBYSG9XRGN6Y185WUJtOGtIM3lZcHBvX2RxTGoxYlMwWkJzQy1YQU1Nb1VDNGlZUC1pZklHWlV1NzQ0WkJycGJtMWRLX0piZ04xdHJ6cEZmaUNIT3ZDRW5DZnNIclFuMlpnc1RWLWN3Y1paV29McnotZFNKU2tHb2ZCOEtpOUhF?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-10-21T20:54:40.000Z"
+    },
+    {
+      "titulo": "Dapre denuncia supuesta \"instrumentalización\" de mujeres en gobierno Petro",
+      "url": "https://www.lasillavacia.com/en-vivo/dapre-denuncia-supuesta-instrumentalizacion-de-mujeres-en-gobierno-petro/",
+      "fuente": "La Silla Vacía",
+      "fecha": "2026-10-21T20:50:00Z"
+    },
+    {
+      "titulo": "Director del Dapre denunciará la instrumentalización de 48 mujeres en la Casa de Nariño por parte de Petro",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbFhxc25TT1lYbFY1Tkw5bkIwZXA1TmsyZFYxRVhOc3R5d3owRGd4SFhhWXdpZzFnbFNLYlJ0d3I4Wm9OaXdUQXY4N0R5SFFJcWhqQTV4cUZ6X2RVMXJVeVJjbFpseUNFemVfY0NNemxNTmlRbEs2VEpUZ3VpR21VN21JdlR6UDM3c1RqalZEWGJ2X0M4SDd4akxKcDBpTVc2SjVrd3g4WFlvXzFBVzhZbzZ6R1F3bmM5WWd4Z0d0MVlIaHdTdk4tY1pBNFJVdVQtV2NuctIB1AFBVV95cUxPMXBnNTF0NEwyWm8zN1lMR3BETXZoZHVnSjI0Zm5UZ3FiZm04SnpvYkttdmhuYmtmUHFfWElONG9udGVMYmVuckRRenZmMkl1TXZxZHFHQlZ1ekNwTzdpTWk3SExoR1Q4bHFkSGVNZ0VwUmNPYkpVSnl2dlRaWE5NZVoyWFc5X0laa3QySENDZlpGRmVQd2EwNW5qM2FxcDk4R1RwcWlQQmRncUxiaE1RZmFWRUJMbzgyLWk1SHprdUM4WHNERVZDNGhKcTlOckl5aXB5Vg?oc=5",
+      "fuente": "La FM",
+      "fecha": "2026-10-21T20:35:40.000Z"
+    },
+    {
+      "titulo": "Director del Dapre denunció presunta “instrumentalización” de 48 mujeres en el gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3ZnalJMR0x1UGJFdWwzX1VZbzFQeE15WGowbE9xUFJLRWMyN3JBZVVXanh6azdlMm5ueXhvV0VnWEdnY3hSU0VYTU8wMGI3dDZ6b3V1c1pIbnk2d0N4S3I2QkVDMGNiVndNeFY2ZXJWcU9TUjVJZE9kV1VYb1FFTmdvLTdlMHRKVjVYN2NiR3l6WDZEQkphQWNsb2U4dDFNT3J1SklRejRXZ3d3LXNRV0FpR1FabmVoWnllb0w1ankxdkZI0gHYAUFVX3lxTE9Ha0lRTS1vMHFQalFMb1VTZURZbXdWX0FZMWQtWUlsZjJ3SEVNZmhSbm54YVJLYUw3NDJ3WDF0VGp6M0pYcHd5bmtxVmdmVllXSm9KZGtQRHF5Qkh0V0k5NXFJakppLXB6WmQtZHE4aWlrM21XUV9xX0ViaHR3ZHJRbllpN3Y4djNZVmkwMzIwZVROZE5iTHcteW5VWTBIamJFSFJqa2RwSFFieTFVeFIxa1Mtb2trU1V1ajVBMHNQU0VKMHJXOUEzOWtoOWZzQnBGVGh6XzUzMQ?oc=5",
+      "fuente": "Caracol Radio",
+      "fecha": "2026-10-21T20:32:45.000Z"
+    },
+    {
+      "titulo": "Director del Dapre anuncia denuncias por caso de 48 mujeres: “las instrumentalizaban para poder estar con el expresidente Gustavo Petro”",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxONWdkU2F4anVwemhzMXBicjg3V3JOLUdubTdWT3BPT3lMREdOVUxZd2xoVjJKaTA3cHdtNnpuVzNZbWQ2VFlJZ1FCcDRtcnAzUzN6QWgwQWJVaks3UUJqbkJQX0JENklJZEdjOG9FNXktcVdRYldpTmpFX3d4VUVtMzhuRzVQS3R3WHdHRjVQSFlyLVBvQzljNDhZNGY0bkw0TFRJMS1MLVVmbHd4UVZkX181S3R2UElDQktlUmpwUTVfX3VUZDNtQ21venlHTkE4d1RpeGxpT3JvWDBtblIxME9LdWxDYmRfNWNMSnRXazk1ay1SeU9RM3VnOFFJeTBkak5HeTJtVTJGX0JMQVNMYmYxcy1yZ0FoRWpnUnl4Y1BwY09qMFE?oc=5",
+      "fuente": "ELHERALDO.CO",
+      "fecha": "2026-10-21T20:28:19.000Z"
+    },
+    {
+      "titulo": "Dapre denunciará presunta instrumentalización de mujeres en gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNUVLNHZVdkIyTzU5RWhBSkx6SF9zd0FlRVM1cENzT01OdDh3SnFIaVBCRThjQS1kbEFnRHh1TE50MERyMnYtWXdiZ3BOVnRnV3dmZjV4UG5PUDdocUNqVG1fNjNvOV9rc2ZoNHg3WXpWczItSUtSM0dNdDdnbHEtOTFONkhEV3BNVVJydXN1RVp0UEk2NWprODF6cGF4SGhpVVdsUzlna3dpbVo3VXpyQ0ZvazNWYzA?oc=5",
+      "fuente": "El Nuevo Siglo",
+      "fecha": "2026-10-21T20:28:13.000Z"
+    },
+    {
+      "titulo": "Director del Dapre denunciará el caso de 48 mujeres que habrían sido “instrumentalizadas“ durante el gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFNGMzRZc2JjaTFSU3JqSExOejRRRjZwajllUElwR1pJS0stcXBoX0xMN0ozX1p3dms3ZGIzcUtkVGo5T1ZqREdoTUdIQXBnWndGNTJFQ3AxODJ3TUxHdlJhQ2d6RWtoZnVWa0tuOGlzeXRCZlpfekx3MTE4QlpNLWlGek9SazB3MUhXYkx0WEZEZGN3WDJUQUlmSng1VkN0RkllUUZmM3FsRDBvdlRhRkNna0pUUnhsM0U5WmNGaTYzdG1nMHRlWVVVa0UzVkhMeV9nTGhTSzlZRnEwTGFz?oc=5",
+      "fuente": "ELHERALDO.CO",
+      "fecha": "2026-10-21T20:23:32.000Z"
+    }
   ]
 }
