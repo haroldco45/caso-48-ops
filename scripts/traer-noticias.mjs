@@ -8,11 +8,15 @@ const CONSULTAS = [
   '"48 mujeres" Petro',
   'Dapre "48 mujeres"',
   'Carlos Ríos Dapre OPS denuncia',
-  '"48 mujeres" Fiscalía Dapre'
+  '"48 mujeres" Fiscalía Dapre',
+  '"Deicy Jiménez" Petro',
+  '"Deyci Jiménez" Petro',
+  '"Deicy Jiménez" contratos'
 ];
 const MAX = 120;
 
-const relevante = t => /48 mujeres|instrumentaliz|\bops\b/i.test(t) && /petro|dapre|r[ií]os/i.test(t);
+const relevante = t => /de[iy]c?[iy] jim[eé]nez/i.test(t)
+  || (/48 mujeres|instrumentaliz|\bops\b/i.test(t) && /petro|dapre|r[ií]os/i.test(t));
 const limpiar = s => String(s || '')
   .replace(/<!\[CDATA\[|\]\]>/g, '')
   .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')

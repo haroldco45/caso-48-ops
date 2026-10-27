@@ -118,6 +118,17 @@ details div{padding:0 14px 14px;font-size:14px;color:#d5def3}
 .vacio{color:var(--mut);font-size:14px;padding:10px 0}
 .estado{font-size:12px;color:var(--mut);margin-bottom:10px}
 
+/* contratos */
+.contratos{display:grid;gap:10px}
+@media(min-width:720px){.contratos{grid-template-columns:repeat(2,1fr)}}
+.ct{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--c);border-radius:14px;padding:13px 14px;transition:transform .25s,border-color .25s}
+.ct:hover{transform:translateY(-3px);border-color:var(--c)}
+.ct-h{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}
+.ct-h b{font-size:15px}
+.monto{font-family:'Archivo Black';color:var(--c);font-size:17px;white-space:nowrap}
+.ct-a{font-size:12px;color:var(--mut);margin:2px 0 6px;font-weight:600}
+.ct p{font-size:14px;color:#d5def3}
+
 /* aviso */
 .aviso{background:rgba(167,139,250,.1);border:1px solid rgba(167,139,250,.4);border-radius:16px;padding:14px;font-size:14px}
 .aviso b{color:var(--li)}
@@ -192,13 +203,53 @@ footer b{color:var(--am)}
       <div class="col" style="--c:var(--li)">
         <h3>Lo que aún no se sabe</h3>
         <ul>
-          <li>No se han revelado nombres ni pruebas públicas.</li>
-          <li>No hay confirmación pública de que la denuncia ya esté radicada.</li>
-          <li>No se sabe quién firmó ni supervisó esos contratos.</li>
-          <li>Ninguna autoridad ha abierto ni cerrado nada todavía, que se sepa.</li>
+          <li>Solo una mujer, Deicy Jiménez, ha hablado públicamente; de las demás no hay nombres ni pruebas públicas.</li>
+          <li>Que sus contratos existan no prueba que se dieran a cambio de algo: eso lo deben establecer las autoridades.</li>
+          <li>No se sabe quién recomendó, firmó ni supervisó esos contratos.</li>
+          <li>Fiscalía y Procuraduría ya abrieron indagaciones, pero no hay imputados ni conclusiones.</li>
         </ul>
       </div>
     </div>
+  </section>
+
+  <!-- CONTRATOS DE DEICY JIMÉNEZ -->
+  <section id="deicy" class="reveal">
+    <h2><span class="ico" style="font-family:'Archivo Black';color:var(--am)">$</span>Los contratos de Deicy Jiménez</h2>
+    <p class="sub" style="margin-bottom:14px">Deicy Alejandra Jiménez Ramírez es la única mujer que ha hablado con nombre propio. Sus contratos con el Estado son registros públicos. Esto es lo que muestran, según el rastreo de Caracol Radio citado por KienyKe y los registros de Función Pública revisados por La Silla Vacía.</p>
+
+    <div class="cifras" style="margin:0 0 14px">
+      <div class="cifra" style="--c:var(--am)"><div class="n" data-n="10">0</div><div class="l">contratos (2021–2026)</div><div class="f">Según Caracol Radio</div></div>
+      <div class="cifra" style="--c:var(--vd)"><div class="n" data-txt="$133,5 M">$0</div><div class="l">suma aproximada</div><div class="f">Sin contar el registro del Dapre</div></div>
+      <div class="cifra" style="--c:var(--az)"><div class="n" data-n="4">0</div><div class="l">entidades</div><div class="f">Senado, Supervigilancia, MinInterior, Dapre</div></div>
+      <div class="cifra" style="--c:var(--rj)"><div class="n" data-txt="31 dic">—</div><div class="l">vence el contrato vigente</div><div class="f">MinInterior 2026</div></div>
+    </div>
+
+    <div class="contratos">
+      <div class="ct" style="--c:var(--am)">
+        <div class="ct-h"><b>Senado de la República</b><span class="monto">≈ $73,9 M</span></div>
+        <div class="ct-a">7 contratos · 2021 a 2023 (uno se extendió a 2024)</div>
+        <p>Archivo y apoyo administrativo. En 2021 tuvo dos contratos por $7,2 M en total para apoyo en recursos humanos, y en 2022 uno por $9,42 M, ambos <b>antes</b> de que Petro llegara a la Presidencia. El de mayor valor, por $34,3 M, se firmó en septiembre de 2023 y estaba ligado a la Primera Vicepresidencia del Senado, que entonces ocupaba María José Pizarro.</p>
+      </div>
+      <div class="ct" style="--c:var(--li)">
+        <div class="ct-h"><b>Superintendencia de Vigilancia y Seguridad Privada</b><span class="monto">$18 M</span></div>
+        <div class="ct-a">1 contrato · 2025</div>
+        <p>Apoyo a procesos de archivo y organización documental.</p>
+      </div>
+      <div class="ct" style="--c:var(--az)">
+        <div class="ct-h"><b>Ministerio del Interior</b><span class="monto">$41,6 M</span></div>
+        <div class="ct-a">2 contratos · 2025 ($11.151.338) y 2026 ($30.457.094)</div>
+        <p>Seguimiento y consolidación de informes sobre proyectos del Fondo Nacional de Seguridad y Convivencia Ciudadana. El contrato de 2026 va hasta el 31 de diciembre de este año.</p>
+      </div>
+      <div class="ct" style="--c:var(--rj)">
+        <div class="ct-h"><b>Dapre (Presidencia)</b><span class="monto">Sin valor público</span></div>
+        <div class="ct-a">Registro en Función Pública · julio 2026</div>
+        <p>Vinculación como auxiliar administrativa, publicada pocos días antes de que Petro dejara la Presidencia. No se conocen el valor ni el número del proceso, por eso no entra en la suma.</p>
+      </div>
+    </div>
+
+    <details style="margin-top:12px"><summary>¿Por qué los medios dan cifras distintas?</summary><div>Semana y Cambio hablan de cinco contratos por cerca de $100 millones, contando solo los del gobierno Petro (2022–2026). Caracol Radio cuenta diez por unos $133,5 millones porque incluye los del Senado desde 2021. La Silla Vacía, con datos de Función Pública, registra contratos desde 2023. La Procuraduría pidió a las entidades certificar todos sus vínculos desde 2019, así que la cifra oficial está por llegar.</div></details>
+    <details><summary>Lo que dice ella y lo que responde Petro</summary><div>Jiménez afirma que conoció a Petro en 2019, cuando él era senador, y que los contratos llegaron por su recomendación a cambio de compañía y silencio. Petro lo niega: dice que jamás entregó un contrato a cambio de relaciones y que la publicación invade su vida privada. Los chats y fotos que ella entregó a Semana no muestran directamente al expresidente y se hicieron con perfiles de otros nombres, así que por ahora no permiten comprobar su versión de forma independiente.</div></details>
+    <details><summary>Qué piden revisar las autoridades</summary><div>La Procuraduría pidió a la Dirección Administrativa del Congreso, el Dapre, el Ministerio del Interior, la Superintendencia de Vigilancia y la Superintendencia de Salud que certifiquen sus contratos o vínculos desde 2019: valores, hoja de vida, funciones, quién firmó y quién supervisó. La Fiscalía busca establecer si los contratos respondieron a necesidades reales de las entidades.</div></details>
   </section>
 
   <!-- LÍNEA DE TIEMPO -->
@@ -209,7 +260,9 @@ footer b{color:var(--am)}
       <div class="ev"><div class="fe">21 oct 2026 · mañana</div><p>El abogado de Petro radica en la Fiscalía denuncia contra Angie Rodríguez por injuria, calumnia y otros delitos.</p></div>
       <div class="ev"><div class="fe">21 oct 2026 · tarde</div><p>En debate de control político en la Comisión Segunda del Senado, el director del Dapre, Carlos Ríos, habla de las 48 mujeres y las OPS y anuncia denuncias.</p></div>
       <div class="ev"><div class="fe">22 oct 2026</div><p>Petro y su abogado rechazan la acusación. Medios publican más detalles: montos, años y entidades de los contratos, y que cuatro mujeres estarían declarando como testigos.</p></div>
-      <div class="ev" style="border-style:dashed"><div class="fe">Lo que sigue</div><p>Radicación formal de la denuncia, respuesta de Fiscalía, Procuraduría y Contraloría, y revisión pública de los contratos en SECOP.</p></div>
+      <div class="ev"><div class="fe">25 oct 2026</div><p>Deicy Alejandra Jiménez Ramírez, contratista de 26 años, da la cara en una entrevista con Semana: dice que recibió contratos por su relación con Petro y que habría otras 30 a 40 mujeres en su misma situación. Son afirmaciones suyas, sin verificar.</p></div>
+      <div class="ev"><div class="fe">26 oct 2026</div><p>Petro niega en un comunicado haber entregado contratos a cambio de relaciones. El Gobierno activa un esquema de protección para Jiménez. La Fiscalía informa que abrió noticia criminal y citará a Angie Rodríguez y Laura Sarabia. La Procuraduría abre indagación previa y pide a cinco entidades certificar los contratos de Jiménez desde 2019.</p></div>
+      <div class="ev" style="border-style:dashed"><div class="fe">Lo que sigue</div><p>Respuesta de las entidades a la Procuraduría, declaraciones ante la Fiscalía, posible actuación de la Comisión de Acusación y revisión pública de los contratos en SECOP.</p></div>
     </div>
   </section>
 
@@ -244,13 +297,15 @@ footer b{color:var(--am)}
       <button class="chip" data-f="fiscal">Fiscalía</button>
       <button class="chip" data-f="carranza|petro responde|rechaz|niega">Defensa</button>
       <button class="chip" data-f="dapre|ríos|rios">Dapre</button>
+      <button class="chip" data-f="deicy|deyci|jim[eé]nez">Deicy Jiménez</button>
+      <button class="chip" data-f="procurad">Procuraduría</button>
       <button class="chip" data-f="secop|contrato|ops">Contratos</button>
     </div>
     <div id="lista"></div>
   </section>
 
   <section class="reveal">
-    <div class="aviso"><b>Con respeto.</b> Según la propia denuncia, las mujeres mencionadas serían presuntas víctimas: esta app no publica nombres, fotos ni rumores sobre ellas. Todo lo que aquí aparece son señalamientos que deben probarse; rige la presunción de inocencia para todos los mencionados. Fuentes: medios nacionales enlazados en cada nota.</div>
+    <div class="aviso"><b>Con respeto.</b> Según la propia denuncia, las mujeres mencionadas serían presuntas víctimas: esta app no publica nombres, fotos ni rumores sobre ellas. La única excepción es Deicy Jiménez, que decidió hablar con nombre propio en medios nacionales; de ella solo mostramos sus contratos públicos y lo que dijo, sin fotos ni detalles de su vida privada. Todo lo que aquí aparece son señalamientos que deben probarse; rige la presunción de inocencia para todos los mencionados. Fuentes: medios nacionales enlazados en cada nota.</div>
   </section>
 </main>
 
@@ -264,7 +319,7 @@ footer b{color:var(--am)}
 <script>
 const TZ='America/Bogota';
 const INICIO=new Date('2026-10-21T12:00:00-05:00');
-const BUSQUEDA_VIVO='("48 mujeres" Petro) sourcelang:spanish';
+const BUSQUEDA_VIVO='("48 mujeres" OR "Deicy Jiménez" OR "Deyci Jiménez") sourcelang:spanish';
 let NOTAS=[],FILTRO='',Q='';
 const $=s=>document.querySelector(s);
 
@@ -298,7 +353,7 @@ function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('ver');set
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fecha=d=>new Date(d).toLocaleString('es-CO',{timeZone:TZ,day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
 const diaCO=d=>new Date(d).toLocaleDateString('en-CA',{timeZone:TZ});
-const relevante=n=>/48 mujeres|instrumentaliz|ops/i.test(n.titulo||'')&&/petro|dapre|r[ií]os/i.test(n.titulo||'');
+const relevante=n=>/de[iy]c?[iy] jim[eé]nez/i.test(n.titulo||'')||(/48 mujeres|instrumentaliz|ops/i.test(n.titulo||'')&&/petro|dapre|r[ií]os/i.test(n.titulo||''));
 
 function unir(nuevas){
   const vistos=new Set(NOTAS.map(n=>(n.titulo||'').toLowerCase().slice(0,60)));

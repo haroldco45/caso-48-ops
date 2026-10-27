@@ -1,6 +1,6 @@
 // Caso 48 OPS — service worker
 // La página y las noticias siempre se piden frescas; lo guardado solo se usa sin internet.
-const CACHE = 'caso48-v1';
+const CACHE = 'caso48-v2';
 const BASE = ['./', 'index.html', 'manifest.json', 'icon.svg', 'data/noticias.json'];
 
 self.addEventListener('install', e => {
