@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-01T08:53:55.902Z",
+  "actualizado": "2026-11-01T15:51:55.888Z",
   "noticias": [
+    {
+      "titulo": "\"Superintendentes”: Abogado de Deicy Jiménez dio adelanto de ventilador en escándalo sobre Petro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQm9iUS1sQ2pXSE13SHFzMGtFcE9rSWVGMmhSVmtnQTQtNGl1ZFE3NFJrVUg3dU5HRFRRdDVoVkhrbXlsdmt3Q1llSzV4U2N3YzZtSlhUWS1DZmluWHVhVnhTMXpFcFQxOFZpVV9ObHFjOHBjX1pWRFF4cnRVR29CRXU5b1VQa1pNMTdjbDlxTjl0MWd2d1RYei02UnVoNHRuSUpaM0p6R0dUM2xP0gGyAUFVX3lxTFBZUWFiYjF0QnBQZzFOS2w1OE5GdzE1WWFuUDRmdzM5WGUwQXJuT2tva0hTNlprSEJOV0ZaUzFoSmltYXhUTGlPejloLVJyWW5VbEdPT3NFTUdYaHlSZmtXTUl2TkpjeGFRdi1VSXpYa0hJNkxYdWdFQTRHOHlObS1MeHEtT1hXN3BFSTFWSEY4MjNOYjdkN2pHOGNqbVljQWVSekpKcVpCMERtcl9DbGtGenc?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-10-31T10:54:47.000Z"
+    },
     {
       "titulo": "Caso Gustavo Petro: Deicy Jiménez entregará pruebas a la Corte Suprema y Fiscalía",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjZEMEhFcUhrSEEwWFhDQWd6d1VyN3M0QTQ1ektqbFdoWlJ6Vi1Zd2xObUJhSFFxc1RES3dPc2V4aDZPREJ4NzdKWXR1WVJ4bDJ0cmk1aDh1WHdybFlfdWVLTHJxVWc4SUl6NTAydVVONTZXbGV4MzdQMHhLTEh4S180R2VjN3kxM0hESlZMLVB5WU5oSlNvTVd6a1g2SUhhRkxZU2k3Nm0wLW9uaS1ZRGtBeWQ0ZzlzU05COEJuNE5malZGMmxsVE5kWU9vTWlk0gHWAUFVX3lxTE85RTEzNkRGY2JuMWtDRzFCaHkwTjZSWk5ZMFJKd3l4RVZSSWVoSG4wQkZXbU5ZaEgycVVVT0ZxVDh0YUs4SjJ6OHlWT0szbzdxS1VLY2ROWVpOMFItYUd4eUM5NUY5MExZYkstQTFnaWFsNnYxenVFSHdjb1VFU2czbUxsQmswcmhxVEt0dUd5Nk8xTF9PZ0VBdHc2QmtMRWNWMHdPNDB5Y2pFSHFsRDFMQUxrYmtqTDl5TkxXMVVsX2FYV0M2TjcyT2gxZUJIVmM5TWRTTVE?oc=5",
@@ -714,12 +720,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDhwdW0yMlplYnA5aE9JQjNQRUtsN1VYYVNrWkNId2xsU2RPZGJTY3NBZmxZclJFbkVFVndWeUxsY0VvYW9fR2tKRDBzU1NkVkRPV0dzeXRkV3JYMTJ0ZDhoNlNjZDA1dkl1b1RrUndVOHNSYmFaR05YSFRnMVdWbWNmQXpsVERTQllxRklVQmJlRXVMME5oYmlrOXA5Y3hpejJhQkpvcGE1SHhvblhRY3FhVTRTc0ZRZE40Z3p0Ylo4QjFtQk84SGNrUHBPOTBWYjhZbHdTaE05Y0pON2hNVTVhQTVZNUlpZnpv?oc=5",
       "fuente": "Revista Semana",
       "fecha": "2026-10-26T18:45:52.000Z"
-    },
-    {
-      "titulo": "'Deyci Jiménez será llamada a la Fiscalía en calidad de testigo': vicefiscal sobre caso Gustavo Petro y supuestos favores sexuales",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWEtjS1VLWjRWRGExYnRDTjd3Q0J6ZVRsNHk5WUJLbWE1MjZxSVZ5S0FoMmJacEtkR1BlZW80LWhwU0ZsNW16VTZWSkpvczQtMU51VmtQZlR4SG1TVHRzUUcwY0lhU1g2RUVDMGlPR0dYak9BM0YwbUp6ZkdBOUdZY1oxU25XS1cwS0xnSkFQOUFuZjdOQm1sVHFIZnV4MGIxOEtJN253UFZyb2g4WkRTMm8xaV9rSzJXUnJBZXlmMC0yWHo0M3VqNlMwYnpLemk5M0dha3NzanJndm8xRXk2azRXRGNQaGdyWUNpeUhQV1FkaDV5eVlHdnNaMURtTTEtZWRxZnN1V1VOd0JTd2FqcdIBlgJBVV95cUxQNDJUemRXc2hNTTBuQ2l2ZXotRlZyeWJIQ2FST3BKdWoxYTVNdm5fcVBTdjRhQnJpWjQ1cjNqZkIwVWo2Z3NYYkpUVFhyZEMzNlVHekMzVGh3NU1keTFTSXo1RlZuaEk3clQwOXBZbHdUVmh3MkNBOWVkRUh0SjhidWxWY0NJRzVfdW05M01DZURHeVJ3QWtZX0p6czUzN3lRUFpXRnpjNWIxNEk4b1k3TEM1aTE1dkhuTUc5cUFpSUk2Wl9lNTI5Tkk4UmhJMzctVi1HSDY1ZWo3TG1UM3Y5cHRydDdfV1RUcWtvNU5MQV85OTJLUmlsVHJMQTlkcjFzQzE1VVdyMXNhenpHam54alhlUm1nZw?oc=5",
-      "fuente": "El Tiempo",
-      "fecha": "2026-10-26T18:11:27.000Z"
     }
   ]
 }
