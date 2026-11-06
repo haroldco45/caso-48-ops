@@ -1,6 +1,234 @@
 {
-  "actualizado": "2026-11-06T11:53:20.369Z",
+  "actualizado": "2026-11-06T19:00:12.009Z",
   "noticias": [
+    {
+      "titulo": "Lo que dice el chat en el que Petro habría pedido mantener el contrato de Deicy Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yR0xHenQ0VWJ3d2l4VG9WVDB4Y1ZiVFNldmMzMGJjZ09MbTNJajJNTHZ1ZjFxZXdUQ016WVlRZHR3T3ZaWFBPNkt1N3dYQl9XSTVCRE5rLWZlN2NhQTAyWW96Y0NUUWZOdG9mWlB6ZDNoZ0NFQ0tIem1ISG0?oc=5",
+      "fuente": "CW+ Noticias",
+      "fecha": "2026-11-06T18:18:52.000Z"
+    },
+    {
+      "titulo": "Juliana Guerrero se suma a Gabriela Muñoz y habla del video de Petro con Deicy Jiménez: “Yo, por mi parte”",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNREJhY3BuSV9HMEdCaC03NzFuMTZXNUJocExObTllVmc1dEVZS3RSc2s0ZF8wX0hNVnFmXzRkemR1RlliaWctcU9FdjBONl9MQUdmenI0clFjd0R3cF9jR1BhT216ZmpieGhBc2tQY2wyUVJ1N0N1R2lWWnBhb0t2Zk0yNWpkVWMzNWpIeVJnZnpmVXhqTlFDLXNPTkFDb2dXU0NkaGstWVpncktjYnZxSzViRGJTV1VuSFZPMi1IM1F0enA2eFVfcDZNNXZUcHVlcFBwY3QyV0pZM1ZXZ01kRnMza3F1Z9IB6wFBVV95cUxPTk9KbTgzRmRhWUl1WXdPZEphRHlNeE1DRTVBbzEwS09VTWFTVjhZTUk5VmJvMURpTDR3N195OEI4WXZFVUh1SmQtdDNCbVBYVUxoc0NMampVYXFBTUJWT3QwRE1RSThmRklJbndOQ1MyaFJRT1dmZURodkY2NGhla1lVSGtpM3VnSm1pajk0X285dGM2cDU0ck5CRmJ1NHVpbENkMk5Hd0ZZeFJFZ3o0ejBWZFVza21uQmR0bS1kYWU2S1pvd2h6QnB2V1FPUzcyVDJhNmduVHFhSy0tVE9zTUFaTXd2TTNVOFJn?oc=5",
+      "fuente": "Revista Semana",
+      "fecha": "2026-11-06T17:45:32.000Z"
+    },
+    {
+      "titulo": "Iván Cepeda se pronuncia sobre denuncias de Deicy Jiménez contra Petro: 'El expresidente está dispuesto a comparecer ante la justicia'",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQUZlUWRVLTVsOVQxMWpQR3RFc091Nk5rcF9DeWhabDc5bHFqa0diTmthX2xUU3Q1N0MwSV9zYmV5NlVTakxCZ0YzaEhZTDNhb1ozSVNEZk9BRUJFNmRlTTItZW1nVnpTbldTSVBGWlpxMmx3VEJDdjlHTEgwMEZ4TGxxdWVkQ25rSnhxSjFNYVpVOVJ6TnRVcnA0S0xQMzRwM2dPbTBZUzd3YVJDVVpzUDVlY29kRjdodHk0MUtEMVdRcm9SOEFFZVlvaTNwaFRCeXJSZnlqcWNaRXIyUHhEMnI3TnlpSlVrUGVjMW1CdlVmSkx4Yzg0VzhuMjlXZXNYRWVXQkI1N0M1ZThoMzZR0gGUAkFVX3lxTE9DS3hka0llcVlJc29fdGRva0dDQVoyX0RMODBhaXVBLW5FVGh4TVRSOHpsWmFIWEpjcERqQ25uX19aS0tqNWxldnlUUUwwMVNzUXhFVmkwRTdEWGNKaldUbGw0Y1BScE9qcUlVODNJOFFnb0I5UmhnR3BOUy1YdVAtcmJ4WUNiY3VLVHR2dXAtc3hDc3E5bC1wQmhEejFzN1F2QW1BUU1HNDRyRm44X0dhWERPekNvSFY2ZjVWMzRFc0t1WGdTbE51TXg3eDhjVWt3SERtcVExc2Y1SnMzN2JvdXdBTkRiQncyNkZLX3AwT1dwX3drNDhkOERxbVItdkVoaUZxcFQxZllOY3RkRjRlTnk4eQ?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T17:39:49.000Z"
+    },
+    {
+      "titulo": "El debate jurídico sobre si el Congreso puede procesar al expresidente Petro por indignidad en el caso de Deyci Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVjNwWklJek82ZnF6cnFnZUpReDdUTDd0ck9XT1ViRVNyZEhFYUJrMDJMSzlYLWhMYmlDUWFRV0VKLVUxYkZDZkVGakpTakw0cnN4N0lPY1Z2blAtcTgxbkxYXzE5UzA1ODh0OERlLVphbmwyYWhuTzNmbG4xTWFsc1NHWDNna0c4NEs1MUdOX2lkYXJEeVFfUU9UM0pGb1JVb0dodWhJemIxQS1RSVVNR1JMYzIyWnBCcTM0NERHMXZvaHl5ZHE2SDYwbzhfZzBoajNOWDdYVENGR2tUM0RJOWxkeUhHN1RtSE9IWTBTbjRPT1J4N2hpNUc4TkFqTGZ5RUZiYnZR0gGLAkFVX3lxTE9Id3J5UWZ1b2dKX203cXFSVDB0c2EyOTA0Q3I4LUJjUnFVRThtVS1GdEFzdl84QmFIMFJEcXc2c1ZQcWxsWklOS1Q4TnpoTEp6aGlQTExrbFNORV9wVVdYamlxd09TdVhqRmx0TlVpTUhVejNrYmtYa2d1VDgyWFZpalBrT25lWXhfNUNZZGs4akt2WFBTLUxfU1pqZW1FR0ozMXlIM2NuZjdCVTJPZ1dLSm5ZMHhhNnJDT1plZVR6a2lKYlZLQXdvRkZvYU9oRnBBOHZqRkMtazFoWlhIUXZja3NxU3ZlXzFOQTl6VWlHRFJIV3BkM2tDZERmMTRuTTMwbmF1MkRaRnVaUQ?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T17:33:51.000Z"
+    },
+    {
+      "titulo": "Iván Cepeda se destapó sobre escándalo de Petro con Deicy Jiménez y dijo qué hará el Pacto Histórico",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFR5LTU4ZnprQ0ZVSUJUY0Q3MTVjUnJaWjFNRzdXMEZtWkxPSG1rWDZXWVFpc2xKMXp0Qi1iY1dqd3d3VFFJbXhOUjFDdHFxRGppZFE2Wm5uc2hJdmQtWTZLX0xPdldrSmpkTk1HeE9HNlk2VzN2N2ZMQ0p2UFRnVGdjZGtOdEFibTY5N3FaUXBpcGtrX2h0VEExTmhRSFNPX29zcEpiMjJUS2ctTkR4aEJR0gG3AUFVX3lxTE5hQzd2QW02Mm5RaVBvS2xXNDhNMkxzektHREhLZlJsanFxUnhLcnd2eTFmSDFMNTRwRzlhUlFLbkd6ZUJEZW1McWQ4SWFGMDlCTDlJd0VyVjNnTnNfUVE0bnN3Ym43cDNtenJ3T3BKRzB5TFRHVEpGVU1qYlFOazlyb1VWcWJLR3JMWTZLcThLekRQeTg4aGhuRlYzVXllb25qMlI1VkdoWFZxNVlnaUc3REdDMklDNA?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-11-06T17:23:18.000Z"
+    },
+    {
+      "titulo": "La respuesta de Iván Cepeda cuando le preguntaron por el video de Petro y Deyci Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkdQekdHdHp1bGw1anM1b2wtVmlpcjhpU3dEeF9QY1FHT0g3T24tTXZHazVabGstUS1ROGVucTlLOWZZcW5MVGdyX2xYTGh3QnI4eEEyVUpIRFNGV3VzNW9DN2wtYmZoR3k0Rkk5N2VXS2E4UXlMTUNLck5fT2hnU3FzenZFeGVBcTRwTDJyQUw5Nks0VG1zT1BWRWRiaEZ3Sms4SEtEb3RLUE1aalJPcUh5OWNxZldvZTZIY2hSMWNGTHB0U0w0TXdSc19DU25HRE1WMDRn?oc=5",
+      "fuente": "Eluniversal.com.co",
+      "fecha": "2026-11-06T16:51:00.000Z"
+    },
+    {
+      "titulo": "Benedetti y más duros del gobierno Petro, en vilo por contratos de Deicy Jiménez: se arma la grande",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmx3VVRDN3czQVNTN3VyV0dXZ1N4b0VoU3VyM3puUFVTd19QVVE4TFhSNzhSOERGQk1GVU9pb2hEQ0xHaEU0UWE1ZlBBeGdhVUdHUTBIdnF1bnJqb0RZU2tlTVhGMW9jYXdMdXBHZjZmMDBCS0tyRXQ5V0hhOVZ6eldQOExLYVRNcjQ2Q196emFMZUpSWU53QVFNZnVaT1pielgyZ3BFa9IBrAFBVV95cUxOMUJlaG1iQmxBMlZFa3NsUk5zOU9WWHREODhxdktzcEUyOE1BckE1TGtWQVBxRm8tRVUxdFJfZ2F6RjhlSE9yeXVLQlRWUnVMQUpLRTNadnhkaU1tQnhXYklJbmhuQ1hNaGM4Ykk4RjVTZDJieVNzTGpwdy1WYTJGano4dWYxbDRfMmQwOS1fNl9vXzR1WTRITWxtSWoxZmd2U011Z09fR2pycGxr?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-11-06T16:36:30.000Z"
+    },
+    {
+      "titulo": "Fiscalía citó a declarar a Deicy Jiménez: esta es la fecha en que se tendrá que presentar la ex trabajadora sexual que señaló a Gustavo Petro de entregarle contratos a cambio de sus servicios",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSE1nMS1PT3VTTGN6M2hhRTJoUENSeXhQb21yd19VUGZRVXJQUVVOcURETHJmeDlUNVZ4OFZ3aHR6MU9RQ0hpWnEzOS1WRGVLQnNNUTJtNGZISHJPMkZTcDIzdGtUaGhKZHh4alNtV09DaktRdTVmRFVfQVU4X28xVG9HbWlIbUw0c251Q1hzeC1hSnRtSzI5eVg1MmlPRlRCdDZoY1VRVmtncW1Pd05XR0o5VDM0RFluaFBKZkxlRVJiNWdlWHdTYzRWWlh3emVaN1RMWEZVQ2l5VldJVE9WUTUtRUZvSVdUd2ZtVlBwaFd2dXRINmpMTFhCTWl0d1J0bEduUEVWLUpEMWRUbU5YZ25Ib1VWbU9mVnRFcG5VRFR1dnNXcFV2aWVfVUx0cy0zeEpTdXp4YUdXSDk2MGF0Nk9qUVJrbDFrMExTdGVoR3hMUkt6VkHSAfACQVVfeXFMT1gyalJ4RmlTaVdneFloek1oY3QtQkRIRmFyalJSMDIzMm9vY1ZHOUYzcWwyMjk5cl8wMXdvbDhJWUZOdExYUVJSaXJIWHUwOEw5QkNONThNM3V0czdNMGNONW1acXpPS1FzMWpQcXcyVW90ZW05NmI1a1VmRVFDZmZ5Z1ZtbkN4bVE5aFp2aGxJUHQ4UDZ5eGNFd05oMkJMYlc0Q1pMdl92S1I4VUUxdnBTUUZHYUdVVFRxQldEVFNIN1BfbTR6bE1TVGcwR2ZzdFlhNnYzNy1GRFFIUzdoTjFCR0hfcFhsYW5pUy1veW1ldHc4TVBzTHZySjdDVDhnRzJJUzhiZzN5aUx1dFNFazRwekwxblRITGRPalRnYzB2em9EZHoydUpUMXRRSEpQMWo5d2FQVmZ4d1JxbC1pNEg3T0hRMl9JTW5TRXpMbDRfTWp2ekpyVjE1Ny1NNktxdmFEanlQMU5uR0pTXzQ0Z18?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-06T15:59:00.000Z"
+    },
+    {
+      "titulo": "Fiscalía le dio aviso tajante a Deicy Jiménez por investigación de contratos y Petro: nuevo capítulo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGJmTVY2bDlHUE1Eblc2OWpUVE5YMl9SSDNEYlVnR0RnZXZrV3laYnVTR0otcnd5eHNBSy1GenVBaV9xNVBSMVZSeC1wVG54RTA0UUZ3V1kwSjRQQjAyQjB0M3U3Z1YwWk81azJzTGVVQTQ4RnZkWHJ5YVpmOWNLUmd0NVd6NHo0QVdXcVZQRDllNG03dnV2V1lqNGtSSGJncjFRWjljSmRsV1Q5SjkwVEx30gG3AUFVX3lxTFBpaVZHTC1lQ0oxdERTVXdBRXRCMjQzME5CYmUtNFdfb0FUVWR1bVhBbUpKTU50NG11Qjk2SURadU5RX3FBSlBzbEFlZ05CZHhYRmp5RXZ2SS1TemtaZURuSjFTNWZDbzl0eDJsZmJmdHAxb1VIU0hxOTMwUTNPZ3RBWFMzZUdqSTRyQi1CRmFvS2k0S3lNZkJ0ck14Sk1CeVdGT09PeEJOVnAtMHpRWEc4OXBEd2FsUQ?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-11-06T15:57:50.000Z"
+    },
+    {
+      "titulo": "Este es el contrato de Deicy Jiménez en el Ministerio del Interior que Gustavo Petro ordenó mantener",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGttNU5QbkYtVjhUbmlGYWJqb3BVRkZ3U3R4QWVlSk5Gd0pNanV1bHR0aUx5Mi1RMFB3T2R4VnVjaVZmZW1HcF9rOGZ6X3RUX3JpNXFJSVp1RzZBRTVaUUJLdjlFSjRBS0pEemtUWkFnM2gzdmJqcmxUTnNqemp0ZFNQalE3ZWxBYzFoYlhwLWFES200WEpFMUpzblVfU2M2WXk3Zk1ublFHVGxJLVNXUmhLN3F0ajVfSTRNUFNJdDNWX0d2clhYRWNxSFhvUFZJem53S1JOekdGUC1VNXNXRWM1d9IB6AFBVV95cUxOQUJma1pnWEtFajNIS3pLcE5XMTJhMXNFa01pa0VheWVxT1ZtZFBiZmpKSDQzRllQVG9MM1FCODJxVHhWT1FUaWxoUDBuYW5tbEw4cjRVVkVsRERPZTIycTFiUDNHMXEyNzVwYUZ2VWZxYnE4VXVtWE1GblpTT09ad29Vel96MVQzeDFMOTJDRFl5b25UNzVqSmJiV0ZiakpGYjVQMzdXczk0Y1Nyd180OE5HNmV2cUFwdUZFRTRNRmtfaFlpbWhLbU9DckZVM2t4UTNmR212U21POUNjcmRxR2dwRjJ6REhU?oc=5",
+      "fuente": "Revista Semana",
+      "fecha": "2026-11-06T15:48:40.000Z"
+    },
+    {
+      "titulo": "Procuraduría cita a Deicy Jiménez e investiga el origen de sus contratos en entidades",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc1FVd3R0OXdRT0lkQUtFYkJmb1hRcThReDNmY1I2U01TTUM2YVpSRENwRmxwYTl0SEFQQkZoZlR3cVdDbm1DTmYxb3lQR203dGc3WFZZSWpQanN2WGJucTRxb2F1eEF1d3FQT2lJaS1wdzJOR1Fhbm8yQ1lhTG5raXUxWG5JVmgzX2luUkRVUkFjRmxwSVppV01NRFVVRkhERHBPTGhLSTB4WDZ4bGZXY3ZVWFJZdm9SSFdxanRHVFlLQVFQMi0wVHQxQdIB2AFBVV95cUxQdGpFUlpRMWlvelRnbmtrUjVSTlVBZUFsNmxQUXZqelRLdmdKUjVyelY3QkFrcUZTejBSdU5CYXZxQ1FpVGxkRGR0cXFrQ0d4RTVUUE5JWUJJTkNaYVNaY3VYZk5qWEkxWTV4a3Q1OXctYl9PcWZMdVJEVHpCdWVzSXFCeDgzdlBMcDlQUjVFRDloRWpTUXAxVUZwbHJLYUUxUG15OFV6aVMyY1RyTktpd3VpQmlRb2Jrb01qbVo0b2tqaTJzcWxLRVh6b1ZUS2pnTlktSWVicmM?oc=5",
+      "fuente": "Noticias Caracol",
+      "fecha": "2026-11-06T15:43:46.000Z"
+    },
+    {
+      "titulo": "Fiscalía sacude por completo el caso de Deicy Jiménez con Gustavo Petro: anuncian nuevo paso tras video con el expresidente",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQWVwQUdtTG9BcldiY3Fub3dzbG05eFVCdG05TnR1akFUV2F6dkdGT3Vza3o3WFFuRVp2VzdBYXJTOFJDVjNtb1ZnNzExbVZYbmZkWWtOLW1VVExjQVE4VE1rdVo1WUZNdHk4VmFVeC1YSGN2SmxsUU15UmZIaFlOUFlXVmkwWUNJWHM1VzFjeVNzbmw2cUI5bmdjMklBR0U2ZHNGNi1pcTZBVUZUdG1wN1VnUDg3U2pPZldUbjg0SGd0UmZVUkhzS3VEamY4ZGhFd3dORFpJcHRLSW5ZNHVybTkzRWhXM1hpaWdWMHlZa2xla3owbThBQWR0Uk1OelFBdEE?oc=5",
+      "fuente": "RED+ Noticias",
+      "fecha": "2026-11-06T15:23:02.000Z"
+    },
+    {
+      "titulo": "El chat clave: así fue como Gustavo Petro habría pedido mantener el contrato de Deicy Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTg5NjlyQW1tZlgtR0NnVklNeWZnMEQ2cVhXUFdIR2ZrTEtmeUEtamdLaDVrTzdNTEtlSmZvZHZhRUtpdllLTjJGOHFVaFhaSEJxRS1JMFZ3VWtDbWVHS010aFAySGV1NDByUE9MWjl6LVR5b0FWNzI3bl9LUVFsX0JrNFlLNF9DUnNxUkhvS1NDZm9PT0F2eF9IN1cyYVpfQWw1NGVRalo4YnBQa25aV05ZakJhd9IBtgFBVV95cUxQTTg5NjlyQW1tZlgtR0NnVklNeWZnMEQ2cVhXUFdIR2ZrTEtmeUEtamdLaDVrTzdNTEtlSmZvZHZhRUtpdllLTjJGOHFVaFhaSEJxRS1JMFZ3VWtDbWVHS010aFAySGV1NDByUE9MWjl6LVR5b0FWNzI3bl9LUVFsX0JrNFlLNF9DUnNxUkhvS1NDZm9PT0F2eF9IN1cyYVpfQWw1NGVRalo4YnBQa25aV05ZakJhdw?oc=5",
+      "fuente": "MARCA",
+      "fecha": "2026-11-06T14:57:34.000Z"
+    },
+    {
+      "titulo": "Caso Deyci Jiménez: Fiscalía busca citar a Benedetti y exfuncionarios del Gobierno Petro",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUjZXTXJ0ODNhZE5tQS1hVzRHWTNET0F1aUhHOURQM3JyMGJNajYteXp6b3FlWVpyN3pyMjl2TzVoYWJRRndtVmlteXZvVHBkRHRneklnMFM5QXRkODFROTRMQkxSSTJvd2lPUmt3UTNCZnpRVmdlbVM3ZXdDWlZfSzJfRV9uV2VEVEJ3UENJR01KallnOHRiNVZuTFZMMk9YYmpZYzdFaVZING9Qa1hYWjVkbmZxMTRINkFWWFBkNzQ2T2IyNU9JUUxxVUNqSXJSNTNiOXFB?oc=5",
+      "fuente": "Eluniversal.com.co",
+      "fecha": "2026-11-06T14:43:00.000Z"
+    },
+    {
+      "titulo": "Apareció el contrato que le dieron a Deicy Jiménez en Mininterior y cifra de cuánto ganaba",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1FJOVJJY2VqTTdzUjVNX3hQS0U2RFI4dHdHa1V5UzZzYjJzeE9VelZwbk5lNjRvR2JxczRfbFpkd2Q1UEVvY05lQnVxMnpWcGVTc2Z5aXBUREVDaW5fa0dLN2ZMTnlUbVh4RU5KNlBmdHVMa3RoMU9XdFpYajZId3BrSGM2REZZV3RUMmJSaFBtUHlWSkZWcnZmOGdjcHRRQUZVStIBqgFBVV95cUxPdlVLUTRrM29tNEw0aDBrbnlseVpiQU8wZ3lObXNYQTFTal9URTVGbExCX3QwaFUzZ0xTc2Vva1h3UkdNeWduc3p1Z25nQnZHSW9NQVVhY1J4a1VJdjc3QmFiOWhNTHJWd3lnckt1cHlFNXJzOXpmQlU0QnJXcUpFcUpObUVUd3VBV3ZUY1JzTkd5RGcyWExZQlU3VFVwQm9fcXJtajBDbHFxQQ?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-11-06T14:34:47.000Z"
+    },
+    {
+      "titulo": "Deicy Jiménez entregó evidencias a la Fiscalía de contratos a cambio de favores sexuales",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMmQxVlZSRXpJZzBTTERHUXRZLUhLZC0wUWpqdlh6SlpwamZXOTRDZFY0ZXZLMlhmNWFSX1FyYkJwZEtmZ2tOOTBTV2hsLXNiTUJEV2stZ1BnSG9wYWVGYlJHYUpwRDgzTWpscWhhdDlvQkc0LUZsQm81VjNENUMyMjg4aGc2cWtkV2tsVENmTHF2cmZGNVE2X2VnbXBpZHY5S2p5VFJXeEV0ZnBNVVJ0cnhjc1ItSXNTQlBxemlabFdMU25IdEVoS3dtNDlmOUpOcDBoOXItb1fSAdgBQVVfeXFMTWI3RWM4bEI1R0R3RVEwczAtVldOQ1V3bjkwT0k0TUJIZTNGNElhZGZzZFYwU2ZaNVJlNTRsdHZDX0gwYXAwemNKOWYzeC1sLVdGbEFIRWkzRzAzTXJfRDE3YldGNVdiRXBWTTRxb1MwY21LUHBTNHZCUHRSSzAyaHhiUGVZaUlUeGE3bHpKdGhvSjMxS01pMW9sZ1BSMlEtQnlCZ0pjQ3RWSG5BYUprSk4yRmhFZjljQTU3TGtOdl9PbkFZWl9YYnBTdExjV2R3aWlldHgzNXVB?oc=5",
+      "fuente": "Asuntos Legales",
+      "fecha": "2026-11-06T14:32:58.000Z"
+    },
+    {
+      "titulo": "Deicy Jiménez se pronuncia sobre su denuncia contra Petro: “Mi compromiso es con Colombia”",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlI0R3VYUVJ2Y3NLd3k0S196cVkxTXZkOWRQa0NUa3ZIUmVpdVN2eFVYbUZvV1RpSVMxQk9KRy1JTzRfdzRmbU1DMXZwMW9mUi1tTzZBWFNTWmNhaXBsVkhCZ0RPUThFbFRRUnFRNWhvS0pNTU9neUF0bzJ4TXJBS29vQXpTRGp5ZkFCRmN0Wm11SmczLVJlMEotUXkxUkJTM01BeTBnQTI3T0tNLXJyMVdRUWxZYks2cWVYRjRFSlpmUVZMaUtR0gHMAUFVX3lxTE1vRnl3R2haLThGSjk3RWtnUXFocDhUaS1GdXVpeU0xaU9ueFJmazl0Z3FGb1phM3lPUDIyaGJiVGNxY1BRR3M5c09hM2ZRTThwdVJWUVFCRTQxVjI5NXRvTFdsalNwTzVFSkNvZ004anczT0lIRUc3SXd6UGw1VXlnUUU1SnE5Zjh5bmotbGJOOUZRcVRZaFl6VHRRNEV2WjBQd1pONEQtS2RoSGUyVEhkT1VjYnhQVGdyOGFrd21YNkZKRHRnVll1dVptUQ?oc=5",
+      "fuente": "Canal 1 En vivo",
+      "fecha": "2026-11-06T14:23:04.000Z"
+    },
+    {
+      "titulo": "Congresista Laura Beltrán 'Lalis' reacciona a las denuncias de Deicy Jiménez contra Petro: 'El silencio no es opción'",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMFUxWms0VE1ZMUxzUmxVNWEtOXU2U0g5RU1mTmtLbUVxYWhidHZ2aHhaeVBXM3phaVBWQ1dqOWJOcjFMWXB5YXpiWjNPOTB0ZlRSWkstMlJNeW1wTHhEenVzY193TTZrOWNiODVZRmJTUG42NV9veWtWSVl1Y1cyYnp4TGNNbDhCVXFiTjJhWXZZTE9IdW82b3hsNnNLbm5pZmVnbHk4NzdGNGdONTc4aktwTDg4X1dEMkxUTjUxdzViWWhaWUs2QkNLTmFlc3JYaXpxbnRuSzVXMEtfak5lLW5EYmhwRHJZN0JXb09ZR09ZczZySVHSAfsBQVVfeXFMTmh2Y1VmZERBeFFJMUtFWTE5aUFJcVBiWW8wbkhYSVdOQ2RpVS1zdEUzTUpnYjFrRG1oYlhpLUtZbkVEelNDeG9RMXYzemo2X1g4MU5sYnNMUV9VS0ltcEtQWVZ0cFBNYTFHeGVYek42M1BlNEVUdkNMaDVvNlI0b0hfOTg2aTJIN29JemZabWJxLXlkeUtfZFFTeWdlU080ZVZWVWJKZGpoaWFlbGkycDlOZ2IxdmdyV2x3TndlZE5lTVg1bVVHeWVVTGlibHlQbDcyTnkydDAzWkp3aGdhU3lvRmUxM1JtVVllTUVLQXRwbzZqQ0tWRExOLWc?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T14:21:23.000Z"
+    },
+    {
+      "titulo": "Fiscalía fijó nueva fecha para declaración de Deicy Jiménez en caso Petro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlo4Q0RacHhQb0sxd2Y1cngxUUVyaFE2X3VvVFlHVVNsZEFtZ3dPTmtDUEhDQTk3LXFobEI1c1JGTFlfZ1ZuQ1VveVlHcWNKNUF6WGtJOGxOR1VmbFF3NGlPNGE1X0REX2pZcU15My1xUVJScG1XNk9NajEyNGtNSjJtRXVTOE9QTW9CekVYaTluZmtwLUUweGpYUW40LWZHVXRMWUNlUi1zQTdt0gHAAUFVX3lxTE0wa3NJNDQwY0F3UVJxX3FoZXB4b2FuOWlkTkJJYVg2c29kNG1hN1gtaUFaUnd4TkRLd0JpazFhLVJPcHh3WTVBaDhNYUNZQ0ZUTGRMQVYzU3RUakRSRVNlemNTREg3VnRsUWtjUnhlWnJLQ3Z2M1huVVhqNmU1WTUwY3lua3Q4NWpFakxHd1RVZ01WZ3otZGhkUFBxTGp4V2hTWnJEckVJanFXTDAzeWI3OXZ4YXY4cV8wdkxzWm0yUQ?oc=5",
+      "fuente": "Caracol Radio",
+      "fecha": "2026-11-06T14:20:22.000Z"
+    },
+    {
+      "titulo": "Caso Deicy Jiménez: nuevos pronunciamientos sobre denuncias contra Petro",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFlldm1DbUJlcmxOSEQ1ejNCRUJVTDZxN0JFakNNei1seDE1emhlNTNIV2pSZGp2ZWJZanU2cUY0NmR3SzNRbTNyeGFRUkpyNUVkQmdlMmxQbUpFRmRCWU5aWE1qTFg4MnR2RDVWU3NvRFBFV3NkTFp3ZXhJM2JUUG13MmE4U291c2tISXVMUHA5bEpLT2FkMlNDcExsWWdWRlVLR3lmZ3BTQU9MQUxF0gHDAUFVX3lxTE5jNDR1OTlhdjNROU5HS1UtY2FXZ3BFTDl1cUo3eG9Vc3NqVVRlTDhxbm13TkE5MVR0c1B5YmxGdzBMbHFVaWNQaDZxSTR0NEVTTnRBZUE3ZVZacldBV1VUdWl0eml3ZUNSU3ltSU5GZFVGanhVcVNqQUN3bVNQWW1lbDZEOEtUMkJyeUt0MXZ5VDVmRW9WQ2Y2QjVReUtnd2g5TVU0cGlFUXNnMXRRYXJDWDdkbVVqajFUZkxXZkhTb0JWNA?oc=5",
+      "fuente": "El Espectador",
+      "fecha": "2026-11-06T14:02:19.000Z"
+    },
+    {
+      "titulo": "“No vine a hacer espectáculo, vine a cumplir mi deber”: Deicy Jiménez habla de su cita en Fiscalía por ‘sexocontratos’ de Petro",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNnItX3lGZW5ZMzhCYnMtY09VVEpzVi00ZVhNc3pqQUhsbDRyWkRyVk1uWllwSkk2TmZ3ZXJ4czQzNXlweUlwOGZoNHVYVkEtMzJzSUxiNVNPb2NlbjhHYlRMLW52Sy11aWNlTGgtZUVJU2JNR25jbURpajd1X3ZoR3RMT05MZXZRdl9mS3VQMFlsTzNpZmRTTW9yUUNIaldLTFA0VXFpNmVXeTRGcjA5MzZuRjBQNXZGOG12RFFnNy1fVndnUVhNaUxjbVNfSFFDaUJTaVQxNkpxMG9oSFhEbUZjNER1TUNfc0pSSlZvbVhnbXk3WXV4SnlMb3fSAYICQVVfeXFMTzVDc05oLVotZk9XZldrR3hhQk5qTC1qVkVoUDJyMlJkdlNmdU1jS3NhOTgxRU9CMEFtalRvV0dPN20zUGVMVy1sNU53bkg1WWJtdV9zZFdYcDhjUXNfZ0JXUTNoQlFNeWlTQk16UEVuaGpHWV9WbEZZOTIyRXdqUWYydkV6TDlpc2stTjgtTmt6YncwZ0hNQ0JtcHJqQzhZN0dLLWFFWk03dkFvQzdjS0tZNmYwcGt5R3MxdldCeHZ2M1ZpX21VckhEMGNLOTh0QjNhWFVYa09tSkpBZXNGMmhDeVl2VnpfMmtqNDJoTFhmVERYREZrRlpMYzBwS0VkUzFB?oc=5",
+      "fuente": "Revista Semana",
+      "fecha": "2026-11-06T13:58:45.000Z"
+    },
+    {
+      "titulo": "Diligencia de Deicy Jiménez en la Fiscalía por denuncia de “sexocontratos” se extendió por 15 horas y terminó en la madrugada | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEhoQnNLR1FrdnZ4cjJ2Rnk4ZUJKUzVXUFZIOTZnQ1lvcHM3bFF6NDdDaE1EOWhjV1JGTmMyalhVZjgxNTBoSjA4bUlCcU1ZR01rZjhSOTVMem5KYWNMQUE2QVpZcHprcEVROGx1bWlUOFFWNkEwcFNzNkxJRWxUZ254VUxxRUJ3czctSnRRSGMwYklCMkRqSFdENS1MY1Fn0gGmAUFVX3lxTE5USlpzcXN2akc5dTJSNGJWaXpmQ3E2M2cxZHJTbW4zeF9Ba2xrNElJbjNMNHBkXy1aU04wcFJ6bENfVDVBbGp3Nlc5bTUzRzBydC1nbm5uNHpDcWM0RXJDdnp4c0NGVEdYUktZdUVKckdWUDJla3VRMW1RcDFiaVltbzh3SVZTN0dQdWdlU3VvTUtVZGlkTG1FdlY2MjNabHFfeGpNZFE?oc=5",
+      "fuente": "El Colombiano",
+      "fecha": "2026-11-06T13:22:25.000Z"
+    },
+    {
+      "titulo": "María José Pizarro rompe el silencio sobre Deicy Jiménez y niega irregularidades en contratos del Senado",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb0xVNUdjNUdfMFllMEVSYmhWMGhsZnp3bWk3dGRJcEt3V0ZSeEE3ZmNGVVFBLVRiNTJHSy1DRXpUVzJROFdwXzg1ajdBM0JDYmZjeDM4bHo2aXlZbks5MGRSUmVETy0xanppX0dPaEJoNlRYdk5ZeDI2ZGVFUTdVbGVCb0FKMGFCaFRxZzh4bUppVG5mNzk1cFk4V1NUaHFlc0h3Vi1Pb2NkSjMxU3VKLXMxd2huU3dHNm9VQTBHWnV0TDg3Z3pQTElJLXVlSE1WYTRET0RKRC1vQXkxTWlRaVpGQjc4Y0lua2hB0gHwAUFVX3lxTFBXeW5VVTI2V1NkTUEwSkM0cjdvQnpEZXoyYlJPZ1FSWkFUUU9xcW5kVUp5a1ZzbEdQUWFfNV92bDM5VEptMEZSeEtpNDNiS2owMmFPZm5TRExIZ0cxblJnU1JYUVI2c1FPR0ZCMGZuazc4cmJlYW0tNHp4MG5jVnlFc1M1REdhVVNpc1R5a1pUaUxxVkRDQ1ZQY0tHWkJ4R1djN29FSXVpaF90akhxMVpDajhOcmNLaThhRWg4OWlQZXhXQnBRb1VrZDhCaHNYRXJIM2RUUU9hV0t0eGxfa2kwbHJCM3M5dHk1N2ZFejdvSg?oc=5",
+      "fuente": "Portafolio.co",
+      "fecha": "2026-11-06T12:59:47.000Z"
+    },
+    {
+      "titulo": "Paloma Valencia pidió investigar a Gustavo Petro por las denuncias de Deicy Jiménez, que lo acusó de entregar contratos a cambio de favores sexuales: “El delito está probado\"",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOb1NqeVBpdWx0Ql9lMVdTZnJPcHZ0R0ZBc1k4ZXFubUZ1QzVhM1d6X3Z3Qk1seHJBemRkUDFCU3Bld1FDcDRyenplUFFmU2FjU0txYzh1MWMwVUVWdFJQNHNqWjlfN1pSQzBZU05qRkQzQk1JNXFybllGc1h4Nkp2QjVEeEtDV1ZmaG90TVVxZUVHc21XekxjRWtValQyQzlzSm5IZnBwbGNfaGN4TS1jenVGbHZwMl9Oa3NMN3lGVk5rdms2eDExS2Q4LVJEbU1KRzU2TTduc2J5OFJENXAyWkI0ZkZBWmUyQkIzLTB6WVFsU0xzSzVpbURBZjdFeGlkNmNNSGN5V0VVWVRsQ2phUzJ5VnJtbzJFWndpOFNLYjEyblVlalEySDBLOHR4UlIyNmx1N2FpS3BRYWPSAdYCQVVfeXFMT0trb2F5QWVnM3BwWS1lNU4xRFVJY3JNTUVuUmdldHF4NnQ5QjJqVkhzblpxN1d2dkRmeW5kb3R2OUxpYndTWkhOaGZDZGZ1a0VoaldvOXZHblplNTFfd09KTHFZZTJkZXhRN0tKV1U0TE9zbjZKZWRCUGltRXZvVE1PNkE2OUZuSlpicmhqSnJtZ3I2VE5yLUtZbmlYT202cXdhd3ktQVZ2YWJmVGZTRnBEeVJOcWhweWtEVGVlaDBqQkZJcF9SUFdKUXo0enhsd3FwY2FQYlNtUTV6UWlwdklQNHhQUVVWcUs3eTdoalNMSEdxRjlUNXJPSmQwUEpMT0cyZzVOYnliTHJ0dHkwSjY5cG1HcnpEWHlfR1lENkdER3loWm5MVVpvS0FaSF9zazZaeERRUDJ2S0ZSYTA0eV8yaXNaV0JyTDNpVlhWU2hoOEZKNEZB?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-06T12:42:00.000Z"
+    },
+    {
+      "titulo": "María José Pizarro sería vinculada a la investigación por dar contratos a Deicy Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSklOVTJaVWp4ZmE4Z0ZUZUZVcWRES19uakVhc0N3c1dTZHBxTTBfWDA0c3JCQ2lnQjFpZ3BvNDVtVkc4QlRDeVJjcjlUendXZTVwV19WUUl3dHhoUjBmQk9zM0xITGtzNEp5LWdSeVMzNUhxQmdEcFN3Xy1GYmo1TmZqVzZkb1hxLTFLdzZTY1NXQm5vQ2NJ0gGXAUFVX3lxTFBxYmdBRFpvellRc3lETnJfdlhXRVR2ekpUNFN1clpkeWVEU1Vjc2ZLdmNKQmZxekw0bDFKVVJmWW5lTjRILUQ2UG8zT3Q2MUhJcEpHUk1kb1FSRWtCOXR5WHVYQ3pqb2phUEw1ZEtGeGdjcS1sZ1NHUktvRVRxOTBPbjBtZGxSYUtsRy13ZVg3NGpFZE12WE0?oc=5",
+      "fuente": "La FM",
+      "fecha": "2026-11-06T12:31:49.000Z"
+    },
+    {
+      "titulo": "María José Pizarro confirmó contrato de Deicy Jiménez en la Vicepresidencia del Senado",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmY1YzRkaTY3elNmcENqUl9XaWo5NENHb1ZWZ2hwYUktZ2dDdkxCM3A3LWszaGFOU24xcTRSTHF6LVBCbEE3WjdrenJWYnl3NVAtSlAwS25rSm5hTS03WkItcFY4VlNKZkwtNTZQaThNTjJrdXFRSENmT0NXc1RsLVAwb0luZGNDT09QQVVRSTBPOGsyanUzUmlna0lqVHpZUnpPTEdfNk9KVGw5Sl9sajJSdEozSGphRFBmZjFEUXhaaHBtWHhqZHZaa0gtZmhTZEM4WS1n0gHWAUFVX3lxTFBUWXhCQ0pXMklRU2NScDhxY1lFR2NITXBQWnc3a2tPbC1CaC1VYjZiNGF2UFg5U0VzY3ZJd0xTaWttc09EQi1NbW03b0ozR3Y0MkozV1hmdmdoODRLam9NTUJsY2NsT1dnTUZRcUlqV2JUQlg2Y3ozWGd6ZVF6a2JDcUZhbVdRaGF2alpvUUtNbHlVcUZpNzBETmlFLVA2bTI3RWluVFRhYmlwQ3JMdDZydU4yVHhpS1U1blMwX0EyR1Y2c0N2VjI2TWhIbk1lWllZenNtZ2c?oc=5",
+      "fuente": "Asuntos Legales",
+      "fecha": "2026-11-06T12:28:06.000Z"
+    },
+    {
+      "titulo": "Deicy Jiménez publicó nuevo mensaje en sus redes sociales sobre las denuncias contra el expresidente Gustavo Petro: “Esto no se trata de si un señor culea o no”",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQeVdSM3IzOGpzbU5SR1UtTnc3MWNaX1FsR1NLNE02RVVkN2F1QVV1Y0RqNV9VMG1PUnEzeEJCN1VhWFpxejJvbDRHOFhjOWgxVE1wRURtbVg0SjFmNFM1NmVBclI4M0JRb0E3MXNOY3l6R3FpbDJmLUcyMjc1OXVOR016U0VsYkw3OWhDSHl4cjUzeFNVczNrZ1pNclFKZ1J4RGhacEwtUzI2Y05wWHJhX1NxSUNVRWkyd1Q5QU5QcGRIbkNGT1RTaUxTUVUwaEtyNG5VV1dxUzd1NlhNUzN5NTIwZGdUbXJfeTZTb3hMemd4ZFBpaVhJME9oS0d1TVUzOEhqd2NWMFdDMk9NQnVGbnBwYTUxak9ReWFkR0Y5MTRTYzRzb2RzbElR?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-06T12:23:00.000Z"
+    },
+    {
+      "titulo": "Pedirán que se cite a declarar a Benedetti y a otros poderosos alfiles de Petro por contratos a Deyci Jiménez a cambio de supuestos favores sexuales",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWW5XQnRCRDh3MWpaSVBxQmtGSFJzYU9mVXFUMWtXWFE5dFlkREpjMHpJVTdkeEc5bmRtVVVuUUkzZmFkZDRwSGJhalZDLTI4VVNXRGN0X1FoTTkzdk0tbHVOd1Z0ZTNuTnktYVF3M3N6Y1dWSjNZa0t5SjZvRktxVm9UTDFHVEJSd2NYcTczR2RVM19GY3VxblhGZ2pZYmpGc2xaNHNVSkZtYlFaaDE3X0ZQU1U1UGZEYXgxeG9BckpxUzZMSEpnOWZoT0J6bUVVLXBoRE5ZcjlUOFVXelhxZFZXdHYwcnp0am1ldU9jQmlKS2F6LXhCVnp5bFpIUVJLdUROS0JrRjRsSGdwcTZIa1pnMzl5d2kwemc?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T12:21:15.000Z"
+    },
+    {
+      "titulo": "Deicy Jiménez declaró durante casi 16 horas ante la Fiscalía por señalamientos contra Petro",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlFwVjd5RTBtRVVPemxTR2FKOWNxcFhUYlJDVThUVjlfTk5zd2ZpVlFla0hiSjhiRUVPSEFPZmdmWGdDTnptRjFfRGxoQWFTd185bjR1dTVSX1BfWjZURW5BZ3FzaVp3b1FpOGhwaUpncXVnU3hRczl2blg2YVQwTUJZTFFEbHg3RW84VFdJbGdXc2NhcjFmNF8zU0dUTWJsOGpseS1lbGtxS1MxTHRPcWxpRVdrdw?oc=5",
+      "fuente": "La Opinión Cúcuta",
+      "fecha": "2026-11-06T12:20:54.000Z"
+    },
+    {
+      "titulo": "\"Petro era la palanca\": ácido comentario de Néstor Morales para explicar contratos de Deicy Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkJ0T0dUQTYtVGN5N2Y2Zkg0X2xidGxyX19SaE9xR2IyaWhxaXFNWG9BaF9LSERJWTNnUkcwcTM4cDIyOWhibXBXZjdfMDNXM3FDS1ctX01SWmZHSG90YTFERVV4LVh6cjhQR2IxaWlKS2FYdk55Z2FfUGc3VDNQdXZ2NVhPSEZDRi1XTUY2T0F2cnNhenEtYmw2TmFTRHVtUnJ4Z1AtTUtSQdIBrwFBVV95cUxPUlU2a2pBUEpEZjdqd2JWWl9vZU9CMk10V2tScFlpT09XZVlDM09RdlRoLXVXMHVTOGlPOW5BcG5jYVphQTFobFJSRkxCNkNNTlBwR1ZtV2o5c1RYdjNYbnZ1X1BnQ0p3WGxvazg0S2ZTeW5wVzdUd2VOSWtlcUktMWxjR09lQW15RFY3VVhpVGY5UXNIcHByYmJoSmM2WWNkUEZvVmdPeWx1N2ZSZjln?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-11-06T12:12:41.000Z"
+    },
+    {
+      "titulo": "Deicy Jiménez tras diligencia en Fiscalía y video con Petro: \"No vine a hacer espectáculo\"",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNek94VEJGSUROV2dqQTJENXVyMkdrcDVtMUtickVHaEUxV0ZIMXRFYTZSLVNldlB6WXZlTjhxV1FOUmFqdEl1alRIRjdZay00cUdjSnZ0TWdnYWhoRWhxZTVod1lrUDQ1cFU5alN6SHc0ZGNSUUx3d3Bfcm01NU1WUGtMVHUwQUl2QnZENkRYOGtTZExfLTdoeDdveTEwTkxMV3NnMkRSZllPX0tjQVd3ZzNqMGNWZjE4QXB0cnowZk5jbUpxSlRNWlhWaUhRd9IB2wFBVV95cUxNZUEzTGM3TnVzbWJJSVIySEZ5aVpNaDJUcEszSWpzQV9wSHg1akx4LVNQVnRMb2FDaXVfaHhvOHJZZ1YyOUYxaEYxaDQ2dVlSODZheDRVSnpobml0MkJ1X3I0VjdPM3FCM0tWcXZkelE2dzZxa01PREFwc2ZfaFVzdjJqQ1VGMUxkUW9sQUZtc3lCbUJrRjYwSEVpV1FmbnFwSkN2dEM0Tkx6bXc1MGN4Sy1mTjMyWm13UFVCR3R1U3BySUJaODhnQ2Vtdl93MXU2Yzc5Sk91WUk4Rzg?oc=5",
+      "fuente": "Noticias Caracol",
+      "fecha": "2026-11-06T12:02:55.000Z"
+    },
+    {
+      "titulo": "3 defensas para un líder: Pacto, Petro y Deicy Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkZHZER5T2VneHJCQkZycTFvU21vSUNQdTU5THNNaTFfTHY3aDFFd1h3bU5UcTMtNXF6V3JOcm02Z0NESURGZG9vdmlONXk1M05wQ1diTUFYSm9McEc0RTNxZV9LMUI1VjdJY1JXUjB4b2xER1BYLWV4Vk9sVlhwOVcyck14cnRyZHk1TWxYU0pTQ18wQ1pBQVVzSEVnZ0xsd3F6MXd5Z2lDVlhrQmlzaU4tZGk2NGF0bmsxck9B?oc=5",
+      "fuente": "La Silla Vacía",
+      "fecha": "2026-11-06T12:00:00.000Z"
+    },
+    {
+      "titulo": "Deyci Jiménez estuvo casi 16 horas en la Fiscalía por denuncias contra Gustavo Petro",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUTJpNi1xVWprU05wd1lmTXhtUVVTeWpsR3lHWW5YTnhmR3N6NTU1NENERFVQRENiRW02U3BFVkVhVGl1bTFzbWtWV1p0bnh1eWxIelBsTjhQVVdZRDl3MVNVUUhSS1hycU9SWUV2cXlidTF2TlYwYV9PTjJ4QS1NM2c5OWFLZ0QyVEIydThCMjlndlFPSEJkWVkxelJjWVkydnZNVDQwbk01V01rUC1SVVdJMU00blMwWTJVQ3AtVjYxMVRDc0Jhekg3LURvel8tNlE?oc=5",
+      "fuente": "Eluniversal.com.co",
+      "fecha": "2026-11-06T12:00:00.000Z"
+    },
+    {
+      "titulo": "Corte rastrea contratos de Deicy Jiménez por denuncias contra Petro: ‘Los servidores públicos tenemos que ser dignos en lo público y en lo privado‘",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYlVWem5WWlBNMVpfTGpJeTdKckk4QkpyNmkyclM5TUFJNkVtTm9IblVNLTBDWU5iR2FybjJvZDlCWTJTMU5Xd0duTzNRYXVBMVhFUXl4STBhWkdYZDdkYXo2S2RxNk91bUsxNGswWG1QcXU0Z24zZzJwRGh4LV9lbnRhRjlTS0xQQng0dGt1TmF1QkxVS0RqUnhlVzlfdW5HeFhNM2twLW5DQldJNHJ0NDM2U1Z2UjdUMW1sSlhyUWFMcGFGTXdoRHFFNmNfTV9fN2JpNllVLTJvZ3pYVTRZeW53OTNQaWFkeVJPWVFadUc3VUt3TEZfS3pBc0hJSTNjOEZlcE9fajVITk0tY1JMN3lrdnJaQmtKOS1IWnpB0gGjAkFVX3lxTFBmRVdCVUg1VTRZNjZ3T29OSGptcWt0RGMzSUFCc2p3b0owaTE2T3MtejF6cW1LRTUzdHhiN1VFYXhweW9jcnh6aV9Fb1Z4djZZeFBSMlhDVFJPeWdzUjlUOWg0eFhvdWVmMXZSTTd4b3E0eXNqXzNfSC11aUI5LU1tVmgzMU1DeENYRjlEM1NzTkpIY1VTS2RpdEdYbTR4R1p0M2E2OUhjM0hrUDZaRENoVGVDNDFrTzU3VVBEMTA5eUw1Zk5pQk1LNDdrNi1xdlkyVjBwdVZlVjE1c1dKNkFQYmpidFl0ZFVUTkVqMUlFcWZxcFlCN2g2cUtsaWh2dGhQMUU5UklVMEk4UVVPaXFtUHc2VFlhVVV3cll4dU1MaEJURQ?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T11:44:13.000Z"
+    },
+    {
+      "titulo": "El mensaje de Deyci Jiménez en sus redes tras declarar 15 horas en la Fiscalía y entregar pruebas en el escándalo de 'sexocontratos': 'Dando la cara'",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPSW91OS1CMVRVN3hjdlBZOTBROHNJdlhnMjF5T3VhWVNsRlZFTUROYWRsMWpibkpxMmIzV2JxeTVJbGw4ZjNqQkZRLW4tVjZ1YkdMOEN4N1h0QmFrdV8zei1UOUtTQVpTZlRwaGFEYzVvQ3N1MDBOajF0NDhIekxjWEU3NnFQNURsdl9BUjNLRDlfY1U3dVBNSENSMjZnRDRnM0ZfeC04Q3FYU0d4VXZBcU9yblZkSHB4VVhmMURQdXpUX2FRaHIxNTk5ZURCZGxfY3c3Z1dQendGQjNvaDlwODQ3Rll2ckx1Unowd1BqWGMybG5zS2hIdTdvenREcFFBcE9kSVdSX0t2QjduVjdLR2ZZalkxM1dFMXfSAZ8CQVVfeXFMUGRCbmFjR1EyQWxfZDFKa1hYYlJHLURWLURTMkNsODNOandQZEpGTVRpX0hvS3ltSndqeUFmbXphN3hCajcybEU2QW1OUlhSZDhVSEQ4bkpfTmNCazVvNV91emVPNzdnclJOOE9ZMjkybkhmQ2JoNmkzZ1JDQlVHT2lNVlBCcFpwOXMzeG1IdDZsRzFoNEx1aFB2R2ctWlZfMzdIY0Y2WFFFdER0OWE3aFYwak9fUWtiMktZUEJKYlBlZ09Za1hxWlphU0puVGYzZzBaTm9SczVvUEEydHJpWTJnU1RRRUlDTTF6RXlsUGtjV1dtbHZyb3BNUlU5VE9vNWxETmdxQ2MwczZMZkk0d0ROYnVOMU9WLU4wbk1XUWs?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T11:30:23.000Z"
+    },
+    {
+      "titulo": "María José Pizarro habló sobre Deicy Jiménez y confirmó que la mujer trabajó en el Congreso",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUTk2ZjlsV1IzYkUza0F5MXR5VE1Pb241WHlIMDlyR29vTy1EU21QTkRNT0otVndaWlBIX1VWaFl0ZGwzLUZRMkFsamRuajVOSXUwUlI5dVllWm1Ka216QmZLY2NBbWJTeUkwaWpVbFlHaGVqZWhUMVdVdmRVcmpoQXlPNGRTYjZRRmo1WDVTbFBoV3UtRUQzNWpyOTJYajEtSkJScXVPTHlQZFUzcXBPek1wSFBNc3VLcHZ4ZkFmVkEwaVd0blg4dXVEYUxvV3JKTU5B0gHgAUFVX3lxTFBjR0RwYXFwQVZhSFdJRkh6eml1c1A3b3owLTlpcUFjeE9iRWh4TlctNDJiek0xYnNzQlRQQVZSTU9naGp4NktEREEyWXBmYk9tbXhUT3RheTdyQ2V4VlpHM1kyQzFkVUVLd1JJVF9Pc21RdzRIeXRpQnZYbWczcW9zdU5tMWZtVUxYWkxWNk8xN3BMcUhYLWlKdDNJczRybW5hSXducHhCaUNNaEJyMkVpNGRmWDhoYUZvZjJZUUxHcGMtQ3d6dWZqUFZnU3lZaEl0MHJYNFVSdFdJaHdZeHNX?oc=5",
+      "fuente": "Noticias Caracol",
+      "fecha": "2026-11-06T11:26:35.000Z"
+    },
+    {
+      "titulo": "‘El amor me dio la fuerza’: Deicy Jiménez reaparece y deja fría a Colombia tras destapar video con Petro",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTEVCWWtLYVRMUUFQa0RabUNpMHlKM2JNal8xdXEzbHRWemN5a0JUdGN1ZUZDSEtrSmZ4S0dNUFU2X2JpWkZqSTlXMzVTTzZwdUs4cUF4UncySThNelF3UHF6RTB1MXR0U1BleEVtUHZqbFVfZ0hSZFEtLUhUcGdrWkN2aFFuUHBEa3AtMXNqLUdnTlpMNnBmajZMXzBreGwwdlpET2E2azUyMU5YSGp0bmFDM3lUSW1LcVJhTndoaGN3cUg5cmlRcG80UVhLSWNmY1NRbEFpSTN2OURFMEwzMk12STZyUQ?oc=5",
+      "fuente": "RED+ Noticias",
+      "fecha": "2026-11-06T11:20:13.000Z"
+    },
+    {
+      "titulo": "Detalles del sexto contrato de Deicy Jiménez en la era Petro: iba a entrar al Hospital San Juan de Dios",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0FYZWIyaTE1UTIxQzhHd1BHT0xJb1RXcGlTSUY2R1IwMGNvUFRCVFF6eTlyXy0yUVZXc1NyaDRzUGphdUQwMFl5eFVkSkZBcnRYa3VGZU80SElnQzNob1RsY282WGw0c1MyUXc4dTVFVzNwQkpzcG9FbDJiX0xZZ3BpU3JmUlAxNnMtU2h1bkhXZFFuczVlUHhJNmTSAaIBQVVfeXFMUHFhM3dkN2hlOHFOZTBxYzNhT05Va0hVZDB6elNhU0pyRlp2YUdOYUItUDNSZFY0X2I5LVZjdDJaeTJ4MXktVkNWZlRLRm1yRDM3QU5ZSnI3eGFoZ0htQkVIOFBJNkdXZXR1T3ZxZm1yNENVajlVTkZ4YUJfeW5qN3Q2eThmQzFiRUxHVnJQSUwzV3dnOWZxcVFQN2ZwSzZzLWhR?oc=5",
+      "fuente": "Pulzo",
+      "fecha": "2026-11-06T11:15:17.000Z"
+    },
     {
       "titulo": "María José Pizarro rompe el silencio por el caso Deyci Jiménez y niega cualquier participación en hechos de corrupción",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObm84M05ScHBFc092TTVSNmJFNDRkbkVrWi0tQWt0Y0ZmeGZjQ2lCRjRLUVQ4cU1OVVNyZG9QZ0ttazdNSkwtcnk1cjQyRmxNNWpMM0JEdFZNc2xxZTh0eUwwbWh5Ukd4NVMyeVNVcUlVNkRFWUlSdUstaW41UWJ5V1BXNDl1R2NwcGsxUXY2bVNfUVN6d3k1NWlTRVR6YTBJcjNwQzRKZHRhZlI5NWp1RXpvZkR4SmRhWE9xTWhJbXRENHBFdHhfVDNual9qR2ZaTHQ3ZUdzRnB3ZTBCQTNiaThPVkNwT2RtNzhJWHpHNmE?oc=5",
@@ -12,6 +240,12 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnlkVHEzY1BUMFB1czJuT1ZYZkZNNGhIVEhQUXllcnBIRkxUTjFkREQ1S0RZYzlXOWRyWFA1RlJTZS13bnY5WlFrbEFNOFYtWHJFU0ZKVkpETWFmZm16MHpwX1Rfdmp4bS1GT1ZrM3Jqb0pEVE1mSFZwNWpneHduQnRGQnNxdlNIZUxqS1B0aTJpWjFsaWRsbHpkOHBTdVlJZUZRM0R2YUxNTkhURTlGbjlDSjUtenpxdlHSAc4BQVVfeXFMUDNmb0NuVDBYbGFwWFgwNmhoaF9YaVphbGQ0Yms1QTc1UlVNSDdJVlJPT3I0UTljWnZfVFVlMW8xOUVGMDdVMUNqRTZ4T003UlFWSXNSV0RZR3k3SVRfUTdOSi1tbHZWNnIxVHF4SmFvWnFjYXdVZXZXcHJOVTFjMzVDZ2dTX2V1eXBaRk1lYllyMmxFMmtJS1d6TEgzUlVEMTFfdWZlV1ZjSXdWRkhlWFpRU2Vka3h2aVMwZUdFU3E3RVl3VGxpam9SdDN3MUE?oc=5",
       "fuente": "Caracol Radio",
       "fecha": "2026-11-06T11:00:18.000Z"
+    },
+    {
+      "titulo": "Habla exdirector del hospital San Juan de Dios sobre el intento de contratación de Deyci Jiménez: iba a ser el sexto contrato en la era Petro",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQMEtPeURCQzJPZGlxX3pyWWRfa2l3bFVVaTVQOXlXdndFWFhVX09rZVAyNy1vWGtkYTBzSVlkZlQweTdPUTdIRmNwYmgwS2hjSTFnYmpBaG5BZ2t6ZG9hdndySlBOWWxLQlRld1hvVjZ2YUwyZWZ1S21NRHBwNVBZWV9PcnpNOVhiN1FvdGRvTi04bzJhb2dheGxxS1V3YmVULUdvOW5CRlhmc1VSc2FqeTR6dkFSVlBfS2pkZEI0NjFUNlRCQmsxZ0dnWW9ua29qTDFrZ2ZLME1hSFZDTXItUVpweWpnNHd5VEFrUC1GWFZHSy1OOFpzY3NRTExFMnFsd2drcVI5a3lqWUNiZjJRQkJtVTJ1MTV4eDRiRlpXcw?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-11-06T10:44:20.000Z"
     },
     {
       "titulo": "La Fiscalía analiza el celular de Deicy Jiménez que probaría nexo con Petro",
@@ -140,6 +374,12 @@
       "fecha": "2026-11-05T21:39:44.000Z"
     },
     {
+      "titulo": "Gabriela Muñoz, una de las jóvenes de los escándalos de Petro, se pronunció por video de Deicy Jiménez: “Lo que no comprendo”",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZmd2SkwwNjByMEJpYkl0Xzgwc0ZWSzJscGpQS0k4YnluMHZzbGszTzdhVlo4VXJoUklXUWNCd1hCU0dJa05fY18wampYcFlpb2ROY2xsUUNuOUFNdjRXaThEMVpZTjZNMDQzRWZvUlNVTks5ZFN1YjJtNmZmOG9HcjdwQzdkRWNoNG1xaDZxRzlUdS1Jc3k5Y3BmSXRFNGV3dzl2cXVMZy1hei0xcURUOEZ5czd2MklFV3RlMXFnb2NpbWNzQk4tdkF6dU5Kd3BiNlFXQjlPTnJsd2dwNGpuQ05YSC1LTmdXZ0FTaURObWFvYVFtYzZQcGtkUkNfd9IBgwJBVV95cUxQTmxmRTd5dGtwaXE1cExfRkl3bW13OElhTW5RcVVtUWYzOVZRVG52WmphMWtaTGp3X0diSndxSm12MXAxQWFRSHhvT0ZwNVZ5MFVUemRVXzRBVHozUTQtZGptVnR5TjB4czhxMklRV05wb2ZFTFN5ZlVZQlc2X1FTV0tQRDZMRVpXUjJsa3dsWjJVT1lERUdtWGo4cnJjeTdLeC1PLTFwdnpQTWxBcDFmQWk1SUFNN3FvS0dqbWtPWk14YVZPRVBpVURneVM0TklpYjh5QmV5WXROTlBYaHRCM24zZHFnM2o3UTNrZEhRdE9GdkdBVk9xdkJJUlczRzJaMUlJ?oc=5",
+      "fuente": "Revista Semana",
+      "fecha": "2026-11-05T21:39:44.000Z"
+    },
+    {
       "titulo": "Director del DAPRE denunció amenazas tras revelar presunta instrumentalización a 48 mujeres durante el Gobierno de Petro",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOTN0MUhFa1BGMENQQjRsaC1RWkoyMjhIM3NVQmhpSzVKeWhGN0hEMlZmcTgtcXBHR3VJYTBEMkdMZFgycjlJTEdnckh6eTdpNEhyR2ljb2ZlMmxpUnE2YVV6SFJaRWh1aEg0RUx6TjVKVFVZUGdERi1pN1pJYUxBQjZWOXZoN3hhVVBubVJXSGtMUjc3Y09RRExQZUFmcmFiemwybWV6dDJxcGtlcXN5TG9EVzRYWjY3NmowX2czSnJsbGhqaGhCREtGZ0hlTmEyUVgzRXhidlZmdEI3NFRjM0J5UzRpd2drWm1OVjdZTU5kV01lRUZEbjdtNVNuZ9IB_gFBVV95cUxNMVBNUm5pSktZZDNOZlJLalI1NXl1WWpPU3pkM3lKdE11NkU2SzRMR2IwczZaU2ZTamVBM2ZvLWNvZFBIZmtGYm5HcFozX3VXMC1xVFNLN0lhME53VEhUS0NpYnpnTVVxTWh1SVRjcnNwX3M3aVBIekY0dWhaVUp0V1ZfTF8xZ1phZWJ2Wnk1X2VuME1kdnlWUjk4SXBwcWdpRVpFTEFGd29GSUFZeUVEWVRlZk5mbjJrWXJ2VHpMSm44S2tNYURTRWxERlYwVE04eHRIcVV2NExDU2JhYmtJem1uVmM4ZDNzUXlkb181Snd5b0JIa3ZmaDlGWmRDQQ?oc=5",
       "fuente": "NTN24",
@@ -168,6 +408,12 @@
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxObUkwWm9ZRVVzRnQ0NlFHU1R5Uk01STJFYmt4aEhMWmlWRVlZa0JpY1dVT2M5MHdzcjlWTGYtbk5JeWtEbGJpUERuOVhYTHk2ZjM1MDJQMlM3Y0pQdG5CUUlYOVRKY0VMWjFORWE1V0ZFSk1Ya3BsTVFyTHBoU0ZEaGpPcTJDZWc0S0xuTDFfRWpuQVlENFFrNnIyTExxOGdjam8wRWNqeElEU2YwTUZPTW9JaGFLMk43QTRRbFJtSjEtQ1dBSlZQTjJYa3ZOdl90MzhoVGJYb2NXWXpVZVhUQmhsaDFVUkc0N09wNVhmdmZpSERzTk9mT0tzQ0NkYUFvbGRFVGRSeng2MVNJOVB5YnRtNjY4azRneUlYRmV30gGjAkFVX3lxTE80WlhzaDN3dV9BUGpST0ozT3NsTXhRbDBtYzJhT3JwYVRONEpob2RKZ29TQ1pON3pIdDkzNWg2akk0Q1d5djJsUmF6OWJOSlE1YjVydnpiSXhCR01VQ0JUQ2I4Vk9FMFdsRTltUVBGdjBSbFU1bnNnUG9ybFE4R0k4VHp5RDQ0V1ZORm40bkw2eGtJdDlVY1Y0amhpVmRKbkNlRHFjaXN4UTRTWHRUVExXSU85TWlmU3VqWkQ3emlmemV1dllScW1scFBVQ09Sd3ByU1VpdVBWREM0Uk9SNzh5SFBHcGk5VHdVMmFZemIyMkVyWTBGNm1Kbmw3dlRRV3lVTGthSWxac0dEZWFRckxBLW9sNXp5T0VncjgzRkpLUmd6NA?oc=5",
       "fuente": "Revista Semana",
       "fecha": "2026-11-05T20:53:20.000Z"
+    },
+    {
+      "titulo": "Nueva denuncia contra el expresidente Petro llegó a la Comisión de Acusación: esta vez por el video divulgado por Deicy Jiménez y los ‘sexocontratos’",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZmRnaXNzRmUyTUx5ODdERGdrMTRzLUdHR1lwbG1PZC1fbjBhcGNvOU12M3BHbDVubVdhalkxSXRXQUdXM2NFRV9zbDdFVnNaRm1CTE5wQlJRMXhBelRnR0pYQWtvc3hWY3RpMTNfa3NvcnAxOXh6TzBtbkJXTEhUUGQxYXo0T2VzZFItZkxhNkRjcXozQTZvT3duWTlTZGtpNVFnVkZ1OFFVaGdGMWhLaEFmTS1zSXFELWdIdjc5Vjl1WUEtUlBET09PVlRBQy1LT0Vrd2pQX2Y0SEtfV3lPVkFqUXhWUFZTMkxNa2RTN3ZlNDNBdXhsdWg2anZZaE1fUlVYUzc5VTdRUFFfTTdvc2puaTFYcGZ1TzlB0gG2AkFVX3lxTE9iaVVqMFc2bW1VZFBSU1lndnpEWnd6SE1Na0tuVUpMLUJTdEFjV3QyRHJvSGhXRkc4aU9mcTE1ME8wUEJLdnpKTGIzaEZtOTVkNXhZNzFsX0NEbEI2enB5S2dmaWwxc0h4M3VxSERKSy1tUThmSllDME5wUjRoNDNPZnN4SHc2QnZYMmJNaFBhQWExSXRHbk9zSE5xZXNFMWMwODVuMmExOUw0emdGOE1rNTg2bUZ4UE9zTTR3bldmVW1wb3dFVENkS19RYnlocVh3Z2hZNU1OakM2UDdYdlJWUGUwektmaXkweDA0N01mOFZwOU92dF83OEotb3B2TnVwWVptaUtqVGx2dkRXTWJERWotRVFKQkRwTFROUzUxaGt2TnlOOXdScktDc0pVOTEtUXhEdmc?oc=5",
+      "fuente": "Infobae",
+      "fecha": "2026-11-05T20:50:00.000Z"
     },
     {
       "titulo": "Corte Suprema ordena inspección en el Senado por los contratos de Deicy Jiménez",
@@ -216,6 +462,12 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb3NiOWpDNWl2SGRYRHVDZHg5X0JKeTl5SXFJOTBOcGtld0c4ODVlLV9GUlFGQ0pyRjdIV3lsWDU1dV93Mi0xRFVNR2VmNUFYOXdPT19XQV9vclB4VnZYZWlVZl9ZM1kwQjFnQmNIU3h3VF9DRm5LeHhuWWMwNWpJMW12dXAzMEFjRzJNd3FzWnhSSmc1b3JYTzYzdFIwYkdBYUpMaFJ5ZWVIdmtDdWJSREU5eE1xQnFOZzBLQkpLeXljNEZHemZYTk9LeTdUTGhSTXg0bDJDQmowV1U3TlBSSnBjb01lMVVGSXJlLUNySjliTV92NWR4cXNsQXN1ZXRQckY4RWJn0gGgAkFVX3lxTE1EVFZ4MzZfSWZtYzJaRkFtOG5vNmZ5ZDhDdVdiWjE1QkJJZWU0M1J2MjlEY3dORW1FTTFyMmxnSzB3Nl9lNWZHdWN5ck1UWnlDRnRlTXNKSGFTMDVSeC16eEFtTVBQX21vWVlhOFNTdUpmaHFJUDJ4anB0UUU0NWNjOHdVX0xrOHV5QUJEa0YwZDdsLXVCaGYwQlVxWDhVVk5md3JVQ25wX3I3TVhULS1HV2RXOTA5cVZBVkJsWUVUSXpUZGViN1E5cGxRbHNHTXdPXzlTdkNMSmRXYVJrMWM0RXV0enZteHJ0WTNFdExBN0NieGxtdkpkYTFNdUVPMmZfUEFqUngtU2ZiWnNWdEhDZnB5Uml1VFF3OXd0SU9DWg?oc=5",
       "fuente": "Infobae",
       "fecha": "2026-11-05T19:10:57.000Z"
+    },
+    {
+      "titulo": "Llega a la Comisión de Acusación la primera denuncia contra Gustavo Petro tras el video de Deicy Jiménez",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYWROUnQxNnVhU1ZteTVsNU9weU81WnBHdkVhWUE3UVVlMEFvRXk1Sjg3cGY4QUw3dlBCc1FtOVkxRTNjbm5sXzlZZjNCaDFXdjB2T2JtN3BDemY5UjI4ZjdZWDRocDFlNFFqRlctRmxhbW1ZS0FlVUJQdGNnMG85RUMzNUMwbm85d2thYUwwWDlBVEhxVFZ5dC1BZURrM1BLMnFsVlJxN0o2aFQ3T1lYY3ppTEN2X3RHcFU5ZGdnY1YtR2FfTE5pWlExUDFxMnhZbVZJejJaSFVYVXUwbUJxZm5SbjRWX3VZVHc?oc=5",
+      "fuente": "CAMBIO Colombia",
+      "fecha": "2026-11-05T19:08:25.000Z"
     },
     {
       "titulo": "Corte Suprema ordena inspección al Senado por contratos de Deicy Jiménez",
@@ -309,6 +561,12 @@
     },
     {
       "titulo": "Polémica por video de Petro y Deicy Jiménez: políticos reaccionan con fuertes críticas",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZENnd0VfeE1qTzMybHFLODBvdGctX19LeDB4Q2FEcGl5dnlaRkEyaUhRREhIeHVpMHhBbW1kQU9JaDV4T1dWVXRpM2ZaZnZiMDhwblhSTTdfOWhRa2RpNGc4d3YzSG12WjhVeXpMT3UwaE1IcW1yWEh1TmtZUk9PMk1UMGZDZGFIb1FVRm9vVy0yVzNWZE93b3hwRm9qRnR4NXJpYU1OMG81dFVCZnd6MTM5NnBKR1BFSFZCd0ZLZVN1Q3FLVU01RUtVTmZOTTd2bmZJ?oc=5",
+      "fuente": "Eluniversal.com.co",
+      "fecha": "2026-11-05T16:19:00.000Z"
+    },
+    {
+      "titulo": "Polémica por video de Petro y Deyci Jiménez: políticos reaccionan con fuertes críticas",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZENnd0VfeE1qTzMybHFLODBvdGctX19LeDB4Q2FEcGl5dnlaRkEyaUhRREhIeHVpMHhBbW1kQU9JaDV4T1dWVXRpM2ZaZnZiMDhwblhSTTdfOWhRa2RpNGc4d3YzSG12WjhVeXpMT3UwaE1IcW1yWEh1TmtZUk9PMk1UMGZDZGFIb1FVRm9vVy0yVzNWZE93b3hwRm9qRnR4NXJpYU1OMG81dFVCZnd6MTM5NnBKR1BFSFZCd0ZLZVN1Q3FLVU01RUtVTmZOTTd2bmZJ?oc=5",
       "fuente": "Eluniversal.com.co",
       "fecha": "2026-11-05T16:19:00.000Z"
@@ -462,264 +720,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2NsNV8tcXZEcVoxTzFoN1V2SlB5ZDY0WWpaRWs2NGw0dnZWekgzZFNsOTZ2cUotblk4WGVYQkFXRWQ0QVBmektXS1lqY2thc0oxeFlpWF9TSi1XME1GS2R3dHNTeldnajdvQTNKd092NFdmakw1Sk02cThNd0QxRDZpZ19HeEtjUnpJRVdsTWdTSk41TDhZ?oc=5",
       "fuente": "Fundación Paz & Reconciliación",
       "fecha": "2026-11-05T13:30:31.000Z"
-    },
-    {
-      "titulo": "Alexandra Vásquez, representante del Pacto Histórico, se desmarcó de Gustavo Petro tras revelación del video con Deicy Jiménez: “Siempre estaré del lado de las mujeres”",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTEw4U2N3YjJQNTgyWXd4ZmJkUkpxU0p5cnpBUE42c1NaUF8tODhEVWh4R3ZPNEdMZlNhQU9NNXc2V2tjSjIwTTdyZlpnSGo3WWRlYUFEWGxMbEZDamk0ZkEzbldDS0d0eWJyQ1BVamZnelpKMGFMODdvOWFvVTVBaGZyUWR4U1NnZExsWm1icWhheDVrRVZiZm1nbkswX25pQTd3M0NPSmJndHRDVllVMzJXWXFFd1NodHVlSUtuRGx0WEVhbkctbHFNTWNuSVB0akxIQzBXY0w1VVlMY0ViM2VrRWZSX3FDWkVzUUZsU0FYa0EzbURDUFZmQlBIUXlWV0NoYXFmQ1pseU02TlIweTVMR3dacjlNdFVrZGJqQUNsa2tZOTFrZzJPVE41Rm5IdUHSAcwCQVVfeXFMTjgxOHFzaWVBZTdvV3NfWm93QlVqRTlxYkNaUnliM0NUSFRacnVQMVpqbEZOOGpuUzl4cGxxVnlIUVRLR3pIMWVmRjNWN0ZMc0ZGMVplcGpwUzRNalFNaVByTzZZenhqX3FTZmpaX1FROFVTckFkU0hHZVkwNTVVSjkyRUIyUjMzMTE1TzdyUHNvaHlJcWhITExiajZQZTJNTndJcnpwZlpaWGJuUWc2OEExb3pkNWRZLTNRc2Y5NGlCWjJWYjFrZzVPblUtVi1Vb3FkT2ZmVGloQzFWdkxUZFpjYkV6d1dzMTNJblF6OVptbTk4Z05sWHhKNTVVMnlBdWpMR2c4Z3ZyRnU0cmVaUDVWeXo4elZMdURBay1naGFOdDRLT0ptN0Y3bWFlcjNuZDQ5Q1NVT2EzUk9JY09yRUxLWVVDc29LSUpnN1k?oc=5",
-      "fuente": "Infobae",
-      "fecha": "2026-11-05T13:21:00.000Z"
-    },
-    {
-      "titulo": "Petro reacciona a video de Deicy Jiménez: “Quien busca justicia entrega sus pruebas a la Corte, no a los titulares”",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNktiT0JvYlotdW1MdkphdzVnWDlRdk5JVnBpaHNlemx3bjBjT3hUUDdqSHk0LWpOem9KTHR4MXNqdjRZbmtlR0VrdmFnRTNhVHpvZUs3Wjd6QllRTEdQVml6N3lBSzNBMnE4R2otTnhrRElNVXhNcUhzbFlEU1hmT1JCZjRMQ204ZGt3dFpYdUdieFNDOHFhNGZSZm9oUGc1N01RUmk4VDc5MDFOUWJlWTdQUE8tWEF0Tkh4anZZUG50WFhjMG5ha2dn?oc=5",
-      "fuente": "El Colombiano",
-      "fecha": "2026-11-05T13:19:44.000Z"
-    },
-    {
-      "titulo": "¿Por qué tanto silencio de María J. Pizarro en escándalo de Deicy Jiménez? ¿Y el contrato?",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2JVb1l1OC1xOEpmOWo2bWpNMmxNTlMyejBXMXN4clBhVElfTDFJaTFzMlZPUDdvclZ6ZUNMZ0hPTkdzeWRUeWVOZ3FOOWNKajF4aUYybkxhX2lYUjVmemJIc1FWX3lzeXN6R2dudzc4a1lRQUYzVHFwS0ZnenQxaXRfU0ZVSG13SGJDNWRNd05rNDJfbkxRU0dSTkZJY3dCdm5ZeNIBqgFBVV95cUxPcWM4dHBHTHgxTG5nVkV3alJLWTg0ZVZ5NUw5eEszY05sTlpFQ2hRdGdGYUExVzR1N0g0YlVKTDJHSWlEZE05R0NWSXZ4elc4WE9LajI1TkNnOVRTcGd0YWc1Vzd3RmdKUEZBMjBfTS0xV2ZaWHdja0xpY0xsYnBSeVd5Y24tSDR1Q0swOHdFSmxxNWdVRmRuUVVmLVU0U3paLXRxY3UyOVgwUQ?oc=5",
-      "fuente": "Pulzo",
-      "fecha": "2026-11-05T13:10:57.000Z"
-    },
-    {
-      "titulo": "“No es una prueba”: defensa de Petro sobre video de Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUwyX3VLUXc2QTFVS2txMzdpbUNtNmt6WENvRXhkbVVpeTV4NzNYTjlvN0RsQnJtT1RDX2p1TVM3b1V1YTc4R1V5dXBLMnkwSkVmNmNaT1JDSklUYV9JMnZmblhkR09MSWl3eEk1VlpJeXpfbXlQbU1maUtIdi1lSmJULTdGbFhtYXlSOGJWbzItTkYtT0JaeWFaYk56UVBnMVE?oc=5",
-      "fuente": "La Silla Vacía",
-      "fecha": "2026-11-05T13:03:07.000Z"
-    },
-    {
-      "titulo": "VIDEO: Deicy Jiménez difunde video sobre presuntos favores sexuales por contratos: esto respondió Petro",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5ZnZxQ09ESjB3RmkzamZxaGZkUmJzc0xfWE4xbHdPRUpTYU84ZUlVZHZ5MEhiVVFrWWFybmZQc2hJLUZYVlptYjZJNG5HX3l1TXdoNHJBaEpwcHA2OXdoamNlSHk3YU1LUUpVTmpsQlo4YWRzNUpPM0xEWGs?oc=5",
-      "fuente": "Hora 13 Noticias",
-      "fecha": "2026-11-05T13:02:41.000Z"
-    },
-    {
-      "titulo": "El abogado de Petro cuestionó el video de Deicy Jiménez y advirtió un posible desvío de atención tras aprobarse la Ley de Sometimiento.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUXhpUFVHNm1RdllKalZoUUNQc200R2IzQ1praTVXTEZ5ZHJpb2dsdXpjYmVuWk9PVlFXbi1qZG15OE5VeGpqeGRLdEN4b3lvUlVXamtVbWlHS1ZBS09RVlg4LWFPTm95U3kwN0NweG1KclQyOFFZd2lHd1c1RmtTTnE3NzlUVVhOTXJXZGVSZy1tQ0pyNXVoR2ROSzBtRTU4MWo1S2g1OXBRcS1TS1lEamN2emxBUDl2aE9kU194S0NwREZ1Sm9KSUlhYThFQUNGc0NoSXdPOFFsQl9McUtMdnNjSzJVNFQxS0pLT0ROWXpYUQ?oc=5",
-      "fuente": "Facebook",
-      "fecha": "2026-11-05T12:47:38.000Z"
-    },
-    {
-      "titulo": "“Un fragmento sin fecha”: defensa de Petro tras video publicado por Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGhIc1djbGJ1WF9TNDl6ZElQZEc2OUNPY2RNNFNESGxjdThqT2pnRFhGWjNkSFFMT2k2dnF1bXBubUxvY2JCNm02aVdEMloyUTRxdnJHZ25zSWVhaVRjajhzLWNoRi1VSzlkZjZyeUZyajBITTE5LWg5eTdRdEVkakxPQTJKcEE2X3hKYW1MTDBOT1JtVlFPUXdfQVRUanBSYjRmcEdoWHhKV3JNUVZZbUh0am9OUFhr0gHMAUFVX3lxTE9ON3E0RDdVRXh3SV9OM1V3ZU4wY1B0dndZc0Noa3ZMSzhXanpYT0tTdWdjdEhWYVQ0N0xIdmZQTjIxQV9kbjBfeGFfbUowTFV3aFBCNy1zRHlIb0Vyenl1NWtyZWE2M1NxZC1CVmNqYlBPZF92Q0JPdUxsVDhrZ0FEX1lFNEkta2Y1WVJSb2gza2pKWVA1VEJXQ2RaNVFLb0xTb3dNUXNmVGxneHR6SVRHWGdIVXRkbE00enhkYjhPNVJTMTFpUllBWlp6Vw?oc=5",
-      "fuente": "El Espectador",
-      "fecha": "2026-11-05T12:46:12.000Z"
-    },
-    {
-      "titulo": "Angie Rodríguez entregó a las autoridades chat de Petro sobre Deyci Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVlmc201d3VFUGRpX1BSX0VlamwyZjJESmplSG1HSFNSM3MyU0ZBcDZYOWU1YUYxNXRvOXlZQzA2OG5YdGJBVWFOTjhpRktFdnpNOHhPcmtiOGxRQllpRmRJdGIyVDNiX3p6QkdJaDFUejhnTFB5Q3ltck1OZmtENF9JSFdCTEVWVGNzQTNRR3FweEZ3UEdlZE5xTnZObExBYnNJMUxXTkdUT24xbTNaaGVBTXYxVUt5eC1kTHRodEp5U0J3ZEE?oc=5",
-      "fuente": "Eluniversal.com.co",
-      "fecha": "2026-11-05T12:46:00.000Z"
-    },
-    {
-      "titulo": "Ella es Dina Malo, la nueva abogada de Deicy Jiménez, la ex trabajadora sexual que filtró video con Gustavo Petro: trabajó en la firma de Abelardo de la Espriella",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQY3pwZkFnVXBURzVWT19XbnVod2hLeUdxcExrLXRFQW5GcGFGZUlYcEJpMHhzY2lWbHVqOTNNVFprVVF6MDdlOG9nbmVqcERTODVaZEFKWW5CRlJ6V0R1X3FwZFdpOGdBUGRsREVXZlcyT2JPQ0dxQUZQa3ZfNDkyYktQTnlibFY4SjBLRnI2TWNwaThIYjlGMzk4YlhOZkxYeG8yYWFhQXJsblF2U2tFLWQ3TW42MWpmbkhKVURRc21EY0JsX2RuM3llQjhtT25Zc19aLTQzXzdUWW1LLUpjY0FSTjd4OUIyanhjWU1UVWNNMUNydDhyZU9xTzU4SktyZDhmNlMzWGFfNmxscHVqeHV1R1FlVU05dThqOVpBeHJVNEowX2ZmWUp0ZUnSAccCQVVfeXFMTnR4c01BVml2LVRZU2VOaGJ2OXBWal85SWxzTENZRElFOWhrUVpMS2preUJMZmR5SERHUGxKXzN3VnlGNllfSm9XUmhrR3NtMFZVRnM4c1BIa3dhTzZHa2FTYVUyRmgzMk1TLVdpdV9vWG9iWXNjOXJ6Z0F4VXZQWlF2X3dLQndTLWNDQzdvYS1VWmZVM2hWaGdkQWt3eFI1OFhwdG5RQ0UzeW5Fbk1hbkM5dEIybUxzT1UzblZHeGE4d19STFd1UUFPdENlMUp1cF9QUFh4Zi1IOWtuRGlyeFpRZ09nS3V4eTJva3lJUFEwcUlKaENGMWVaMXR0aXhIa1Uwbk1FTFNiN1dNV0dOUHNxTzhiUGt0c2pHRHRFZGx0eWdiaHBGc0xHX2k0R3RnOEtRdnpqaWlUZC1oQTBPUWNpSU9waWJB?oc=5",
-      "fuente": "Infobae",
-      "fecha": "2026-11-05T12:42:46.000Z"
-    },
-    {
-      "titulo": "¿Quién es Deicy Jiménez y por qué tiene en jaque a Gustavo Petro? Las claves del escándalo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEEyWjM3WnlzOF8waXVKOGI2V3REbl9BR0R2VzVSc3lZWjA4bndNcmxxQmFoa0IwbWNscXR2U3JjaVVhUHREVk4xLTR4NmtUckUwY2hxeHBRM2Q0TzlfX2ZlekpDOWp6WkpBQ19SYUxCdUZvOURDNkdRSnAyaHVOa2pJQ0xkZUV2QTc2dGNWNWREZ2ZMSWpTTmxoeHUxdC0xVk9paEZJR1ZWSUhEOEJkUWY0TGIzUnRtUzJHakVMcURSYnhKYlFvbGJmUTdlY1Y4?oc=5",
-      "fuente": "Publimetro Colombia",
-      "fecha": "2026-11-05T12:42:26.000Z"
-    },
-    {
-      "titulo": "Así reaccionaron los políticos a video de Deicy Jiménez con el que buscaría probar que tuvo relaciones íntimas con el expresidente Petro: “Debe pagar ante la justicia”",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPWF9UN19wQWpWMGd2MWxlR1M4VVhxZ1E5aG9TbTd2OGY3SU4wYV85am9JNWlOODZmLW5EZWQ0V1JyS1VtLVZNTUhTZFlWdVVxQTZ2N1d3Z0w2bXZJX3p3X0NZQko2R2Y5OUNiYzVQWDlna3Q3ajhBM2xEUGRXci1BeDlFVjFnV0ZxUzZlQ2N6WmZoWS1UcW9CTjJVclJvdTBCNENnS3hSOUdFSFdiMi1GVXVWRGFZYWlibC15LXN2N0U0Nlh2NzItSlZTTGRTNndDLXhLS1J2eFBSaDl5bFM2c1dmdFRCMERQT3l1eGYxUEd1VnpURTFoVEZuWVdOdFVUY0VWWW9RWnYwRVpvNHNNa2VTMjFfajVGbS12QnpxZmtoLXdsT1BjUExCa3FielpHbVBj0gHOAkFVX3lxTE9IZUxaT3FGVzBZZzJzS1RjVU9FUm5TV3ZfTGNNQWRkbkxRVFVROEdoQVNJeVJ1YlFpbXRHWC1sRzJmOWVtYl9yM0NDNnVBdnd4dFhnY2ZlT0ZtUnVRTS04cEdkS0dUdWxENmJBcFU0Tk15VzhQVEtSemhOX2JReFJObjFRWm0xZlhDX0dWRkRFRVotcFJhNEUza3FWcDBFVXFjOWFUdlBjUzYwRGozYkVrTHJibkdyWVNTWFZaMEtpSnJsMk51YzM0SXp0d2M5TllCN3JWU204SDNRNVFQb1RoYzJydGFuTklydHZvSmhzOU8wTjZPdGNjcDVoV1B1T1dLZGk2Y3BjWG1FLUtpN09lcm9vN0FoWTlBT2pCRHJBcDlFVFRfOG9JQng3cndJa3JSaXJnd1AtRlVGR2I5aHdRLWNmc1BRTjZ3RFlQd1E?oc=5",
-      "fuente": "Infobae",
-      "fecha": "2026-11-05T12:34:00.000Z"
-    },
-    {
-      "titulo": "“Nunca usé un contrato del Estado para obtener favores de nadie”: Petro se pronunció tras video publicado por Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFpoc3VCMGhaMjZSV3o4OFVfLVBHNmFUcGU2U2JrcUlaVEhfTXBiQlNoUG5SRDgydjMzblRvNDhyX1dLVzNNdDF4bnJ3UDluQVE3M2s2b3dOZHlIUWZxUmVqZ1pUN0dHR3BHMjlkREF3anhFRE44aC0wSE1nd3hkYVFSSU9Cc1JWTXVzTzlhU1RVSnpfT3NCWG5NOTZLR0NoWmFmYld2WmxSMWV4UllnTURGQVJGVGljbFBUTXdLQ1ZsT2tubnNQVGFjcTBVZE9YNGlNczAzUQ?oc=5",
-      "fuente": "LA RAZÓN.CO",
-      "fecha": "2026-11-05T12:25:47.000Z"
-    },
-    {
-      "titulo": "Los 4 datos que arroja el video de 54 segundos en el que aparece el expresidente Gustavo Petro y la joven Deyci Jiménez, contratista del Estado",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUEx5cmdrUUFyaFFnR3pSemx3Sm9hYXItaTBrQzZ3X1U0VktlVGd6cEp2UzlfSmZlTkx5REpZQWswRGp1QnFROEdzWVVlUGk5TlhDcXNZZ0VmRHFnSVFYd25lcTQ3SUwzNWVsUE1Ya0N3WE9ZWXBUVmYtUTRIV2RKckVrZ2VpRVE5bnN1enpiOWtHSVhXS1BKUEFCWHptX2tkRjVFLXg1Tm45YmJQOWVhLW5JQnpmdlNQN2E4Z1dLUlJIeGt1bVAwSFZvZERkZTlpM0p5dnhBWkJIZnA2S0FsOXp5T2ZYbG9Ib2RDTjJ0MDF0dlpCWDZhNmdqdHJjQ3k1VmJWNS1nTGZxZDFvMmEyNm45d0RGQnVGYTdIOVNkMV82QdIBpwJBVV95cUxQQTNLWmRGOTYtd3QtMDdBQUZYMW12bjBtT3VIWHk3LThrbFQwUWRMRzF6Z3FwYmpLanlvOWtmM2JYanc5S1BFS1A3SmdQTHJMM2R3REg5c2FvTm1QNHpWNnZVT05kZlF3NUR3UFRfdDROdmdYbXVWRnlJakRCOU5GSE9SUHJkWUF4VVowVW1TeVhsd3laLXBfOS0yRVZYNW5BMElFNXRlVk9CVDllbUFTRFZIUFhkU0Z4d0ZzMGotS1drTXI1LThLMEhwRWtTN2QtYWQwWlJSb3NIVDNLSDM5Z3V4ZlUtYVpUNUFNdERQWmg0cUNJVWU4aDIzdzBDY3JkbHhTRHg0MzFETVI4endZMndrNkhobTNSM3lvQkxmOFplUXFtOGU4?oc=5",
-      "fuente": "El Tiempo",
-      "fecha": "2026-11-05T12:23:48.000Z"
-    },
-    {
-      "titulo": "Gustavo Petro responde a Deicy Jiménez y anuncia demanda",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnJjOF91UHdUSWtSZ2RLandkNWpjbldrclp6RTZGNHZpMXNiSDBrblhyakQ3VXhKdmk0Sm9UaW9LbFd1anJ3Y0wwLTdycDlqb0VXZlQtcnkzZUpkWW1SamF3SDlaUVR4TzYyQjlTV0FsOXU1UGVPcVN5N1E4VjhxQ1h4TUdKNW4zb0ZxWk4yNnZUT2ZLbE43UWhwTFlDMVA1MXZDQkFkTHQ?oc=5",
-      "fuente": "CAMBIO Colombia",
-      "fecha": "2026-11-05T12:23:29.000Z"
-    },
-    {
-      "titulo": "Reviven duro mensaje de Andrea Petro sobre Deicy Jiménez tras polémico video en el que aparece el expresidente: 'No eres'",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUkVxb2tidmduUHJsZVcxaW5hN29oVnhXQU16Q0dDdl84WFU0YURYNDdwWVF2alZKVFl4S085bDlvUGhQQng2ZmJhNUhkbm51WkZnM1BYQWE3NGJXUHdnSWZRZmtGREJHX292S1ZuVkYyOHBkNzFjeEw1cFl0RnFNVGJ2UkpHNlhBSFJaMXVxZ2xSb2JpSmpya0RRLW9mTzFFeGpzZTNrZ1czNC1IcDNpMTQ3bmZCMnNJTDZYWHRiVzRoZmVkaGZpT280aktjQlJna2w4Y19RV19PYW9kLVZQdTV2ajJtUkR3Q1hvSFBxVUFJS0RsS0dMUC1pa1U?oc=5",
-      "fuente": "RED+ Noticias",
-      "fecha": "2026-11-05T12:02:36.000Z"
-    },
-    {
-      "titulo": "La relación del video de Deicy Jiménez y el chat de Angie Rodríguez",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0E4TzFwZkN0WnlVY2RzNlBpNGIzQzN1TXVub3hrSWtiY1pvTThDQjRTUGRBVnpHV2tzUGlfNDJPdE4xU05NWVZRb1R1c0Rua2taOUJkVElvOFNyS2EzdzlET3hraG5lLXVFYnZJVmRzcUdLVFBSWkd6WUt2cHdCdEY3RWpaUlkzT3dENklERjJMek5CQlVyZHZDVVNmeExlNFd2TUtqNVVBZy1YVHNF0gGvAUFVX3lxTE5YcXJVNmFNWmVoOWs5UUVnd21FeDNRY1E4R1QxcFM2QVlaWm9rdWJtek9XeEhuSHhUNWRSWWJxMXJRN1pVaFJKb21SLXFRYmZ3WXBSMzVkYy1XUm1jSU9PMXpxN3FOMkpCV2FEVl9OakY4NkppZmJTdzNOa19IOC00RUNFbkNXS0dSZVhYbE9LaFRLemlxdTl2c0ROd3VETFNtd0IwR0V4cFphbjZXZ28?oc=5",
-      "fuente": "La FM",
-      "fecha": "2026-11-05T12:02:30.000Z"
-    },
-    {
-      "titulo": "Qué prueba y qué no el video de Deicy Jiménez sobre sus denuncias contra Gustavo Petro",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUnVsbEZGNmxhTkRTQm83TEEzUDNGMEhlNll5LUVCZWk3aFlPZlJreElwSFlRSEVlbFFzTGZFYlkyR2liU1pTRHF3M29SWkdybGhLc1UxV3gyRFBaTWdRWEIyZnpsTEh3NzI5dkJHeXJKaTBoS0Q4T0JEYUdzQjhvT2l6SW5EdktlY0Z1Z3JELUVlLVQwWUhTb1hDc1lZc0hzQ2tCYlNhaUZBNDZwUUg1bE9nYzJtWHNzdFBWZktYdlNyWVliZlgtNFBYaFVJRW9mTnpBOVFHZEQ2QdIB3wFBVV95cUxNem1QakxiWXI3VXZYbVJDX1dDVUxWNW5XdFYtUmFMY19VZG5HMVVKR0U4MTE4VlJwT3c1ZG5pSlZKempfb05NNEdfN2sya1o5a1BxczlQX0N0U0NkZVFwaFVlWlFNRFIxNWpwWjhyVTZmRy1JdkdzdU5la0x1T3A4TlE5ZjNXNmZKdmg3c0R0NjVGbnRrbUdtZjJYaHNzeFlNbHpSUjd2ZEg3Z1R2SnhDVjdpYnh0b3dqVUg0SkJyWkxmQmJZU3pzU1JLYTd3M0xOeTBqdmt0MDdnMktJaGMw?oc=5",
-      "fuente": "El Tiempo",
-      "fecha": "2026-11-05T12:01:35.000Z"
-    },
-    {
-      "titulo": "Gustavo Petro responde a video con Deicy Jiménez: “Nunca usé un contrato del Estado para obtener favores de nadie”",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVBsZmdOYXFLSWhLbnlpdWJuU2k0ZnAwNEdfR25tdl9nQU1Bd2oyYXBkMWZhZFdjT1VsOHJ1WlB2bWo0d2JKcl9ZNlVMNTFMcXVMSHlNdnNGTmx4Z1RUWXVKUFBQbkM5S2w0Qk80czN6VUUza2VMNU5rT2RZMC05VnlraXZjR2MwbnNhMjBfUXZ5ZGJlUEpDTUJ2TUE4dnJETTV2b1haeUQ?oc=5",
-      "fuente": "Revista Semana",
-      "fecha": "2026-11-05T11:56:28.000Z"
-    },
-    {
-      "titulo": "Petro responde a Deicy Jiménez y demandará Ley de Sometimiento",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWdvRTB3NUlmR1JxcHJWYVBsZzY5T0owaEIyTmJ0S2lpaUdTby1HYUhFSHAzWG5zUE56OHU4UHVsZGh1aXEzcktIWUpkS3lIVlFvVVJtNVlmN0YwZXd3NjRQeFJfdG9fTGlYSEthbS1FeF9JQUY5S042VDZnT3pmMmY1OG1LWnVn?oc=5",
-      "fuente": "TuBarco",
-      "fecha": "2026-11-05T11:54:46.000Z"
-    },
-    {
-      "titulo": "Así reaccionó Petro tras la revelación del video donde aparece junto a Deyci Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLVZjNVh3bml0OVBjeXRmbElaVWlOMEdqN2hkam1uN3FYSWxsaGhBLUZoZmdMcDBzbU12ME43M2IzejFYWjNaVXl0Skw4RkpjTVBjX24yaDhmOVBIZVZrb24zRUVfSExOMlNZX1hqTENDOGpzUXFua1M3OEZocWtwXzBxdlIwVjNmRkRDVUlSc1I4VDhtYU9HVlNzSXZOdUY4cFlzemk5QnpmZThVcmxxMkd0d194NEdUVGxPRUJoX2NfMlU5YkVhLWJhdGk2YXpzMkE?oc=5",
-      "fuente": "Eluniversal.com.co",
-      "fecha": "2026-11-05T11:51:00.000Z"
-    },
-    {
-      "titulo": "Corte Suprema ordena inspección en el Senado por contratos de Deicy Jiménez tras la publicación de supuesto video íntimo con Gustavo Petro",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQa2tPMEZaN1I1ekpHY0xxbEpqVHJEQ1VpS0Fqb3poN0ZoTXRwN1FXSEt5ZW1xVU5zc1VhSEwtOFVISGpteFJwSnp1bFdrc282czZWUHVtMlZveC1sU3ZfNzh0bzhXLWVOSWtDNHdfNGdFLXdhYmd6dTJxSDhJbzc1SUFWOWJsRDBKc3NocTFqRGo4X3dGbkJBY0c4QnQyTFl0cVYySWNfckhUYUExLUxDN1pEYkp6YTZudEwybWcwSDFNM28wS2wybGxpN01DQkItaXBLSHlVWTZ4U09yd0VUandfS1UtV0ZEQ1RFb0JPM3hYSUNlaWpVUVhUZEN5U1hfRHRnbUN0MGZQY1MxckJKRWVDZkVIZ0N6SXg4YdIBnAJBVV95cUxQa2tPMEZaN1I1ekpHY0xxbEpqVHJEQ1VpS0Fqb3poN0ZoTXRwN1FXSEt5ZW1xVU5zc1VhSEwtOFVISGpteFJwSnp1bFdrc282czZWUHVtMlZveC1sU3ZfNzh0bzhXLWVOSWtDNHdfNGdFLXdhYmd6dTJxSDhJbzc1SUFWOWJsRDBKc3NocTFqRGo4X3dGbkJBY0c4QnQyTFl0cVYySWNfckhUYUExLUxDN1pEYkp6YTZudEwybWcwSDFNM28wS2wybGxpN01DQkItaXBLSHlVWTZ4U09yd0VUandfS1UtV0ZEQ1RFb0JPM3hYSUNlaWpVUVhUZEN5U1hfRHRnbUN0MGZQY1MxckJKRWVDZkVIZ0N6SXg4YQ?oc=5",
-      "fuente": "Teleantioquia",
-      "fecha": "2026-11-05T11:45:33.000Z"
-    },
-    {
-      "titulo": "¿Nos creen pendejos? Petro lanzó fuerte mensaje tras video publicado por Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakFyeFNGVDJwd3MwWkxtT3QwRVVQWTFqamMxdFlweDVfMTZKdC1ZZTBFNkhfVlRackZyaUpzX1lWRDdzMnlSNmRqN3NYUlg0TVFVQldkSTVUeHNKb0xNbUFiaGVqRDNhZTZXVE9YOEI2eFEyOHpvTWpidlU0WGluYldpcnhLejBlVlViVjMzQTdqNkhqYnlWOEFJelNuVXBoY0RNQ3AzOXZ5dVRoeTdwV0ZNRnhYNUlaVUZ6amVsUW5DLU5YVUM0QVRqWmM3Z3NI?oc=5",
-      "fuente": "Vanguardia",
-      "fecha": "2026-11-05T11:44:00.000Z"
-    },
-    {
-      "titulo": "Jennifer Pedraza habló del video de Deyci Jiménez y Gustavo Petro: rechazó presunta instrumentalización y la calificó de 'inadmisible'",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcnBNYU5YZEE1cExZVk5ibGZrUHhZak1ZLW1JalJNV1YtMzhWd0g5REVoRUJPZDFOUHN0VmQ2dlBVajFWcnBMdF9yOUpIQWZwZkNITE1UbmtTd2J0Q25wTkFxUkIweUpFMkJSdElNbExsc2FlbE1maXktcFlRLVZibzRXSUlZQUx3eWwxNHQxX0FDRjU1dTJuRjg5V0JPWG5EZEJPMHpiNk51d2IyeUhTc2FNcnBvVlZLMVRKWGJESlMxaEpfLTFJbWpDSjNlNC00Wi1OT21GMk1NYXNRakxIRVhXUllUODRiMWtRUmxKak1DMlo1TTJyazg1ODFUeTQ0M3RINElEZnBBWUVGVkNUeUI3bVUtQ2dHbjlKTdIBogJBVV95cUxOTGJIYUl3Tk5BbDczQWR2aFRwZXF3RmsxWkN0NGl0MFAycjR5akMwd3BxaGFXemdsbWQ4SFVVQk9ObVhOeTc1Nm1wVklOU2Y4Mnh1Y3dvTlEwQkZRQjl5YUktcjZsd3ZCendOeURVUU1CMXk0RzRhdmZROGFJbXN3aGl6amFOU3N4TXhpeEI4N0pmQmVwOHNSNTNhOVZEQWpmZlpWc21CczJPenk3WUlhc0d1amlTTFBSVDN4VjF1XzJwNmtXRTFmTlVPaEFPN2NNekFjZnQwRmZJd0xHNXFRcGFUY1Z3VXZCaXdhV2pwMWJpQVhOYW9MTnBTdHY3YU13TEVxUkUxQTVmSlZqV0Y4WDdwLXZCQlFjN2RSdENnbVVOZw?oc=5",
-      "fuente": "El Tiempo",
-      "fecha": "2026-11-05T11:42:49.000Z"
-    },
-    {
-      "titulo": "\"Sucio sería confirmar que pagó por eso\": Néstor Morales, sobre el video privado de Petro con Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1QwV1QxbldEOFBTOE5SR1hfTWJLcFdTUklCVk03elZkc2E4ZjJfb0N1M0xvRkg5cVh1aDFYWlpYUEhpaXlkb3hDX1dqdkR1aTBFMzZDNWEzQzUtY0pKQmJNZUtNd0F4ZVptWE13U1dTYzJxRk10VzRPY0N6R2NEU1YyN3hqRTRvNmFzMjJkMnEzRVNldnVkYnoyR1Bpd9IBowFBVV95cUxPZHV3blduOEdyN08tR29JM1ctdGhnWWJyVDlGQ09uT0c4VHZabWszV2gtUEpydWRXU04yWTdWSWVIZzNoUXI4dXdjMlY1T1B6LXhZSVBpOEg5dUFUc0VvUExfU1h3eVptdW1aaHFmSFhmRWJHMXJwbGtrZTQ1bGtnUUNpU2FlX2g4WGlwd1F6LW9ycy01UlR1Yi1HNUkzNHQ3bEFv?oc=5",
-      "fuente": "Pulzo",
-      "fecha": "2026-11-05T11:42:42.000Z"
-    },
-    {
-      "titulo": "\"No hay corrupción, no hay un contrato, ni un pago\": Petro sobre video con Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEk5T29sWHFsOTVKRWJJVm92Q3ItdzdtZjZOMVhjR1VqWE91ekJKSG1iMFJMY1ljMnNveUVtM1JLczE5OEk2Z3JUR2hGeGI4SXo1cmo2aE5VSWp4WXp5YkRBRGZNRWlMYkxLZ2lvdVJBVURaMUNUaDNEOTY1TW5IeGlacF82MVF0MndLYW5tdVpuRWdJMk8xUlp3allPMHJHWGtMQXRGaTBwSG5wZHZTQ2kwMUU?oc=5",
-      "fuente": "Zona Cero",
-      "fecha": "2026-11-05T11:30:13.000Z"
-    },
-    {
-      "titulo": "'Nadie sabe': Gustavo Petro cuenta toda su verdad sobre video inédito publicado por Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGVmcTVWbm5CczlzVDhoeFhITzktQkNOWG5kcjBMRktnUHpCMEpTUWl1UF9Mb0VnY3VfdC13ZERQbllBaXp3ZEVVSTlJMDRLWXVZbUdSYXU3dGI1TWlGM09iN3Y3dlRiMlMyelhMclEtLThUajFVdTE1bERoQTNqcElrRVdlbG5uVWlrZ05HM1h0QzBOMV94NlI1UWtBY1N6TTkxam1SSlB4V1VsSVJBUVVJakZUMVNkakgzSFNsaUNWNnFqaWF6TVRoWWUtTldMR1cxREl2UTZwQjBv?oc=5",
-      "fuente": "RED+ Noticias",
-      "fecha": "2026-11-05T11:23:47.000Z"
-    },
-    {
-      "titulo": "Petro se pronunció sobre el video de Deicy Jiménez: “Nunca usé contratos del Estado\"",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVU1VTVscmRuV1U1UVdpTy0tNGxGQWVzXzU1MmYzV21JOUN6WTU3a1AzVjhHN1hVREJjNzRRMGZWaVpCRmVZT0JMakhxUzVBaC1KcVdxNjNSN3VFVVNDQVlKX2IxemkwSmZRdk5aTVViNGF3QjB1ZWpFeXNUbERsSlFPVVcxUzg4a1UzYzAtaE9IbEJldUdLbTBlaWsxUUU?oc=5",
-      "fuente": "Minuto60",
-      "fecha": "2026-11-05T11:11:07.000Z"
-    },
-    {
-      "titulo": "Gustavo Petro y su abogado se pronuncian tras video publicado por Deicy Jiménez, que será incorporado a la investigación contra el expresidente",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNX1FVd3A0SlpGS2laZGNwenlwS21xSzV4dVcyOWI1M1RGMDhEMUdGcEs1UXZXbHdTb291cGxXOXZzNUlSZGhkWEdaVWhlWERrSkplOGpFVHQ1NWluUHR4SHRRZWJFMkpOZVpaX0JnRjVhWkQzdWtnR2xlRmVUMTF2Ml9GLXNlS0Y2bEhhR2FnTnZEV3hBTzhIMUdmbFJHaUZLTDhVcmFFbDZ5NFdpdGZ2VVJVc19VSjVYS2N4c3pNclFyNWVzYlZDOEs2UGRWVHA4c2Jnanh4d2Z2UWFjT3lyWGZXLUZnbXFSU28xN21VR2FrQWp3WGxVdXA3blN4V2N1WjBQNm1JSHdzZ2lMQWw3Tnc0M3pmaTFISHRuV3RaZ0hNWWlr0gGqAkFVX3lxTFBWTFlMaHBYZWd3Vi1FVnJYaDlLU2VwbnVGanpQYkNFb1dDMDE0bHBOQ2hGZVJMeks4Sk9KUlJ0Ty1FaUs3TThPMF9hb2w2bDBUZ0t2S1pRaVhNaGJBcE5KcXU2Q20yOV9uWDV0a3VzVXF6NTYzYUQ4X2VIRERJX3NjOVNxdnhBRFhLNTlUZjFORW1Ld0dYdS1hbWEybUZJTGRpekwyNjl4SnA4cVk2SHNxVjBfV3U5Tm9GRnFvTnpRTjZDbEY4dERybWdiQkJldUhEVV9CeWJWTW1TSDZUZkZvUTZ3bnhLaDNibFZDVG5PUGRiNV9iXzFfUkJEYU4yRl9jdGJyUXMxM1FIUU9PTXZXMVd6YXQzdWpuWE1EbUpESk03aUJFcElTVUE?oc=5",
-      "fuente": "El Tiempo",
-      "fecha": "2026-11-05T10:50:19.000Z"
-    },
-    {
-      "titulo": "Petro respondió al video de Deicy Jiménez: \"Nunca usé un contrato del Estado para obtener favores\"",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZFZXeHhVd1o1dGxzbFRkal96Uk03bnFaNFVwUzA4VUgxdmNnSzNZX1ExUENuYndaY2tCcl9TMmdZRXJRMm80YmZCUnBZNzJVT1NyMlZsTUhkczdNWmtMTXp1MTlEdzdiVnFuYzNmQ0NudzNHZWtGV2tWSlF6c2ZtVjBveWpTQWJGY3Vra0R4V2FsQnNiZk93Q00yZ204OWVkVFlLczlHbFBYUjZpdUYxWlRZZWI1STJqX0tXR1dkb18xMDBQaVdveURkb1_SAdoBQVVfeXFMTWt2eUV5Q0szaGdiT1k2aWhaMU1mMWxaVFlPVk0wT3BoRFAxX0VSaVpYdldFenlIczFFNHp2ZU85NjRSWG9wTDBPOXl0V01pazRIZVVrTW5jTGkzS040SDhQS2h2WnBOa3F0WGFPSFJ2R1kwaHlnVHduVm5jaC1JcmNzRDNGa09wRkg3TFduQ20zOTZOZE5LSU93SlA2ZHJNTURBbHh0Wk92WGYwdGdELXdBaVRSb2c5NG0tTWd3b3lUblR1WXBLZVc2YzZZTkU1bG42S3lBWE5nSFE?oc=5",
-      "fuente": "Blu Radio",
-      "fecha": "2026-11-05T10:22:05.000Z"
-    },
-    {
-      "titulo": "Gustavo Petro rompió el silencio tras video de Deicy Jiménez: “No hay un contrato, ni un pago, ni una decisión de Gobierno”",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcVBtRlFZc3pMMWZpcTRBbFlsQ3FucFBWSE9pcm1WMDRybVNMXzhfcklxUW9pdXV6ZG1LX2FiOXdTdF9KWjBYRXRoNk9ZV20yZi1sdGJfcGgyVjRyU0Z2VUJld19adnNxNlliTldzUEF2VnkwWThXYTBPUEJJX2xZNG5GYVNRb3VqQjBwcWRnTkV6dm9mQlVKV2VLbzQ0dldCdlo1ZzRGaFVjNTNLM0phV2pKb2N3aFJRUUMtdzVmWE5iYUtNUjJSQmNMU2NJM21iRDFlUTRWMWRrdGM3SF9HbmwyZTJmUjhwcjdId080ZVhYaTgyTWfSAfsBQVVfeXFMT3BFSDVFczZ5aXByR2RQNlBlWXhhcFh1MGtIMnVJeFpoQ3Z6ZzBmQTFIempzSm5oc3VoRjZoWXRfbXZfUV9DM3JqSXBCZ1RkS3VVVjAtbmZEeWZGb3BaY1dSMGdfZlNZNndVaHFfZ05NME8yZWdjSDZRd1prNm9Jczg0MWNyVDdfZTFoV2NPNUZIUEJUUHRJRi1IMU94TzZ0dVhmZnRxNnZhc0RxVVNzUVFISVQ2X0NpQlNUZ2NWdnJURVAyeGpNMW9mQXNvNGwyMWg3UkM2d1BHMXlEMEF6UmZiajdhaFhnVFY5bmNONE5uSHdJUmtOVW5oZDA?oc=5",
-      "fuente": "El País",
-      "fecha": "2026-11-05T09:59:00.000Z"
-    },
-    {
-      "titulo": "“Quien busca justicia, entrega pruebas a Corte, no a titulares”: Petro sobre video de Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONlltQ2R5UU9RRk1Sc21vN2RnZ20zZkJRNHRFb0dpcy1LZFB0TnYyMnRLaXZMWTF5bTlaV3FpakhTYmxhQjNRbkQ2YTVyZFdXZHB0aDdlT3I4VUZQQ0I2QWpVdTV3cnF0Znc5Y1N4N1U2bF94WkdJQk5yVVhCSVRKQko2TnZNNjZkaVcwVmtNM21ObHZ0alUzZkxHaEZ5emJROFVheU51UDY0QWEzTmZUVHZ2MjRMN2dNZnRILUZJV0pnOWxyV1BkbnZsSdIB3wFBVV95cUxPS0I0cTZpaGJiWTZpSnFqb01tLXhIZGhSNUdsZmZYYVRFcVJ0RXdnMnZjYmFCcXI0YU1jLW05T2tacndCMjQwU3J6M1dpUFpJaDNYdG5hU1NEVFZSSFRGV0hObEhGUUs0VWc3YW1sSm5Tb0VFeFlRT1owNzJOSWxEcWhzbnNtTEdPRW9tbDM2Z1NxeENZbHo1ZDVmNmVld0RqcGc1Y2FNRHYxWXlGS0ktX1RfTkVMV2xVaGRxS1NWVUVadGkyM2JqY3lxX1NLRFA2Q3ZndGdYcDdudUdfaDVn?oc=5",
-      "fuente": "Caracol Radio",
-      "fecha": "2026-11-05T07:52:31.000Z"
-    },
-    {
-      "titulo": "El video íntimo de Petro y Deicy Jiménez: “Lo publico como prueba de que estoy diciendo la verdad”, sobre los llamados \"sexocontratos\"",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUxmUFR4c25VUVJyaVlmb01YU3czVkt6a3JpMldUbWNZd25kVi1Ka3RSeENKSWZxVEhzSjhfbGRIcnBnSmd5SXF2Rm9Tb2RuMXV0WTkwN1VWTE8yd0xnU1hvcXA0RkYxLXRXS2JnaEpHeHdSUVVwMTZMRUg1alhnT2xPV280dVBwcjFPTDRpRXhsTWotc2Z5UVJCQy14UDhPakFseEE1NUttLUZBVzBkZjZlMU5DbVFWZHByYTRZSXBtRExBOWU4NTNmTk12RUlod2haMVJ5cFFObTVhSGVPdThma0RjMl9FQmZVTGJkTm9KUdIB_gFBVV95cUxNNmlPMzR3aTVxR0N6dVBVcUcydWZHNDBzRWgwaF9fQjJubUN0d2YtdG1KYlZsT1l6ZkhtTVVSQ2ZDZmJBWkJlUEpVMHdOZ3lpRms1OEE2NW9xOXdCODFnM2ZLWjBta0t0ODdTWEFqWEZGSHdWOTl3ZHQ4VkY3emxYRUJFaGtGTERqOUlhS1VQSVdfaUcxc0NrRmNwa013X2diNm1YVk5HQ0VGNkR2ZExoT0Eybl8yZXNhek92ZThrM3I2WDVEbm15U2d2ZWY4VEVlWVR5Q1NGUjg3ZER0ZEFJLVJ6QVNoaTJfbk9za0swZThmNURScmxibFdrNnVGUQ?oc=5",
-      "fuente": "Teleantioquia",
-      "fecha": "2026-11-05T06:27:50.000Z"
-    },
-    {
-      "titulo": "“¿Nos creen pendejos?”: Petro soltó explosivo mensaje por video de Deicy Jiménez y habló de narcos",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWNfckFFdWU3dEF5alZINWVmck54LXdsclZTblBuMGhpVW5CRFc4NzlLRFVTY0ZVdGoySEtuRlZUWTQ2Q29wel9jMUhISFd6YkdORVh5MmxvalJ3OFIxU1pVbmp3VVBQNVpKdkZXcV9FZ1pxTUtGRnBIemRmS2dGa3JDRzBvUEJXeFRMUkhoeFJaYzNLZEVBOTd4eWFHWmpo0gGmAUFVX3lxTFBGcXA4aXNwREhPX01TWGd5eGxPM1htWVNCaFVxSjZPdUdyQWRldjVrVzdzbGxHTlBvQnY4TEQ1OEdIbkRCbGotc0JXV1RRNXNyM0NGM1ZPWnpRVElRTlpuUlpVNzQ2WGhvLWZFSUozQVMzdndHLU1xVjlkR0xaUmNidzludDBxNkZLLXFQTml4Nkpma19ib3c5bFBsOUpLd25zRURvTlE?oc=5",
-      "fuente": "Pulzo",
-      "fecha": "2026-11-05T05:35:45.000Z"
-    },
-    {
-      "titulo": "Deicy Jiménez publica vídeo en redes sociales como supuesta prueba de su relación con Gustavo Petro",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYXdTeFp5dTRDdzdfeDcyVThDdUhuTzVHSmR6Z0hLZWRFemNKcnUwN05yOGZRZjdEU3hpeWdJZ0czcG5kS2tZUVA5bFhKS1FFdVpWbjFyRS1oN2wzUkJVeE41ZXJ4azAtRHdiWlR0NkQ0dHFVZXFSWm5fdVJMdTExLUFxeVpTQlNFSFNlX2lySUwyT1cyaGx2RXdvTVZpVnM2U0c3UmMtZ2c1VGFGdWRvRU52d29LYnJaVFE?oc=5",
-      "fuente": "ELHERALDO.CO",
-      "fecha": "2026-11-05T05:05:02.000Z"
-    },
-    {
-      "titulo": "Defensa del expresidente Petro cuestiona video de Deicy Jiménez: \"no es una prueba\"",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXZEQ0dIQjVZd0hMX1QwdjFHckR3Z01QVXljU0ZiOXZDSkkya0daN2NpNGQ5LUIxQ1A3N24tOXdaYWFMZXhyVW1XcmNmeTJfY0VUVkZFOUhYM1BSWmpuTkFrXzI5RTRWNXhZS0x5S1pHeEx6bUd2eUVMdzlKNVhzRmtZSElGeDI0STRJSy1oZGYzYUFWMVVQY2l0dGQ3bHZxOTNXQnNwTGthNU5Va3J4a21NZ2Yza3dJUEI2aW02eHZhcFFHQ2RhazlB0gHKAUFVX3lxTE14TnZQb0VjV0VvdGRwMmV3VVRJXzljcVljbVZzSmk4NlExbzJtT2tDRmpOb0Q3TlBGNjIzQmVNQUkyUkVGQnZsUXdERlE2MnRXLWNUMVdaU3N4S3QtZUhWUW9lNHpmUXVfc0ZCdGZyS3RST3czYmhjcHg1R1c0bFJQM1pYa0cyeU4tWEROWnVxV0Z1bWU1QzZzQ3FxOFlScHItMEl6WjZ4TkZEald3U1pzWF9ybGRhandJcDNqQkhqMV9HV3FNVk5nS1E?oc=5",
-      "fuente": "La FM",
-      "fecha": "2026-11-05T04:48:57.000Z"
-    },
-    {
-      "titulo": "\"Responderá\": abogado de Petro sacó comunicado luego de video que publicó Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVXbVZQZEY2VDB5WU84NThGNURQMUhjZjVpR29WTXNYb3lBQnRLZ2tPX1haWF9IaGtVYlVsZjVreHV0TUVXcUNSMWktbGFFc21tNVFRdUJTMkFhcUVKVmtjcE1XcGdObFhEMEdSTW9zTnVReW9yOTUwdnVaMmVZOFo4aktDYkt3Q3dVRXdrTVBQQXZYYl8tU2lLSGN0eU00MFBDRVE5d2Ywd9IBrwFBVV95cUxNZm0xU0R2OWFENXpkcHRwXzdwZFN6OC1na3p0a1F1eUQ5R0RxMzRtWjNOX1lIUDdiZHQ0WFBPNVhvNHJoa0plZjJENVcxak42ZTFsVFdyRVVUNUpxalpUa3l4MlhfdElFNEZhaGxRT21yTms3eWN4dFJiOWFERFdBLXlsYXJBVGQ2blQ4VHIwcjF5VnVpMmQwWC1LSElGUlpaZ3RhQVlYSFFNQktDM1hn?oc=5",
-      "fuente": "Pulzo",
-      "fecha": "2026-11-05T04:44:04.000Z"
-    },
-    {
-      "titulo": "Deicy Jiménez publica un video que prueba su relación con Gustavo Petro en medio del escándalo de los ‘sexocontratos’",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX3FWVk5zbVN3Mlp5TU55anRqQThuQl9pSUEzbGtQTGFIdnRJeFNFRTRONVl5alUzc21kT2ZUaDJaenNtOVREWUhhQUNpZkF4eElFXzh0ZzBlOFBkYzF0MldBVTJmeFM5ck5Jb0h5djJ4T2h3bFJpS1VIdkpXenU2ZG1ueFVQMktzem1jS2s0TXhaTDZLWmpFbW1CWW4xUDNCS0tyWS0xMzhzZnBndl9BT21LOTFTdTVxb1ZybkxtSW85d244TFhYNkZ0VHg1VWpJVWtGTG4zZnBQTGF1aDJZZDNpbDVSd3FUU0ZlU2ttQU1PdXdZa0xF0gH8AUFVX3lxTFBpLTFXamFtM0ZaakhBMFNGSGlsclZnT1UxZjdUZFpHd0pqRkM5c0xoZXpkR0ZKU2U5eFNlS2w2b2xQUS13OHd3eEJFN2dNaDVGeXV2LVhuR1lEMFVEb1ZXN2sxRlZIZjZiOThSUHloVlJJQTE0ZWo0dmhOaklHalNLN1hrM2JtSGZOWkZUODZCV0V2UTNIMTdJdmdDME5QTTJYNDBpb2ItU041SVdVUFE2RmdxMW1fdW5ZV2hTS0tVQ0ZBMjYxWTVHWFp4X0ZXVmxrVEpaMXVFYWstYjJXQXNaSEp5cFAza19uM0xqMi1Lbl9pLTZ0U3VycEZTUQ?oc=5",
-      "fuente": "Revista Semana",
-      "fecha": "2026-11-05T04:40:01.000Z"
-    },
-    {
-      "titulo": "Deicy Jiménez publicó video en el que aparece Gustavo Petro y lo presentó como prueba de sus denuncias",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUnFpQTMxQXUxWDlDSnFicTJLRkhwNDMyaU1ZbjJSaUV6UDBpSW9yY2ZKelVGNkg4LUdpQV9TbWczWGpaWVpMR0RHd1M5N09zWVRKZ3BtRU10OEZmSF8teDA5ajItNWxnM1pUS1NPbzg5UFVMRW54ZjZKYmN6cFZLNEU3RFFHdFM1eWlsVDhDYWRIMXQ5U042d2ZSelQ1blF1N0NIb3UwTC1xTnQxaXJLcGhQN19PbERJV3FCVWQyNEJWZ2VoYXRkVjdENTVXbUMxRUNVMC1NeXRRUm02V3VLQ1plMXA?oc=5",
-      "fuente": "Vanguardia",
-      "fecha": "2026-11-05T04:30:00.000Z"
-    },
-    {
-      "titulo": "Deicy Jiménez publica video de supuesto encuentro con Petro",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc2dwVUJtREhmbk93ek43Wk4zN3dJT2ZlcWZqeVdhVzZpZjhibjBVQXFrRjIxdzJtZXVMdFFGY21HQ2VRb2FGZlZDY3ZlNXZuNlBRVW4zQlNMVUg5THk5V2luN3h1akk2SnlITVltS2kzcXBRYTlmWnVYajNGT3NFYVdZNVZaYmpQTm81Sk0xM0U1c2F2VnVSNTJFS1BieVZ3RHJrOWYxN25OSHlIUFdTeGVPVmx3NXg1QUIzWDV2bl9ka3pyNEE2UWlHLTZZWXdtcG1KdA?oc=5",
-      "fuente": "El Norte",
-      "fecha": "2026-11-05T04:12:25.000Z"
-    },
-    {
-      "titulo": "Los 10 detalles de la grave denuncia de Deicy Jiménez contra Petro y los ‘sexocontratos’",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUnZRUm5WeVY5OWcwVUc2c3VGeVBpY1hmbElmS1hURTI2ZzkzcUFmd2NaTlppbnp5eFNLQU5zaTNaOFVzTVgxdmVjN00wRWhRRnJ4bkI3TldDM1BaZUdFTkx2WHBzRmdCM2NHOEliS1pxckJ3QURnMHdTZVpLVXJjWklUWDNFd0xleTFJNUNHTE5pQlpHSTdpcHJMUmdfNzgzR1F1TDd4d3NjekxUTnRvdVJEVUoyOTg1a0RRU3p6bmZhcHVZcGNiVWlXWE1WSUhQ0gHWAUFVX3lxTE5QU2RQaXpTa1RsUGZ5UnQ5MzFUZGlWQnItNl9uNjZYU0o2bTlTeVRheVVFMUdUSFZodHV5TmYzZnAtUW5xeTFXQk1LUll2RkxmTjBnZnFpaVliTk9oSjA0d2M3ZG9LdEtONHctbFdfYkpxaXhrX1pWWkljeHRTdkM5U19BSUMtU1l0MURkRmQ4UGtldnlnbXVCXzQ5NVZjakhkODZGb0tOeTFST3FqTVBELV81ZUtCalNBYU8xLUpMb1pxX0IydU8zaE02N0NMNnZzYmVmMUE?oc=5",
-      "fuente": "Revista Semana",
-      "fecha": "2026-11-05T04:09:32.000Z"
-    },
-    {
-      "titulo": "Muestran fotos con las que denuncian perfilamiento a Deicy Jiménez tras denuncias contra Petro",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2R1eVh4eDJNN3BYaFNGai11YTJ1R3BabTdobHQyR1B4NHNmRGh4Y29STXBudEVfM2xOc2dicks5WUptbHpXMGhLd1RWaDh5a09DRXlVYnBrSS00eWlPOEV1UnRJUUxvaXhXWk5FNDZsRmtrTDBBQkV3eWg0c0duWUEzZkJsY2M3MGRLMUlpVGNEYnVYa1VQVS0xOUsxUjZ00gGmAUFVX3lxTE5mcnJlRzJJS3JHZi1BaHd1LWROcHUwa3JLZjBKaUY4eVlyYnlkNlJVRElmekFfa1ZSREFzN1VNdWpJSHJqa204MUV1OF93VWZrM28wb2htNV9nTTJMSERZOEVrQXRTNzVwUGYtVU9VOWxkVG9MenVqekM5TFp6XzdyN0tiQ1k5bk0tc0xfU1Z4SkJKeVBPTmlZLUEwNVJjRjlBLVZqOWc?oc=5",
-      "fuente": "Pulzo",
-      "fecha": "2026-11-05T03:51:38.000Z"
-    },
-    {
-      "titulo": "Video de Deicy Jiménez y Petro tendrá nuevo destino; su abogada confirmó siguiente paso",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkVlWkkxaFFCdnFlVVlEUWRMU2R1WlJBR3RzMXhWOS1mOW1KU21USTNUV3pZemRUblZWMFVUV2x5RVBWdEVyQjRoVHd6RmZsZWJIUUU4RXdUd3htOUJiTTJkZTVEdWM5QzFUMU1kZmVVY3hBWjBNMl9FY1M4enhoc2FHZnpMM2JzejRmQnJWVVJQWWFzdXJrLXByRWtrNEk1UjhSSVFn0gGrAUFVX3lxTFBnaWR1cGVBejlXdjl6czgwLTJvZEk3d1U0dy03V0NtVFJ4enV3ZUpTMXhJay13NVUxQU8tVUg0LWtDUTdsMFo5eUxDaV9qamlLNHVwVENEcS1taVNqbFIzODB1MXV1NVdVZUFOLUxnT0RIcXJTS0R0U25sejROUGFOQlhtODFsdEk4aXl0OVlQWWdOTkpTekl3cDBfdjA5MmpaUjRNSUdwV1NHaw?oc=5",
-      "fuente": "Pulzo",
-      "fecha": "2026-11-05T03:43:32.000Z"
-    },
-    {
-      "titulo": "'Responderá': Abogado de Gustavo Petro, Alejandro Carranza, se pronuncia en su nombre tras video de Deicy Jiménez",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQenJVMmI3LVpvb3ZSUGZxakJVRzU2dWVic0xwb1kxVkVKZTl1czlwYkxGYk4tcDZCSTlaRy1wTnpKR2hMZnVmUjBpSzN0b2pvT2tIemdPR2ZiYTZoelhrQ3YzYW8zYlRNaUpxRnVYWjRqNTlYOHZOUUZIa05ObFVmVmJhYUtEN2duUHRZeEN5c0YwNG9VdVRXWmZsRW5MT0FLUVhqb21iXy04ZGUweURTaXVXUEZ5RUU5YjAzUDZYZkZvVHd4MlpsNnBFWUlLNUgzZ2s4MDlkdzg3aldGYmxnaFRUT0NNYS1RU0hDRGtkNA?oc=5",
-      "fuente": "RED+ Noticias",
-      "fecha": "2026-11-05T03:35:14.000Z"
     }
   ]
 }
