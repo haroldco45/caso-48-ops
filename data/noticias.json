@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T02:24:29.044Z",
+  "actualizado": "2026-11-26T11:21:08.244Z",
   "noticias": [
     {
       "titulo": "Carlos Ríos, director del Dapre, se refirió a las denuncias de 48 mujeres: “Todos tienen que caer, no solamente Petro”",
@@ -18,6 +18,12 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOOEpWMW55dnRFYjR5TlpNOG5vYWdDT2s5VENZVzNWWlgxZjJLV0JXT3AtS3JtRkNlMW5iQlpndXRpOVItbmw4bExWTUhDenpmOE1QWE9leG9jbjNjNzh0MmMzM0JoRENzM0d4UlZNbXFRZ0N5eHpoc01XU3F3NEFSZWtGUWRCNHVTRE5aaXFFWkFFS0dySDJaVzVoeG9Ealc0RGxUd2cyYk9RbXVxN1hJLVVzSDRDZUxPbkZ2bWRUTVFUNl9Nam1ZOVJmX3RlUGtKSzU4dVQ5MENzdzI2NnQ4XzNXbW1aV0ZuR1ZnaTV0blMxSkpYdGVOVlVxV08xam44dTZ6OWFVRnY1TWxfcFp2amlJRGJjRHBVZ0w00gG2AkFVX3lxTE9zcnFHcTM3UFh6TVp6RndkZFk0b1gzLVd3bEF5YVVEVW0yZkxzRTFKNUtLWjFWU01CdkNla0N1amVrSEFKYnJrbEdsUExyMGFDNDFDd3N5aEhLVE1Cekk1UUdvU3c3YmNvUjA0TW5IX2lfMEJOQjBHUzdkUXAwVV9Db3FGQ0JuVnVKa01DMUlhcnE5QnRrTU9QMUpOdTFZQVp0aWcwbElOMl9GQm1OZEs4R1J0UWZPTUVkNEcwWTR6Z2RpeTJRcFBEN3pOYTA1TTdiUnR5NENkUU5CdXdMVEdHdlNTa0dvZU5VT2JIQUtZMU5IR0N4QW9fVGE1c1NJX1ByNUhKNExoQVBXM3NQZkpIekF0TEljb0o3WGpsWExxdHJkZWJkd3M5QkZDaFNad2plZzYzclE?oc=5",
       "fuente": "Infobae",
       "fecha": "2026-11-25T21:17:00.000Z"
+    },
+    {
+      "titulo": "Jessica González le pone plazo a Deicy Jiménez: 48 horas para retractarse o va a la justicia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc3FtWGhJT3lOdTJjcUlxQkVYY00ya0cwNnhHTjI1Qkc5RmhFZkpzdEdtTEROMUQ2UkNTVjhMQ3VnN3dPRkNYbF9keUlrWDNPTEhrTC1LN1UtNFVXVThJR2JzVXdOOWVCOWluaWw5R3pmZnhyR3RZaVNxQkN2WFZ5SFc2dw?oc=5",
+      "fuente": "Minuto30",
+      "fecha": "2026-11-25T20:37:20.000Z"
     },
     {
       "titulo": "Los contratos de Deicy Jiménez ponen bajo presión al Pacto Histórico y a Gustavo Petro",
@@ -714,12 +720,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWG1aSTlwLXVYd0ItbWFDTkR5VUhzX3d5enNoT0N3VGp0dV82dTB1Q1lPeTd4bnR6UkY3R2plTDVYY2lLdVExSWRibTlwWWMwV2FmdXBYRlM1YXBYQnV2elpWTzlmbkZYMGlNTUNweWlzNmt6LXYxRWFxWFRCaFBLNkljZDJXR0QzaVBodExiaC1fYTBYdXViTnJhUHNVUWpfY3dmSGM2X1Z5bzhicnlPNEJWX1NaZEdpb3JrcHlOTVJOWVNDZ05OOUR1VVM0MUpqaDZTenF3VE5vRkx4cHZ5T0hPa0xqSXNaVFR4TGI3ZW1XQnc4OFBDTmFsTmNTb2dCNW05Vm9JUUxrUFdVODh5S05iTXdCaDFNdVRNSkRHdWZQNjcyRzZlYg?oc=5",
       "fuente": "El Tiempo",
       "fecha": "2026-11-12T22:21:00.000Z"
-    },
-    {
-      "titulo": "Chats atribuidos a Gustavo Petro sugerirían que gestionó un cargo para Deicy Jiménez en el Hospital San Juan de Dios: “Me pidió vincularte”",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdEI2OFlOckRIRk9XOGc3MmMweF9SQ0JpV0NvM2l3aVJLVEZiN2M0dFB5YnZrN082YnZTT2hnd2poUmJLU0ZNUXFUOWdZZjF3eXBNdkpXQWphVE84R3ozbjlWZTd1eXlia1VsT1NNRzl1SGU4SUVibURScS1LYjRhU1dUUk9yeERxUEZKY3VjRFgtRE1JUDZSXzNwRmVGU2JKNkcxRmpVVVdSQ0FNcm5pZDdkV2NZYktEdVJSU1F4M1ctSndzRWk5S09OU2RlV3VLZXpPOHVfT0VZNktEQmxMbGJCbzNKd1ZIMDFmcWlUcS1keWxGOWF2c2E2MXA2ekI3Vk1iV0pVajZCbU1MdWfSAagCQVVfeXFMTWNkcmRvaEJOSnQxaEVMbXRDd3ZEOWlzNkkwcUZuOUJUVDBuUXhkWFNBU1Z0a1haRnk5V2VyTEh4cC1vb2RsWEtGY1JhVFBJQkdBZDlfNWdvb0xZMGl0Q2RlbFREZDQ0XzVGMWpOc1hSVGR6RGdlZlZhaFhENVdkR3ItZ2poTkxxZmF3RVFlekVPQ1VyOXlraVc1a3h3R1VrcFRrdV9hYnJZUVZoNFVOMjczVWxVUHA0VW4yOTVyTGY2cTZ2d3VkWXZUMHduODRjLVNXRGtxazFlUFNFVzdJNXFzcUdsWURPbmtWNEUxcDBvUEdFYllxbEJMTkJlOVFfRGdOVUJmSEFva2U0cXJyYUJFTEZ0NUZsV1lhQ2NyOWZDY2lDM2F2alI?oc=5",
-      "fuente": "Infobae",
-      "fecha": "2026-11-12T22:19:00.000Z"
     }
   ]
 }
